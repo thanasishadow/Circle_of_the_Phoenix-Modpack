@@ -1,0 +1,35 @@
+{
+    "name": "Advanced Slate Altar",
+    "icon": "thebetweenlands:betweenstone_pillar",
+    "category": "Multiblocks",
+	"sortnum": 3,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Turning an Enhanced Slate Altar into an Advanced one requires materials found in a dark dimension but doing so allows the altar to alter even more kinds of blocks. For this upgrade, you will need:$(li)4 Bloomcrystal Rock$(li)12 Betweenstone Pillars$(li)4 Mud Brick Flower Pots$(br)   With Candles"
+        },
+		{
+            "type": "multiblock",
+            "name": "Advanced Slate Altar",
+			"multiblock": {
+				"pattern": [
+					["M   M", "     ", "     ", "     ", "M   M"], 
+					["L   L", " T T ", "     ", " T T ", "L   L"], 
+					["L   L", " CSC ", " S0S ", " CSC ", "L   L"],
+					["B   B", " NNN ", " NRN ", " NNN ", "B   B"]
+				],
+				"mapping": {
+					"S": "rustic:slate_tile",
+					"C": "rustic:slate_chiseled",
+					"T": "totemic:totem_torch",
+					"N": "minecraft:soul_sand",
+					"R": "contenttweaker:hellfire_rune",
+					"M": "thebetweenlands:mud_flower_pot_candle",
+					"L": "thebetweenlands:betweenstone_pillar",
+					"B": "midnight:bloomcrystal_rock"
+				},
+				"symmetrical": true
+			}
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "contenttweaker:blocks/history_ore"
+    },
+    "model": "cube_all",
+    "uvlock": true,
+    "transform": "forge:default-block"
+  },
+  "variants": {
+		"normal": [
+			{
+				"x": 90
+			},
+			{
+				"x": 180
+			},
+			{
+				"y": 90
+			},
+			{
+				"y": 180
+			},
+			{
+				"x": 90,
+				"model": "cube_mirrored_all"
+			},
+			{
+				"x": 180,
+				"model": "cube_mirrored_all"
+			},
+			{
+				"y": 90,
+				"model": "cube_mirrored_all"
+			},
+			{
+				"y": 180,
+				"model": "cube_mirrored_all"
+			}
+		],
+		"inventory": [{}]
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Lavawood Alteration",
+    "icon": "tconstruct:firewood:1",
+    "category": "Tier 2",
+    "pages": [
+		{
+			"type": "slate_altar_T2",
+			"title": "Lavawood Alteration",
+			"input1": "contenttweaker:flamablepowder",
+			"block": "tconstruct:firewood",
+			"output": "tconstruct:firewood:1"
+		},
+		{
+            "type": "text",
+			"text": "Normally, turning a piece of lavawood into one of firewood would require two piles of crushed blaze rods. Enhanced Slate Altars are able to draw power directly from the nether. So the only addition you need is a pile of Flammable Powder."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "§dMusic Disc",
+  "shines": true,
+  "max_stack": 1,
+  "music": "additions:cof-furioso_melodia",
+  "description": "§5furioso melodia",
+  "type": "additions:record"
+}

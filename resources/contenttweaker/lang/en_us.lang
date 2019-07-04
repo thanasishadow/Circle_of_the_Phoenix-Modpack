@@ -1,0 +1,63 @@
+#ITEMS
+item.contenttweaker.flamablepowder.name=Flammable Powder
+item.contenttweaker.enchanted_lapis.name=Enchanted Lapis Lazuli
+item.contenttweaker.not_that_dull_dust.name=Not that Dull Dust
+item.contenttweaker.ash.name=Ash
+item.contenttweaker.herbal_blend.name=Herbal Blend
+item.contenttweaker.crushed_fungi.name=Crushed Fungi
+item.contenttweaker.chalk_powder.name=Chalk Powder
+item.contenttweaker.philosopher_stone.name=Philosopher's Stone
+
+item.contenttweaker.skill_shard_druidry.name=Druidry Skill Shard
+item.contenttweaker.skill_shard_cosmomancy.name=Cosmomancy Skill Shard
+item.contenttweaker.skill_shard_hemomancy.name=Hemomancy Skill Shard
+item.contenttweaker.skill_shard_tinkering.name=Tinkering Skill Shard
+item.contenttweaker.skill_shard_brewing.name=Brewing Skill Shard
+
+item.contenttweaker.skill_orb_druidry.name=Druidry Skill Orb
+item.contenttweaker.skill_orb_cosmomancy.name=Cosmomancy Skill Orb
+item.contenttweaker.skill_orb_hemomancy.name=Hemomancy Skill Orb
+item.contenttweaker.skill_orb_tinkering.name=Tinkering Skill Orb
+item.contenttweaker.skill_orb_brewing.name=Brewing Skill Orb
+item.contenttweaker.skill_orb_magic.name=Magic Skill Orb
+
+item.contenttweaker.small_square.name=Small Square
+item.contenttweaker.large_square.name=Large Square
+item.contenttweaker.small_square_with_lines.name=Small Square with Lines
+item.contenttweaker.small_circle.name=Small Circle
+item.contenttweaker.medium_circle.name=Small Circle
+item.contenttweaker.large_circle.name=Large Circle
+item.contenttweaker.wyvern_star.name=Wyvern Star
+item.contenttweaker.magic_circle.name=Magic Circle
+item.contenttweaker.logo.name=Logo
+
+item.contenttweaker.midnight_rift.name=Portable Midnight Rift
+
+
+#BLOCKS
+tile.contenttweaker.enchanted_lapis_block.name=Enchanted Lapis Lazuli Block
+
+tile.contenttweaker.upgrade_rune_iron.name=Iron Upgrading Rune
+tile.contenttweaker.upgrade_rune_gold.name=Golden Upgrading Rune
+tile.contenttweaker.upgrade_rune_diamond.name=Diamond Upgrading Rune
+tile.contenttweaker.upgrade_rune_copper.name=Copper Upgrading Rune
+tile.contenttweaker.upgrade_rune_bronze.name=Bronze Upgrading Rune
+tile.contenttweaker.upgrade_rune_platinum.name=Platinum Upgrading Rune
+tile.contenttweaker.upgrade_rune_manasteel.name=Manasteel Upgrading Rune
+tile.contenttweaker.upgrade_rune_terrasteel.name=Terrasteel Upgrading Rune
+tile.contenttweaker.upgrade_rune_elementium.name=Elementium Upgrading Rune
+
+tile.contenttweaker.hellfire_rune.name=Hellfire Rune
+tile.contenttweaker.spellready_rune.name=Spellready Rune
+
+tile.contenttweaker.ash_block.name=Ash Block
+tile.contenttweaker.ash_charcoal_ore.name=Charcoal Ore
+
+tile.contenttweaker.ash_leaves.name=Ash Leaves
+tile.contenttweaker.charred_log.name=Charred Log
+
+tile.contenttweaker.history_ore.name=History Ore
+
+
+#TAB
+itemGroup.BewitchedWorld=Circle of the Phoenix

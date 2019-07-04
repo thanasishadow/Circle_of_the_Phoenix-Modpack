@@ -1,0 +1,18 @@
+{
+    "name": "Sand Alteration",
+    "icon": "minecraft:sand:1",
+    "category": "Tier 1",
+    "pages": [
+		{
+			"type": "slate_altar_T1",
+			"title": "Sand Alteration",
+			"input1": "minecraft:dye:1",
+			"block": "ore:sandstone",
+			"output": "minecraft:sand:1"
+		},
+        {
+            "type": "text",
+            "text": "Sometimes one just wishes for a bag of red sand either for aesthetic purposes or for its magical properties. Thankfully, a basic slate altar is enough to not only tint but also crush a piece of sandstone. This process requires just a bit of red paint."
+        }
+    ]
+}

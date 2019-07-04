@@ -1,0 +1,32 @@
+{
+    "name": "Crystal Alteration",
+    "icon": "tconstruct:materials:9",
+    "category": "Tier 2",
+    "pages": [
+		{
+			"type": "slate_altar_T2",
+			"title": "Crystal Alteration",
+			"input1": "minecraft:slime_ball",
+			"block": "plants2:crystal",
+			"output": "tconstruct:materials:9"
+		},
+		{
+			"type": "slate_altar_T2",
+			"title": "Crystal Alteration",
+			"input1": "tconstruct:edible:1",
+			"block": "plants2:crystal",
+			"output": "tconstruct:materials:10"
+		},
+		{
+			"type": "slate_altar_T2",
+			"title": "Crystal Alteration",
+			"input1": "tconstruct:edible:4",
+			"block": "plants2:crystal",
+			"output": "tconstruct:materials:11"
+		},
+		{
+            "type": "text",
+			"text": "Bringing together pre-existing crystals, balls of slime and a bit of hellish heat can help you save up a variety of earthly materials.$(br2)*This alterations works with any type of 'plants2:crystal' block."
+        }
+    ]
+}

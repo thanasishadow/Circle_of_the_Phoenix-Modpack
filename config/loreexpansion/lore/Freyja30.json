@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Freyja6",
+    "category": "global"
+  },
+  "content": {
+    "title": "30th April (Freyja)",
+    "body": "[…] I am sensing malice around my colleagues and the Masters […] although this can not be said for all of them.",
+    "autoplay": true
+  },
+  "sortingIndex": 6,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

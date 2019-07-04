@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Eudemus4",
+    "category": "global"
+  },
+  "content": {
+    "title": "28th April (Eudemus)",
+    "body": "[…] My dear friend, Gallen visited me during the night. […] To my surprise, he was against the idea of […] Sadly, my only option now is a mind control spell.",
+    "autoplay": true
+  },
+  "sortingIndex": 39,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Tlachtga1",
+    "category": "global"
+  },
+  "content": {
+    "title": "24th April (Tlachtga)",
+    "body": "[…] My apprentice has shared with me information about a curious idea which just reached the council. I wonder if I should share this with my fellow Masters […]",
+    "autoplay": true
+  },
+  "sortingIndex": 25,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

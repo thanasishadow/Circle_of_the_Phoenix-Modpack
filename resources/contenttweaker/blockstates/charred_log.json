@@ -1,0 +1,23 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "cube",
+		"textures": {
+			"up": "contenttweaker:blocks/charred_log_top",
+			"down": "contenttweaker:blocks/charred_log_top",
+			"south": "contenttweaker:blocks/charred_log_side",
+			"east": "contenttweaker:blocks/charred_log_side",
+			"west": "contenttweaker:blocks/charred_log_side",
+			"north": "contenttweaker:blocks/charred_log_side",
+			"particle": "contenttweaker:blocks/charred_log_side"
+		}
+	},
+	"variants": {
+		"normal": [{"all": "contenttweaker:blocks/charred_log"}],
+		"inventory": [{}],
+		"axis=y":    { "model": "contenttweaker:blocks/charred_log" },
+        "axis=z":     { "model": "contenttweaker:blocks/charred_log", "x": 90 },
+        "axis=x":     { "model": "contenttweaker:blocks/charred_log", "x": 90, "y": 90 },
+        "axis=none":   { "model": "contenttweaker:blocks/charred_log_side" }
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Dark Pearl Alteration",
+    "icon": "midnight:dark_pearl_block",
+    "category": "Tier 3",
+    "pages": [
+		{
+			"type": "slate_altar_T3",
+			"title": "Dark Pearl Alteration",
+			"input1": "minecraft:clock",
+			"block": "midnight:dark_pearl_block",
+			"output": "contenttweaker:midnight_rift"
+		},
+		{
+            "type": "text",
+			"text": "This is a rather powerful alteration which infuses a block of dark pearls with a symbol of time. The result is a pocket portal which can be summoned anywhere, anytime. But keep in mind that this item can only be used once."
+        }
+    ]
+}

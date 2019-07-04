@@ -1,0 +1,13 @@
+{
+  "display": {
+    "icon": {
+      "item": "dimdoors:fabric"
+    },
+    "title": "A new begining",
+    "description": "or is it?",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "x": 0,
+    "y": 0
+  },
+  "start": true
+}

@@ -1,0 +1,616 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "books",
+  "items": [
+    {
+      "weight": 4.6146769523620605,
+      "min": 1,
+      "max": 9,
+      "item": {
+        "id": "minecraft:paper",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thebetweenlands:items_misc",
+        "damage": 32,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "astralsorcery:itemknowledgeshare",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "astralsorcery": {
+              "nbtType": "compound",
+              "nbt": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.028885602951049805,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "tombstone:strange_scroll",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0010694180382415652,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "mystcraft:page",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "linkpanel": {
+              "nbtType": "compound",
+              "nbt": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0019995670299977064,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "mystcraft:vial",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0034870589151978493,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "mystcraft:folder",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Pages": {
+              "nbtType": "compound",
+              "nbt": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0019995670299977064,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "minecraft:feather",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.3419337272644043,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "tconstruct:battlesign",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StatsOriginal": {
+              "nbtType": "compound",
+              "nbt": {
+                "AttackSpeedMultiplier": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "MiningSpeed": {
+                  "nbtType": "float",
+                  "nbt": 0.51
+                },
+                "FreeModifiers": {
+                  "nbtType": "int",
+                  "nbt": 3
+                },
+                "Durability": {
+                  "nbtType": "int",
+                  "nbt": 6
+                },
+                "HarvestLevel": {
+                  "nbtType": "int",
+                  "nbt": 0
+                },
+                "Attack": {
+                  "nbtType": "float",
+                  "nbt": 0.05
+                }
+              }
+            },
+            "Stats": {
+              "nbtType": "compound",
+              "nbt": {
+                "AttackSpeedMultiplier": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "MiningSpeed": {
+                  "nbtType": "float",
+                  "nbt": 0.51
+                },
+                "FreeModifiers": {
+                  "nbtType": "int",
+                  "nbt": 5
+                },
+                "Durability": {
+                  "nbtType": "int",
+                  "nbt": 6
+                },
+                "HarvestLevel": {
+                  "nbtType": "int",
+                  "nbt": 0
+                },
+                "Attack": {
+                  "nbtType": "float",
+                  "nbt": 0.05
+                }
+              }
+            },
+            "Special": {
+              "nbtType": "compound",
+              "nbt": {
+                "Categories": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "weapon"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "tool"
+                    }
+                  ]
+                }
+              }
+            },
+            "TinkerData": {
+              "nbtType": "compound",
+              "nbt": {
+                "Materials": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "paper"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "paper"
+                    }
+                  ]
+                },
+                "Modifiers": {
+                  "nbtType": "list",
+                  "nbt": []
+                }
+              }
+            },
+            "Modifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "identifier": {
+                      "nbtType": "string",
+                      "nbt": "writable"
+                    },
+                    "color": {
+                      "nbtType": "int",
+                      "nbt": -1
+                    },
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "writable2": {
+                      "nbtType": "byte",
+                      "nbt": 1
+                    },
+                    "writable1": {
+                      "nbtType": "byte",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            },
+            "Traits": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "string",
+                  "nbt": "writable1"
+                },
+                {
+                  "nbtType": "string",
+                  "nbt": "writable2"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 3.5707483291625977,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "tconstruct:shuriken",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StatsOriginal": {
+              "nbtType": "compound",
+              "nbt": {
+                "AttackSpeedMultiplier": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "Accuracy": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "MiningSpeed": {
+                  "nbtType": "float",
+                  "nbt": 0.51
+                },
+                "FreeModifiers": {
+                  "nbtType": "int",
+                  "nbt": 3
+                },
+                "Durability": {
+                  "nbtType": "int",
+                  "nbt": 27
+                },
+                "HarvestLevel": {
+                  "nbtType": "int",
+                  "nbt": 0
+                },
+                "Attack": {
+                  "nbtType": "float",
+                  "nbt": 1.05
+                }
+              }
+            },
+            "Stats": {
+              "nbtType": "compound",
+              "nbt": {
+                "AttackSpeedMultiplier": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "Accuracy": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "MiningSpeed": {
+                  "nbtType": "float",
+                  "nbt": 0.51
+                },
+                "FreeModifiers": {
+                  "nbtType": "int",
+                  "nbt": 5
+                },
+                "Durability": {
+                  "nbtType": "int",
+                  "nbt": 27
+                },
+                "HarvestLevel": {
+                  "nbtType": "int",
+                  "nbt": 0
+                },
+                "Attack": {
+                  "nbtType": "float",
+                  "nbt": 1.05
+                }
+              }
+            },
+            "Special": {
+              "nbtType": "compound",
+              "nbt": {
+                "Categories": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "projectile"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "no_melee"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "tool"
+                    }
+                  ]
+                }
+              }
+            },
+            "TinkerData": {
+              "nbtType": "compound",
+              "nbt": {
+                "Materials": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "paper"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "paper"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "paper"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "paper"
+                    }
+                  ]
+                },
+                "Modifiers": {
+                  "nbtType": "list",
+                  "nbt": []
+                }
+              }
+            },
+            "Modifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "identifier": {
+                      "nbtType": "string",
+                      "nbt": "writable"
+                    },
+                    "color": {
+                      "nbtType": "int",
+                      "nbt": -1
+                    },
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "writable2": {
+                      "nbtType": "byte",
+                      "nbt": 1
+                    },
+                    "writable1": {
+                      "nbtType": "byte",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            },
+            "Traits": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "string",
+                  "nbt": "writable2"
+                },
+                {
+                  "nbtType": "string",
+                  "nbt": "writable1"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 4.065970420837402,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "tconstruct:broadsword",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StatsOriginal": {
+              "nbtType": "compound",
+              "nbt": {
+                "AttackSpeedMultiplier": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "MiningSpeed": {
+                  "nbtType": "float",
+                  "nbt": 0.51
+                },
+                "FreeModifiers": {
+                  "nbtType": "int",
+                  "nbt": 3
+                },
+                "Durability": {
+                  "nbtType": "int",
+                  "nbt": 8
+                },
+                "HarvestLevel": {
+                  "nbtType": "int",
+                  "nbt": 0
+                },
+                "Attack": {
+                  "nbtType": "float",
+                  "nbt": 1.05
+                }
+              }
+            },
+            "Stats": {
+              "nbtType": "compound",
+              "nbt": {
+                "AttackSpeedMultiplier": {
+                  "nbtType": "float",
+                  "nbt": 1.0
+                },
+                "MiningSpeed": {
+                  "nbtType": "float",
+                  "nbt": 0.51
+                },
+                "FreeModifiers": {
+                  "nbtType": "int",
+                  "nbt": 5
+                },
+                "Durability": {
+                  "nbtType": "int",
+                  "nbt": 8
+                },
+                "HarvestLevel": {
+                  "nbtType": "int",
+                  "nbt": 0
+                },
+                "Attack": {
+                  "nbtType": "float",
+                  "nbt": 1.05
+                }
+              }
+            },
+            "Special": {
+              "nbtType": "compound",
+              "nbt": {
+                "Categories": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "weapon"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "tool"
+                    }
+                  ]
+                }
+              }
+            },
+            "TinkerData": {
+              "nbtType": "compound",
+              "nbt": {
+                "Materials": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "paper"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "paper"
+                    },
+                    {
+                      "nbtType": "string",
+                      "nbt": "paper"
+                    }
+                  ]
+                },
+                "Modifiers": {
+                  "nbtType": "list",
+                  "nbt": []
+                }
+              }
+            },
+            "Modifiers": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "identifier": {
+                      "nbtType": "string",
+                      "nbt": "writable"
+                    },
+                    "color": {
+                      "nbtType": "int",
+                      "nbt": -1
+                    },
+                    "level": {
+                      "nbtType": "int",
+                      "nbt": 2
+                    },
+                    "writable2": {
+                      "nbtType": "byte",
+                      "nbt": 1
+                    },
+                    "writable1": {
+                      "nbtType": "byte",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            },
+            "Traits": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "string",
+                  "nbt": "writable1"
+                },
+                {
+                  "nbtType": "string",
+                  "nbt": "writable2"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.20703016221523285,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "minecraft:map",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

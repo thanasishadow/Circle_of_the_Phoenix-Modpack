@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Nicolas2",
+    "category": "global"
+  },
+  "content": {
+    "title": "26th April (Nicolas)",
+    "body": "[…] I might be wrong but our kind could use some of their ideas and advancements.[...]",
+    "autoplay": true
+  },
+  "sortingIndex": 8,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

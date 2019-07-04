@@ -1,0 +1,18 @@
+{
+    "name": "Magma Slime Crystal Alteration",
+    "icon": "tconstruct:slime_sapling:2",
+    "category": "Tier 2",
+    "pages": [
+		{
+			"type": "slate_altar_T2",
+			"title": "Magma Slime Crystal Alteration",
+			"input1": "tconstruct:materials:11",
+			"block": "minecraft:grass",
+			"output": "tconstruct:slime_sapling:2"
+		},
+		{
+            "type": "text",
+			"text": "Some magic combined with gentle heat can help magma slime crystals develop into tree-like life forms."
+        }
+    ]
+}

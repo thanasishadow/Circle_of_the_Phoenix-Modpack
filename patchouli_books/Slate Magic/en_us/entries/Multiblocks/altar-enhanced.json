@@ -1,0 +1,31 @@
+{
+    "name": "Enhanced Slate Altar",
+    "icon": "contenttweaker:hellfire_rune",
+    "category": "Multiblocks",
+	"sortnum": 2,
+    "pages": [
+        {
+            "type": "text",
+            "text": "Upgrading the Basic Slate Altar requires some soul sand and a block made of blazes.$(br)$(br)$(li)8 Soul Sand$(li)1 Hellfire Rune$(br)Upgrading your Slate Altar will make it capable of altering a greater variety of blocks."
+        },
+		{
+            "type": "multiblock",
+            "name": "Enhanced Slate Altar",
+			"multiblock": {
+				"pattern": [
+					["T T", "   ", "T T"], 
+					["CSC", "S0S", "CSC"],
+					["NNN", "NBN", "NNN"]
+				],
+				"mapping": {
+					"S": "rustic:slate_tile",
+					"C": "rustic:slate_chiseled",
+					"T": "totemic:totem_torch",
+					"N": "minecraft:soul_sand",
+					"B": "contenttweaker:hellfire_rune"
+				},
+				"symmetrical": true
+			}
+        }
+    ]
+}

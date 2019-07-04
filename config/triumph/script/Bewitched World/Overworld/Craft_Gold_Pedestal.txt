@@ -1,0 +1,8 @@
+setIcon(<pedestalcrafting:pedestal_core, meta:3>)
+setTitle("Golden Pedestal")
+setDescription("Only one is needed")
+setPos(10, 4)
+addParent("triumph:Overworld/Mine_Gold_Ore")
+drawDirectLines(true)
+criteria = addCriteria("craftGoldPedestal", "triumph:player_crafted_item")
+criteria.setItem(<pedestalcrafting:pedestal_core, meta:3>)

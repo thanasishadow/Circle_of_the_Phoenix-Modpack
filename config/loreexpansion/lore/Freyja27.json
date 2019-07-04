@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Freyja3",
+    "category": "global"
+  },
+  "content": {
+    "title": "27th April (Freyja)",
+    "body": "[…] although I am still troubled about […]",
+    "autoplay": true
+  },
+  "sortingIndex": 3,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Tool Material Alteration",
+    "icon": "minecraft:iron_pickaxe",
+    "category": "Tier 1",
+    "pages": [
+		{
+			"type": "slate_altar_T1",
+			"title": "Tool Material Alteration",
+			"input1": "minecraft:stone_pickaxe",
+			"block": "contenttweaker:upgrade_rune_iron",
+			"output": "minecraft:iron_pickaxe",
+			"text": "$(o)Note: Wooden tools have to be upgraded with a block of stone instead of upgrading runes."
+		},
+        {
+            "type": "text",
+            "text": "Tools' materials can be altered by infusing them with an upgrading rune.$(br2)Stone tools can be altered to iron, copper, or bronze tools. Copper can be altered to gold, iron can be upgraded to diamond, and bronze can be upgraded to platinum."
+        }
+    ]
+}

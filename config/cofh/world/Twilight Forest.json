@@ -1,0 +1,225 @@
+{
+	"priority": 1,
+	"populate": {
+		"garnet": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "bewitchment:gem_ore",
+				"metadata": 0
+				}
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 50,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+		"nuummite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "bewitchment:gem_ore",
+				"metadata": 1
+				}
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 50,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+		"tiger": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "bewitchment:gem_ore",
+				"metadata": 2
+				}
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 50,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+		"tourmaline": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "bewitchment:gem_ore",
+				"metadata": 3
+				}
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 50,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+		"bloodstone": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "bewitchment:gem_ore",
+				"metadata": 4
+				}
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 50,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+		"jasper": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "bewitchment:gem_ore",
+				"metadata": 5
+				}
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 50,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+		"malachite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "bewitchment:gem_ore",
+				"metadata": 6
+				}
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 50,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+		"amethyst": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "bewitchment:gem_ore",
+				"metadata": 7
+				}
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 50,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+		"alexandrite": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "bewitchment:gem_ore",
+				"metadata": 8
+				}
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 50,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		},
+		"prosperity": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "mysticalagriculture:prosperity_ore",
+				"metadata": 0
+				}
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 2,
+			"min-height": 0,
+			"max-height": 30,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					7
+				]
+			}
+		}
+	}
+}

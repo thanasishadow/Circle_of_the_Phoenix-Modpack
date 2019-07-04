@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "{name}5",
+    "category": "global"
+  },
+  "content": {
+    "title": "29th April ({name})",
+    "body": "",
+    "autoplay": true
+  },
+  "sortingIndex": 47,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

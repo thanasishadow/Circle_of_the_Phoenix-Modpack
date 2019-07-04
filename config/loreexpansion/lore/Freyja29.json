@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Freyja5",
+    "category": "global"
+  },
+  "content": {
+    "title": "29th April (Freyja)",
+    "body": "[…] Tomorrow's night is a special one. Even more so, considering the recent events. [...]",
+    "autoplay": true
+  },
+  "sortingIndex": 5,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

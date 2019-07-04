@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Galen6",
+    "category": "global"
+  },
+  "content": {
+    "title": "30th April (Galen)",
+    "body": "[Blank]",
+    "autoplay": true
+  },
+  "sortingIndex": 36,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

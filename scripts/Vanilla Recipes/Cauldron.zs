@@ -1,0 +1,2 @@
+mods.inspirations.Cauldron.addFluidRecipe(<exoticbirds:phoenix_dust>, <contenttweaker:ash>, <liquid:lava>);
+mods.inspirations.Cauldron.addFluidRecipe(<contenttweaker:skill_orb_magic>, <minecraft:dye:4>, <liquid:mana_fluid>);

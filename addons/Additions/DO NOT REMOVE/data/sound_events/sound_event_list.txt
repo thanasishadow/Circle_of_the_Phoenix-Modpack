@@ -1,0 +1,4 @@
+additions:cof-danse_macabre
+additions:cof-something_wicked
+additions:cof-furioso_melodia
+additions:cof-artefatto_vita

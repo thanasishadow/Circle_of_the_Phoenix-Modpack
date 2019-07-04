@@ -1,0 +1,605 @@
+[
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativebedrock",
+        "symbol_id": "block_bedrock_bricks",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "bedrock_bricks"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativebedrock",
+        "symbol_id": "block_bedrock_cobblestone",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "bedrock_cobblestone"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativebedrock",
+        "symbol_id": "block_bedrock_slabs",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "bedrock_slabs"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "simpledecorative",
+        "symbol_id": "block_evil",
+        "word": "Extra",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "block_evil"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 30.0
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "simpledecorative",
+        "symbol_id": "block_enchanted",
+        "word": "Extra",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "block_enchanted"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 30.0
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "simpledecorative",
+        "symbol_id": "block_demonic",
+        "word": "Extra",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "block_demonic"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 30.0
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativesolid",
+        "symbol_id": "block_stoneburnt",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "decorstates",
+                "value": "stoneburnt"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativesolid",
+        "symbol_id": "block_sandy_glass",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "decorstates",
+                "value": "sandy_glass"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativesolid",
+        "symbol_id": "block_burnt_quartz",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "decorstates",
+                "value": "burnt_quartz"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativesolid",
+        "symbol_id": "block_rainbow",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "decorstates",
+                "value": "rainbow"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativesolid",
+        "symbol_id": "block_blue_quartz",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "decorstates",
+                "value": "blue_quartz"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "cursedearth",
+        "symbol_id": "block_blue_quartz",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "decay",
+                "value": "0"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "ineffableglass",
+        "symbol_id": "block_dark_ineffable_glass",
+        "word": "Extra",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "decorstates",
+                "value": "dark"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "ineffableglass",
+        "symbol_id": "block_clear_ineffable_glass",
+        "word": "Extra",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "decorstates",
+                "value": "clear"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativeglass",
+        "symbol_id": "block_redstone_glass",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "decorstates",
+                "value": "glass_redstone"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativeglass",
+        "symbol_id": "block_thickened_glass",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "decorstates",
+                "value": "glass"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "decorativeglass",
+        "symbol_id": "block_glowstone_glass",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "decorstates",
+                "value": "glass_glowstone"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "ironwood_log",
+        "symbol_id": "block_ferrous-juniper_log_burnt",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "treetype",
+                "value": "burnt"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "ironwood_log",
+        "symbol_id": "block_ferrous-juniper_log_raw",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "treetype",
+                "value": "raw"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "ironwood_planks",
+        "symbol_id": "block_ferrous-juniper_planks_burnt",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "treetype",
+                "value": "burnt"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "ironwood_planks",
+        "symbol_id": "block_ferrous-juniper_planks_raw",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "treetype",
+                "value": "raw"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "ironwood_leaves",
+        "symbol_id": "block_ferrous-juniper_leaves_burnt",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "treetype",
+                "value": "burnt"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "extrautils2",
+        "block_id": "ironwood_leaves",
+        "symbol_id": "block_ferrous-juniper_leaves_raw",
+        "word": "Extra",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "treetype",
+                "value": "raw"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    }
+]

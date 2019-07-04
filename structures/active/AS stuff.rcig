@@ -1,0 +1,107 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "AstralSorcery",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "astralsorcery:itemcraftingcomponent",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "astralsorcery:itemcraftingcomponent",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "astralsorcery:itemcraftingcomponent",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.9013646841049194,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "astralsorcery:itemcraftingcomponent",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.5121370553970337,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "astralsorcery:itemusabledust",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.5121370553970337,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "astralsorcery:itemusabledust",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.1894346475601196,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "astralsorcery:itemcraftingcomponent",
+        "damage": 5,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.1894346475601196,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "astralsorcery:itemcraftingcomponent",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.35883715748786926,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "astralsorcery:itemlinkingtool",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.3978064954280853,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "astralsorcery:itemhandtelescope",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

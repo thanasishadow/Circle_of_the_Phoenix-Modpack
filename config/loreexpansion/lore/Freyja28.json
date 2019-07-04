@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Freyja4",
+    "category": "global"
+  },
+  "content": {
+    "title": "28th April (Freyja)",
+    "body": "[…] There has been a lot of commotion around our community lately, I wonder if I made the right choice.",
+    "autoplay": true
+  },
+  "sortingIndex": 4,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

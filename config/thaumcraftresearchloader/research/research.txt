@@ -1,0 +1,6 @@
+modpack:research/skills_base
+modpack:research/skills_druidry
+modpack:research/skills_cosmomancy
+modpack:research/skills_hemomancy
+modpack:research/skills_brewing
+modpack:research/skills_tinkering

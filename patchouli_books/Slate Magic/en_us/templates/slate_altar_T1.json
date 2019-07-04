@@ -1,0 +1,53 @@
+{
+  "components": [
+    {
+      "type": "header",
+      "text": "#title",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "type": "separator",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "type": "item",
+      "item": "#input1",
+      "framed": "false",
+      "x": 27,
+      "y": 30
+    },
+    {
+      "type": "item",
+      "item": "#block",
+      "framed": "false",
+      "x": 73,
+      "y": 30
+    },
+    {
+      "type": "image",
+      "image": "modpack:patchouli/slate_gui/T1.png",
+      "x": 50,
+      "y": 56,
+      "height": 16,
+      "width": 16,
+      "texture_width": 16,
+      "texture_height": 16
+    },
+    {
+      "type": "item",
+      "item": "#output",
+      "link_recipe": true,
+      "framed": "true",
+      "x": 50,
+      "y": 83
+    },
+    {
+      "type": "text",
+      "text": "#text",
+      "x": 5,
+      "y": 103
+    }
+  ]
+}

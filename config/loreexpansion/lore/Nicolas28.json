@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Nicolas4",
+    "category": "global"
+  },
+  "content": {
+    "title": "28th April (Nicolas)",
+    "body": "[…] I wonder what Pyrrha has been up to lately. [...] ",
+    "autoplay": true
+  },
+  "sortingIndex": 10,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

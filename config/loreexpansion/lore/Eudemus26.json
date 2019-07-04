@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Eudemus2",
+    "category": "global"
+  },
+  "content": {
+    "title": "26th April (Eudemus)",
+    "body": "[…] I only hope they have enough dignity to vote against […]",
+    "autoplay": true
+  },
+  "sortingIndex": 38,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

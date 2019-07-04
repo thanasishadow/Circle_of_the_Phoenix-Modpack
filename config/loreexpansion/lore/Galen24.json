@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Galen1",
+    "category": "global"
+  },
+  "content": {
+    "title": "24th April (Galen)",
+    "body": "[…] If what Tlachtga is speaking the truth, a new era for all of us might be […]",
+    "autoplay": true
+  },
+  "sortingIndex": 31,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

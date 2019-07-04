@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Freyja1",
+    "category": "global"
+  },
+  "content": {
+    "title": "24th April (Freyja)",
+    "body": "[…] such an idea could really unite witches and mortals […]",
+    "autoplay": true
+  },
+  "sortingIndex": 1,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

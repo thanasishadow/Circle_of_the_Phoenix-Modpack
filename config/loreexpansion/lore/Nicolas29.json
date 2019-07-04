@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Nicolas5",
+    "category": "global"
+  },
+  "content": {
+    "title": "29th April (Nicolas)",
+    "body": "[…] Everyone seems to be talking about tomorrow's celebration. […] makes me wonder if Pyrrha is doing alright. She has been overworking herself lately. [...] ",
+    "autoplay": true
+  },
+  "sortingIndex": 11,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

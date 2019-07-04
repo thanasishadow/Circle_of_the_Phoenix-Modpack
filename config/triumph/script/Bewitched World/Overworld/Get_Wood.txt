@@ -1,0 +1,8 @@
+setIcon(<minecraft:log>)
+setTitle("The first task")
+setDescription("Get yourself a piece of wood")
+setPos(46, 20)
+addParent("triumph:Overworld/root")
+drawDirectLines(true)
+criteria = addCriteria("collectWood", "minecraft:inventory_changed")
+criteria.addItem(<ore:logWood>)

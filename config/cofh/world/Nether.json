@@ -1,0 +1,204 @@
+{
+	"priority": 1,
+	"populate": {
+	
+		"nether_gold": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "contenttweaker:sub_block_holder_0",
+				"metadata": 0
+				}
+				"material": "minecraft:netherrack",
+				"cluster-size": 10
+			},
+			"cluster-count": 7,
+			"min-height": 15,
+			"max-height": 125,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"nether_lapis": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "contenttweaker:sub_block_holder_0",
+				"metadata": 1
+				}
+				"material": "minecraft:netherrack",
+				"cluster-size": 16
+			},
+			"cluster-count": 7,
+			"min-height": 15,
+			"max-height": 125,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"nether_red_diamond": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "contenttweaker:sub_block_holder_0",
+				"metadata": 2
+				}
+				"material": "minecraft:netherrack",
+				"cluster-size": 7
+			},
+			"cluster-count": 7,
+			"min-height": 15,
+			"max-height": 125,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"nether_galena": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "contenttweaker:sub_block_holder_0",
+				"metadata": 3
+				}
+				"material": "minecraft:netherrack",
+				"cluster-size": 13
+			},
+			"cluster-count": 8,
+			"min-height": 15,
+			"max-height": 125,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"nether_redstone": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "contenttweaker:sub_block_holder_0",
+				"metadata": 4
+				}
+				"material": "minecraft:netherrack",
+				"cluster-size": 10
+			},
+			"cluster-count": 8,
+			"min-height": 15,
+			"max-height": 125,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"nether_copper": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "contenttweaker:sub_block_holder_0",
+				"metadata": 5
+				}
+				"material": "minecraft:netherrack",
+				"cluster-size": 20
+			},
+			"cluster-count": 8,
+			"min-height": 15,
+			"max-height": 125,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"nether_platinum": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "contenttweaker:sub_block_holder_0",
+				"metadata": 6
+				}
+				"material": "minecraft:netherrack",
+				"cluster-size": 7
+			},
+			"cluster-count": 4,
+			"min-height": 15,
+			"max-height": 125,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"nether_tin": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "contenttweaker:sub_block_holder_0",
+				"metadata": 7
+				}
+				"material": "minecraft:netherrack",
+				"cluster-size": 22
+			},
+			"cluster-count": 7,
+			"min-height": 15,
+			"max-height": 125,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		},
+		"nether_emerald": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+				"name": "contenttweaker:sub_block_holder_0",
+				"metadata": 8
+				}
+				"material": "minecraft:netherrack",
+				"cluster-size": 8
+			},
+			"cluster-count": 4,
+			"min-height": 15,
+			"max-height": 125,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					-1
+				]
+			}
+		}
+	}
+}

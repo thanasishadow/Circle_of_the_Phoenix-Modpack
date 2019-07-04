@@ -1,0 +1,8 @@
+{
+  "name": "§dMusic Disc",
+  "shines": true,
+  "max_stack": 1,
+  "music": "minecraft:ambient.cave",
+  "description": "§5Something Wicked",
+  "type": "additions:record"
+}

@@ -1,0 +1,42 @@
+//PHILOSOPHER STONE
+mods.thaumcraft.Infusion.registerRecipe("Philosopher's Stone", "INFUSION", <contenttweaker:philosopher_stone>, 5, [<aspect:alkimia> * 100, <aspect:permutatio> * 40, <aspect:victus> * 10], <minecraft:stone>, [<simplygems:gems:2>, <simplygems:gems>, <thaumcraft:quicksilver>, <thebetweenlands:items_misc:18>, <ore:dustSalt>, <thaumcraft:brain>]);
+
+//FLIGHT POTION THINGY
+mods.thaumcraft.Infusion.registerRecipe("Phial of Animation", "MATSTUDWOOD", <flying_things:phial_of_animation>, 5, [<aspect:volatus> * 125, <aspect:spiritus> * 50, <aspect:motus> * 100, <aspect:alkimia> * 50], <minecraft:potion>.withTag({Potion: "minecraft:long_leaping"}), [<exoticbirds:phoenix_feather>, <totemic:eagle_drops:1>, <exoticbirds:phoenix_feather>, <twilightforest:raven_feather>, <exoticbirds:phoenix_feather>, <mysticalagriculture:crafting:24>, <exoticbirds:phoenix_feather>, <exoticbirds:peacock_feather>]);
+
+
+//SKILL ORBS
+mods.thaumcraft.Infusion.registerRecipe("Cosmomancy Shard", "INFUSION", <contenttweaker:skill_shard_cosmomancy>, 7, [<aspect:stellae> * 100, <aspect:sensus> * 100, <aspect:potentia> * 100],<chessmod:piece>.withTag({white: 1 as byte, type: 5 as byte}), [<minecraft:lingering_potion>.withTag({Potion: "extraalchemy:concentration_normal"}), <thaumcraft:nitor_blue>, <minecraft:lingering_potion>.withTag({Potion: "extraalchemy:concentration_normal"}), <minecraft:ender_eye>, <minecraft:lingering_potion>.withTag({Potion: "extraalchemy:concentration_normal"}), <bewitchment:fume:12>, <minecraft:lingering_potion>.withTag({Potion: "extraalchemy:concentration_normal"}), <thaumcraft:brain>]);
+mods.thaumcraft.Infusion.registerRecipe("Druidry Shard", "INFUSION", <contenttweaker:skill_shard_druidry>, 7, [<aspect:terra> * 100, <aspect:herba> * 100, <aspect:victus> * 100], <chessmod:piece>.withTag({white: 1 as byte, type: 5 as byte}), [<minecraft:lingering_potion>.withTag({Potion: "extraalchemy:photosynthesis_strong"}), <bewitchment:sapling>, <minecraft:lingering_potion>.withTag({Potion: "extraalchemy:photosynthesis_strong"}), <twilightforest:block_storage:2>, <minecraft:lingering_potion>.withTag({Potion: "extraalchemy:photosynthesis_strong"}), <minecraft:golden_carrot>, <minecraft:lingering_potion>.withTag({Potion: "extraalchemy:photosynthesis_strong"}), <contenttweaker:herbal_blend>]);
+mods.thaumcraft.Infusion.registerRecipe("Hemomancy Shard", "INFUSION", <contenttweaker:skill_shard_hemomancy>, 7, [<aspect:exanimis> * 100, <aspect:mortuus> * 100, <aspect:aversio> * 100], <chessmod:piece>.withTag({white: 1 as byte, type: 5 as byte}), [<minecraft:lingering_potion>.withTag({Potion: "extraalchemy:leech_strong"}), <bewitchment:fume:18>, <minecraft:lingering_potion>.withTag({Potion: "extraalchemy:leech_strong"}), <betternether:eye_seed>, <minecraft:lingering_potion>.withTag({Potion: "extraalchemy:leech_strong"}), <tconstruct:edible:33>, <minecraft:lingering_potion>.withTag({Potion: "extraalchemy:leech_strong"}), <bewitchment:heart>]);
+
+mods.thaumcraft.Infusion.registerRecipe("Brewing Shard", "BASEALCHEMY", <contenttweaker:skill_shard_brewing>, 4, [<aspect:alkimia> * 50, <aspect:aqua> * 20, <aspect:praecantatio> * 20], <minecraft:glass_bottle>, [<minecraft:nether_wart_block>, <minecraft:potion>.withTag({Potion: "extraalchemy:learning_strong"}), <minecraft:nether_wart_block>, <minecraft:lingering_potion>.withTag({Potion: "inspirations:long_blindness"}), <minecraft:nether_wart_block>, <minecraft:splash_potion>.withTag({Potion: "minecraft:strong_healing"}), <minecraft:nether_wart_block>, <evilpotions:evil_potion>.withTag({Potion: "minecraft:strong_harming"})]);
+mods.thaumcraft.Infusion.registerRecipe("Tinkering Shard", "METALLURGY", <contenttweaker:skill_shard_tinkering>, 5, [<aspect:fabrico> * 50, <aspect:instrumentum> * 50, <aspect:metallum> * 10], <minecraft:crafting_table>, [<minecraft:lava_bucket>, <minecraft:diamond_pickaxe>, <minecraft:lava_bucket>, <thermalfoundation:tool.shovel_copper>, <minecraft:lava_bucket>, <minecraft:golden_sword>, <minecraft:lava_bucket>, <thermalfoundation:tool.axe_bronze>]);
+
+
+//MANYULLIN FORGE
+mods.thaumcraft.Infusion.registerRecipe("Forge", "INFUSION", <tconstruct:toolforge>.withTag({textureBlock: {id: "tconstruct:metal", Count: 1 as byte, Damage: 2 as short}}), 8, [<aspect:fabrico> * 50, <aspect:instrumentum> * 50], <tconstruct:tooltables:3>, [<tconstruct:large_plate>.withTag({Material: "manyullyn"}), <thaumcraft:plate:2>, <tconstruct:large_plate>.withTag({Material: "manyullyn"}), <contenttweaker:upgrade_rune_diamond>, <tconstruct:large_plate>.withTag({Material: "manyullyn"}), <thaumcraft:plate:2>, <tconstruct:large_plate>.withTag({Material: "manyullyn"}), <tconstruct:seared:6>]);
+
+//EVILCRAFT
+mods.thaumcraft.Infusion.registerRecipe("Dark Ore", "INFUSION", <evilcraft:dark_ore>, 2, [<aspect:diabolus> * 10, <aspect:vitreus> * 20, <aspect:terra> * 10], <tombstone:dark_marble>, [<contenttweaker:crushed_fungi>, <simplygems:gems:9>]);
+
+//ASTRAL SORCERY
+mods.thaumcraft.Infusion.registerRecipe("Rock Crystal Ore", "INFUSION", <astralsorcery:blockcustomore>, 2, [<aspect:stellae> * 20, <aspect:terra> * 20, <aspect:vitreus> * 5], <minecraft:stone>, [<chisel:marble1:7>, <plants2:generic:8>, <plants2:generic:6>]);
+
+//RIFT BLADE
+mods.thaumcraft.Infusion.registerRecipe("Rift Blade", "INFUSION", <dimdoors:rift_blade>, 3, [<aspect:tenebrae> * 10, <aspect:alienis> * 30, <aspect:aversio> * 25], <dimdoors:rift_blade>, [<tconstruct:sword_blade>.withTag({Material: "starmetal"}), <dimdoors:stable_fabric>, <xreliquary:mob_ingredient:11>, <dimdoors:stable_fabric>, <tconstruct:wide_guard>.withTag({Material: "voidmetal"}), <dimdoors:stable_fabric>, <xreliquary:mob_ingredient:11>, <dimdoors:stable_fabric>]);
+
+//MYSTCRAFT
+mods.thaumcraft.Infusion.registerRecipe("Writing Desk", "INFUSION", <mystcraft:writingdesk>, 4, [<aspect:cognitio>*100, <aspect:ordo>*50, <aspect:lux>*10], <bibliocraft:desk>, [<atlcraft:atlcraft_candle06>, <twilightforest:raven_feather>, <forge:bucketfilled>.withTag({FluidName: "experience", Amount: 1000}), <mystcraft:vial>]);
+mods.thaumcraft.Infusion.registerRecipe("Ink Mixer", "INFUSION", <mystcraft:blockinkmixer>, 5, [<aspect:alkimia>*200, <aspect:aqua>*100, <aspect:permutatio>*50], <minecraft:cauldron>, [<bewitchment:fume:12>, <minecraft:glass_bottle>, <thebetweenlands:smooth_cragrock_slab>, <advancedmortars:mortar:1>]);
+mods.thaumcraft.Infusion.registerRecipe("Book Binder", "INFUSION", <mystcraft:blockbookbinder>, 6, [<aspect:fabrico>*100, <aspect:vacuos>*50, <aspect:terra>*200], <thermalfoundation:storage_alloy>, [<thaumcraft:primordial_pearl>, <bewitchment:witches_stitching>, <thebetweenlands:items_misc:4>, <bewitchment:witches_stitching>]);
+mods.thaumcraft.Infusion.registerRecipe("Book Receptacle", "INFUSION", <mystcraft:blockbookreceptacle>, 7, [<aspect:motus>*20, <aspect:potentia>*200, <aspect:alienis>*150], <dimdoors:oak_dimensional_door>, [<rusticthaumaturgy:chain_brass>, <forge:bucketfilled>.withTag({FluidName: "ender", Amount: 1000}), <astralsorcery:itemshiftingstar>.withTag({astralsorcery: {starAttunement: "astralsorcery.constellation.evorsio"}}), <mystcraft:blockcrystal>]);
+
+//WIZARDRY
+mods.thaumcraft.Infusion.registerRecipe("Crude Halo", "INFUSION", <wizardry:halo_fake>, 6, [<aspect:potentia> * 100, <aspect:lux> * 30, <aspect:praecantatio> * 40], <thermalfoundation:material:25>, [<wizardry:orb:1>, <thermalfoundation:material:33>, <wizardry:orb:1>, <thermalfoundation:material:33>, <wizardry:orb:1>, <thermalfoundation:material:33>, <wizardry:orb:1>, <thermalfoundation:material:33>]);
+
+//EXP TALISMAN
+mods.thaumcraft.Infusion.registerRecipe("Divine Talisman", "INFUSION", <beneficium:talisman:1>, 8, [<aspect:desiderium>*100, <aspect:potentia>*70, <aspect:cognitio>*50], <beneficium:talisman>, [<thebetweenlands:octine_ingot>, <thermalfoundation:material:358>, <contenttweaker:enchanted_lapis_block>, <thebetweenlands:octine_ingot>, <thermalfoundation:material:358>, <contenttweaker:enchanted_lapis_block>, <thebetweenlands:octine_ingot>, <thermalfoundation:material:358>, <contenttweaker:enchanted_lapis_block>]);
+
+//HELLFIRE RUNE
+mods.thaumcraft.Infusion.registerRecipe("Hellfire Rune", "INFUSION", <contenttweaker:hellfire_rune>, 4, [<aspect:terra> * 10, <aspect:diabolus> * 20, <aspect:praecantatio> * 30, <aspect:ignis> * 30], <rustic:slate>, [<minecraft:blaze_rod>, <bewitchment:ritual_chalk_nether>, <minecraft:blaze_rod>, <wizardry:devil_dust>, <minecraft:blaze_rod>, <wizardry:devil_dust>, <minecraft:blaze_rod>, <wizardry:devil_dust>]);

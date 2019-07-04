@@ -1,0 +1,8 @@
+setIcon(<minecraft:gold_ore>)
+setTitle("Gold!")
+setDescription("Precious but rare")
+setPos(10, 2)
+addParent("triumph:Overworld/Get_Iron_Pickaxe")
+drawDirectLines(true)
+criteria = addCriteria("mineGold", "triumph:player_harvest_block")
+criteria.setBlock(<minecraft:gold_ore>)

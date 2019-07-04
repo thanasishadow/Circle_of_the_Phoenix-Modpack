@@ -1,0 +1,18 @@
+{
+    "name": "Marble Alteration",
+    "icon": "astralsorcery:blockblackmarble",
+    "category": "Tier 2",
+    "pages": [
+		{
+			"type": "slate_altar_T2",
+			"title": "Marble Alteration",
+			"input1": "inspirations:blaze_crook",
+			"block": "astralsorcery:blockmarble",
+			"output": "astralsorcery:blockblackmarble"
+		},
+		{
+            "type": "text",
+			"text": "An easy way of blackening marble without the use of coal.$(br2)*The blaze crook will not be consumed."
+        }
+    ]
+}

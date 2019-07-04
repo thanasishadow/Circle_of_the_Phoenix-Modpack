@@ -1,0 +1,8 @@
+setIcon(<minecraft:wooden_door>)
+setTitle("The final piece")
+setDescription("Craft a wooden door")
+setPos(3, 1)
+addParent("triumph:Overworld/Craft_Planks")
+drawDirectLines(true)
+criteria = addCriteria("craftDoor", "triumph:player_crafted_item")
+criteria.setItem(<minecraft:wooden_door>)

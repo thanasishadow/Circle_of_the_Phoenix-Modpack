@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Galen2",
+    "category": "global"
+  },
+  "content": {
+    "title": "26th April (Galen)",
+    "body": "[…] This makes me wonder if […] is going to sabotage this […]",
+    "autoplay": true
+  },
+  "sortingIndex": 32,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

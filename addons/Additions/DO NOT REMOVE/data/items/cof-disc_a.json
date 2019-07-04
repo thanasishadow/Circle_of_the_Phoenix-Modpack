@@ -1,0 +1,8 @@
+{
+  "name": "§dMusic Disc",
+  "shines": true,
+  "max_stack": 1,
+  "music": "additions:cof-danse_macabre",
+  "description": "§5Danse Macabre (Turtlejam Rem)",
+  "type": "additions:record"
+}

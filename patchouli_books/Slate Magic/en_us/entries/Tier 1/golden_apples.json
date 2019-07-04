@@ -1,0 +1,18 @@
+{
+    "name": "Apple Alteration",
+    "icon": "minecraft:golden_apple",
+    "category": "Tier 1",
+    "pages": [
+		{
+			"type": "slate_altar_T1",
+			"title": "Apple Alteration",
+			"input1": "minecraft:apple",
+			"block": "contenttweaker:upgrade_rune_gold",
+			"output": "minecraft:golden_apple"
+		},
+		{
+            "type": "text",
+            "text": "Normally, the creation of a golden apple would cost quite a lot of gold but with the help of a slate altar, an apple can be altered into its golden form for much less since a chunk of the required gold can be substituted for magic."
+        }
+    ]
+}

@@ -1,0 +1,3210 @@
+[
+    {
+        "block_id": "bedrock",
+        "symbol_id": "block_bedrock",
+        "word": "Vanilla",
+        "loot_weight": 6,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            }
+        ],
+        "instability_base": -1.0,
+        "instability_exposed": -1.0
+    },
+    {
+        "block_id": "black_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_black",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "blue_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_blue",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "brown_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_brown",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "light_blue_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_light_blue",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "cyan_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_cyan",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "red_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_red",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "magenta_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_magenta",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "pink_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_pink",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "orange_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_orange",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "yellow_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_yellow",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "purple_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_purple",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "gray_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_gray",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "silver_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_silver",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "white_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_white",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "lime_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_lime",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "green_glazed_terracotta",
+        "symbol_id": "block_glazed_terracotta_green",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "bone_block",
+        "symbol_id": "block_bone",
+        "word": "Vanilla",
+        "loot_weight": 5,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "brick_block",
+        "symbol_id": "block_brick",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "clay",
+        "symbol_id": "block_clay",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ],
+        "instability_base": 0.25,
+        "instability_exposed": 0.25
+    },
+    {
+        "block_id": "coal_block",
+        "symbol_id": "block_coal",
+        "word": "Vanilla",
+        "loot_weight": 6,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            }
+        ],
+        "instability_base": 2.0,
+        "instability_exposed": 10.0
+    },
+    {
+        "block_id": "cobblestone",
+        "symbol_id": "block_cobblestone",
+        "word": "Vanilla",
+        "loot_weight": 1,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_brown",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "brown"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_lime",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lime"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_green",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "green"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_pink",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "pink"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_magenta",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "magenta"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_red",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "red"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_yellow",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "yellow"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_orange",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "orange"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_cyan",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "cyan"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_light_blue",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lightBlue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_blue",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "blue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_purple",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "purple"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_white",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "white"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_gray",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "gray"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_light_gray",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "silver"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete",
+        "symbol_id": "block_concrete_black",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "black"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_brown",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "brown"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_lime",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lime"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_green",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "green"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_pink",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "pink"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_magenta",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "magenta"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_red",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "red"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_yellow",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "yellow"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_orange",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "orange"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_cyan",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "cyan"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_light_blue",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lightBlue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_blue",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "blue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_purple",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "purple"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_white",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "white"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_gray",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "gray"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_light_gray",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "silver"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "concrete_powder",
+        "symbol_id": "block_concrete_powder_black",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "black"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "diamond_block",
+        "symbol_id": "block_diamond",
+        "word": "Vanilla",
+        "loot_weight": 6,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 30.0,
+        "instability_exposed": 6000.0
+    },
+    {
+        "block_id": "dirt",
+        "symbol_id": "block_coarse_dirt",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "coarse_dirt"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "dirt",
+        "symbol_id": "block_podzol",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "podzol"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 1.0
+    },
+    {
+        "block_id": "emerald_block",
+        "symbol_id": "block_emerald",
+        "word": "Vanilla",
+        "loot_weight": 6,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 20.0,
+        "instability_exposed": 4000.0
+    },
+    {
+        "block_id": "end_bricks",
+        "symbol_id": "block_end_bricks",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 20.0,
+        "instability_exposed": 4000.0
+    },
+    {
+        "block_id": "gold_block",
+        "symbol_id": "block_gold",
+        "word": "Vanilla",
+        "loot_weight": 6,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 6.0,
+        "instability_exposed": 1200.0
+    },
+    {
+        "block_id": "grass",
+        "symbol_id": "block_grass",
+        "word": "Vanilla",
+        "loot_weight": 1,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "block_id": "grass_path",
+        "symbol_id": "block_grass_path",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "gravel",
+        "symbol_id": "block_gravel",
+        "word": "Vanilla",
+        "loot_weight": 1,
+        "categories": [
+            {
+                "category_id": "BlockSea",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "block_id": "hardened_clay",
+        "symbol_id": "block_terracota",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "hay_block",
+        "symbol_id": "block_hay",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "iron_block",
+        "symbol_id": "block_iron",
+        "word": "Vanilla",
+        "loot_weight": 6,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 5
+            }
+        ],
+        "instability_base": 1.5,
+        "instability_exposed": 400.0
+    },
+    {
+        "block_id": "lapis_block",
+        "symbol_id": "block_lapis_lazuli",
+        "word": "Vanilla",
+        "loot_weight": 6,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 5
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "block_id": "leaves2",
+        "symbol_id": "block_dark_oak_leaves",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "dark_oak"
+            },
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "leaves2",
+        "symbol_id": "block_acacia_leaves",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "acacia"
+            },
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "leaves",
+        "symbol_id": "block_jungle_leaves",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "jungle"
+            },
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "leaves",
+        "symbol_id": "block_birch_leaves",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "birch"
+            },
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "leaves",
+        "symbol_id": "block_spruce_leaves",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "spruce"
+            },
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "leaves",
+        "symbol_id": "block_oak_leaves",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "oak"
+            },
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "magma",
+        "symbol_id": "block_magma",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "block_id": "mossy_cobblestone",
+        "symbol_id": "block_mossy_cobblestone",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "mycelium",
+        "symbol_id": "block_mycelium",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "nether_wart_block",
+        "symbol_id": "block_nether_wart",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "planks",
+        "symbol_id": "block_jungle_planks",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "jungle"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "planks",
+        "symbol_id": "block_birch_planks",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "birch"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "planks",
+        "symbol_id": "block_dark_oak_planks",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "dark_oak"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "planks",
+        "symbol_id": "block_spruce_planks",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "spruce"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "planks",
+        "symbol_id": "block_acacia_planks",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "acacia"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "planks",
+        "symbol_id": "block_oak_planks",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "oak"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "prismarine",
+        "symbol_id": "block_prismarine",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "prismarine"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "prismarine",
+        "symbol_id": "block_prismarine_bricks",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "prismarine_bricks"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "prismarine",
+        "symbol_id": "block_dark_prismarine",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "dark_prismarine"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "purpur_block",
+        "symbol_id": "block_purpur",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "purpur_pillar",
+        "symbol_id": "block_purpur_pillar",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "quartz_block",
+        "symbol_id": "block_quartz",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "default"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "block_id": "red_sandstone",
+        "symbol_id": "block_red_sandstone",
+        "word": "Vanilla",
+        "loot_weight": 1,
+        "properties": [
+            {
+                "id": "type",
+                "value": "red_sandstone"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "redstone_block",
+        "symbol_id": "block_redstone",
+        "word": "Vanilla",
+        "loot_weight": 6,
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 4
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 20.0
+    },
+    {
+        "block_id": "sand",
+        "symbol_id": "block_sand",
+        "word": "Vanilla",
+        "loot_weight": 1,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "sand"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSea",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "block_id": "sand",
+        "symbol_id": "block_red_sand",
+        "word": "Vanilla",
+        "loot_weight": 1,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "red_sand"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSea",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "block_id": "sea_lantern",
+        "symbol_id": "block_sea_lantern",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "slime",
+        "symbol_id": "block_slime",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "soul_sand",
+        "symbol_id": "block_soul_sand",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_red",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "red"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_magenta",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "magenta"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_pink",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "pink"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_orange",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "orange"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_yellow",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "yellow"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_green",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "green"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_lime",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lime"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_light_blue",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lightBlue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_cyan",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "cyan"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_blue",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "blue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_purple",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "purple"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_black",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "black"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_brown",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "brown"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_gray",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "gray"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_light_gray",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "silver"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_glass",
+        "symbol_id": "block_stained_glass_white",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "white"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_yellow",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "yellow"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_orange",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "orange"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_red",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "red"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_magenta",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "magenta"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_pink",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "pink"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_lime",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lime"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_green",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "green"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_light_blue",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lightBlue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_cyan",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "cyan"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_blue",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "blue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_purple",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "purple"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_black",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "black"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_brown",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "brown"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_gray",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "gray"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_light_gray",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "silver"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stained_hardened_clay",
+        "symbol_id": "block_hardened_clay_white",
+        "word": "Vanilla",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "color",
+                "value": "white"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_red",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "red"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_magenta",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "magenta"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_pink",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "pink"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_lime",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lime"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_green",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "green"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_yellow",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "yellow"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_orange",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "orange"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_light_blue",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lightBlue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_cyan",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "cyan"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_blue",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "blue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_purple",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "purple"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_black",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "black"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_brown",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "brown"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_gray",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "gray"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_light_gray",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "silver"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "wool",
+        "symbol_id": "block_wool_white",
+        "word": "Vanilla",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "color",
+                "value": "white"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "block_id": "stonebrick",
+        "symbol_id": "block_stone_brick",
+        "word": "Vanilla",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "stonebrick"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    }
+]

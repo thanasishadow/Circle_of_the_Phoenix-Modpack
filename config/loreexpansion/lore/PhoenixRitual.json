@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "PhoenixRitual",
+    "category": "global"
+  },
+  "content": {
+    "title": "Ritual of the Phoenix",
+    "body": "1. Draw a circle and draw another one inside of it.\n\n2. Draw 2 squares, one upright and one tilted 45o. The corners of each square should be touching the outer circle.\n\n3. Draw another square on the center of the inner circle.\n\n4. Draw 4 short lines, starting on each edge of the inner square and extending towards the outer circle. The lines should cover about ¼ of the distance between the edges of the inner square and the edge of the inner circle.\n\n5. Draw a wyrm star inside the inner circle. The wyrm star's outer corners should be touching the inner circle and its 8 inner corners should be touching  the corners of the inner square.\n\n6. Draw a circle, starting on each outer corner of the wyrm star. The diameter of those circles should extend from their starting point to the outer circle.\n\n7. Place one of the following items on each of the 4 circles.\nEye of Ender\nDemon's Blood\nA Potent Potion of Rebirth which can last one and a half days\nA black Lotus\n\n8. Place a power source in the center and stab it with a weapon, forged with hellfire.",
+    "autoplay": true
+  },
+  "sortingIndex": 49,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

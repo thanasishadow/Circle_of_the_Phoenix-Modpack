@@ -1,0 +1,8 @@
+setIcon(<minecraft:stone_pickaxe>)
+setTitle("Upgrading")
+setDescription("From wood to stone")
+setPos(8, 0)
+addParent("triumph:Overworld/Get_Slate")
+drawDirectLines(true)
+criteria = addCriteria("getStonePick", "minecraft:inventory_changed")
+criteria.addItem(<minecraft:stone_pickaxe>)

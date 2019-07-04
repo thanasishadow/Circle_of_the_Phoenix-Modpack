@@ -1,0 +1,18 @@
+{
+    "name": "Seed Alteration",
+    "icon": "thaumcraft:cinderpearl",
+    "category": "Tier 2",
+    "pages": [
+		{
+			"type": "slate_altar_T2",
+			"title": "Seed Alteration",
+			"input1": "minecraft:wheat_seeds",
+			"block": "botania:quartztypeblaze",
+			"output": "thaumcraft:cinderpearl"
+		},
+		{
+            "type": "text",
+			"text": "This alteration could be also called a mutation since it involves turning wheat seeds into a cinderpearl plant."
+        }
+    ]
+}

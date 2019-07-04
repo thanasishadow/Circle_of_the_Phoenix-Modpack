@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Pyrrha2",
+    "category": "global"
+  },
+  "content": {
+    "title": "26th April (Pyrrha)",
+    "body": "[…] as much as I would like to see a world were both of our kinds are united, I should vote against it. The risk is too great.",
+    "autoplay": true
+  },
+  "sortingIndex": 14,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

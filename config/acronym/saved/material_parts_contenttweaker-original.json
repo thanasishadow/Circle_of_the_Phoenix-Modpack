@@ -1,0 +1,22 @@
+{
+  "materialMappings": {
+    "copper_ore": 6,
+    "gold_ore_minecraft_netherrack": 11,
+    "red_diamond_ore": 4,
+    "gold_ore": 2,
+    "tin_ore": 7,
+    "redstone_ore": 1,
+    "galena_ore_minecraft_netherrack": 14,
+    "platinum_ore": 8,
+    "copper_ore_minecraft_netherrack": 15,
+    "redstone_ore_minecraft_netherrack": 10,
+    "lapis_ore_minecraft_netherrack": 19,
+    "platinum_ore_minecraft_netherrack": 17,
+    "galena_ore": 5,
+    "lapis_ore": 18,
+    "red_diamond_ore_minecraft_netherrack": 13,
+    "emerald_ore": 3,
+    "tin_ore_minecraft_netherrack": 16,
+    "emerald_ore_minecraft_netherrack": 12
+  }
+}

@@ -1,0 +1,8 @@
+setIcon(<pedestalcrafting:pedestal, meta:6>)
+setTitle("Lapis Pedestal")
+setDescription("At least two are required")
+setPos(8, 4)
+addParent("triumph:Overworld/Mine_Lapis_Ore")
+drawDirectLines(true)
+criteria = addCriteria("craftLapisPedestal", "triumph:player_crafted_item")
+criteria.setItem(<pedestalcrafting:pedestal, meta:6>)

@@ -1,0 +1,27 @@
+[
+    {
+        "mod_id": "rftools",
+        "block_id": "dimensional_shard_ore",
+        "symbol_id": "block_ore_dimensional_shard_overworld",
+        "word": "Tools",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "oretype",
+                "value": "ore_overworld"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 2.0,
+        "instability_exposed": 20.0
+    }
+]

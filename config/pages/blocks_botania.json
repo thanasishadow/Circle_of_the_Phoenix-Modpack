@@ -1,0 +1,1077 @@
+[
+    {
+        "mod_id": "botania",
+        "block_id": "altgrass",
+        "sub_id": "5",
+        "symbol_id": "block_mutated_grass",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "mutated"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "altgrass",
+        "sub_id": "4",
+        "symbol_id": "block_infused_grass",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "infused"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "altgrass",
+        "sub_id": "3",
+        "symbol_id": "block_scorched_grass",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "scorched"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "altgrass",
+        "sub_id": "2",
+        "symbol_id": "block_vivid_grass",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "vivid"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "altgrass",
+        "sub_id": "1",
+        "symbol_id": "block_golden_grass",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "golden"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "altgrass",
+        "sub_id": "0",
+        "symbol_id": "block_dry_grass",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "dry"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "dreamwood",
+        "sub_id": "2",
+        "symbol_id": "block_dreamwood_planks_mossy",
+        "word": "Botania",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "mossy_planks"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "dreamwood",
+        "sub_id": "1",
+        "symbol_id": "block_dreamwood_planks",
+        "word": "Botania",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "planks"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "dreamwood",
+        "sub_id": "0",
+        "symbol_id": "block_dreamwood_log",
+        "word": "Botania",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "default"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "elfglass",
+        "symbol_id": "block_alfglass",
+        "word": "Botania",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "enchantedsoil",
+        "symbol_id": "block_enchanted_soil",
+        "word": "Botania",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "livingrock",
+        "sub_id": "2",
+        "symbol_id": "block_livingrock_mossy",
+        "word": "Botania",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "mossy_brick"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "livingrock",
+        "sub_id": "1",
+        "symbol_id": "block_livingrock_brick",
+        "word": "Botania",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "brick"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "livingrock",
+        "sub_id": "0",
+        "symbol_id": "block_livingrock",
+        "word": "Botania",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "default"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "livingwood",
+        "sub_id": "2",
+        "symbol_id": "block_mossy_livingwood_planks",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "mossy_planks"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "livingwood",
+        "sub_id": "1",
+        "symbol_id": "block_livingwood_planks",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "planks"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "livingwood",
+        "sub_id": "0",
+        "symbol_id": "block_livingwood_log",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "default"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "managlass",
+        "symbol_id": "block_managlass",
+        "word": "Botania",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "15",
+        "symbol_id": "block_petal_black",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "black"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "14",
+        "symbol_id": "block_petal_red",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "red"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "13",
+        "symbol_id": "block_petal_green",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "green"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "12",
+        "symbol_id": "block_petal_brown",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "brown"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "11",
+        "symbol_id": "block_petal_blue",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "blue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "10",
+        "symbol_id": "block_petal_purple",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "purple"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "9",
+        "symbol_id": "block_petal_cyan",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "cyan"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "8",
+        "symbol_id": "block_petal_light_gray",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "silver"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "7",
+        "symbol_id": "block_petal_gray",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "gray"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "6",
+        "symbol_id": "block_petal_pink",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "pink"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "5",
+        "symbol_id": "block_petal_lime",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lime"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "4",
+        "symbol_id": "block_petal_yellow",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "yellow"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "3",
+        "symbol_id": "block_petal_light_blue",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "lightBlue"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "2",
+        "symbol_id": "block_petal_magenta",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "magenta"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "1",
+        "symbol_id": "block_petal_orange",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "orange"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "petalblock",
+        "sub_id": "0",
+        "symbol_id": "block_petal_white",
+        "word": "Botania",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "color",
+                "value": "white"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "shimmerrock",
+        "symbol_id": "block_shimmerrock",
+        "word": "Botania",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "shimmerwoodplanks",
+        "symbol_id": "block_shimmerwood_planks",
+        "word": "Botania",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "storage",
+        "sub_id": "4",
+        "symbol_id": "block_dragonstone",
+        "word": "Botania",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "dragonstone"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 20.0
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "storage",
+        "sub_id": "3",
+        "symbol_id": "block_mana_diamond",
+        "word": "Botania",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "mana_diamond"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 20.0
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "storage",
+        "sub_id": "2",
+        "symbol_id": "block_elementium",
+        "word": "Botania",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "elementium"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 20.0
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "storage",
+        "sub_id": "1",
+        "symbol_id": "block_terrasteel",
+        "word": "Botania",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "terrasteel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 20.0
+    },
+    {
+        "mod_id": "botania",
+        "block_id": "storage",
+        "sub_id": "0",
+        "symbol_id": "block_manasteel",
+        "word": "Botania",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "manasteel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 20.0
+    }
+]

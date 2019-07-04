@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Alphrabius5",
+    "category": "global"
+  },
+  "content": {
+    "title": "29th April (Alphrabius)",
+    "body": "[…] This dimension is stranger than I originally thought. It is filled with […]",
+    "autoplay": true
+  },
+  "sortingIndex": 23,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

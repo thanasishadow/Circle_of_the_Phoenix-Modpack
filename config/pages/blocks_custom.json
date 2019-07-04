@@ -1,0 +1,27 @@
+[
+    //              {
+    // (string)         "mod_id": "", // optional (default: "minecraft")
+    // (string)         "block_id": "",
+    // (string)         "sub_id": "", // optional (only necessary for specific mods)
+    // (string)         "localization_nonstandard": "", // optional
+    // (string)         "localization_override": "", // optional
+    // (string)         "symbol_id": "",
+    // (string)         "word": "",
+    // (int)            "loot_weight": , // null if never found as loot
+    //                  "properties": [  // optional (default blockstate if left out)
+    //                      {
+    // (string)                 "id": "",
+    // (string)                 "value": ""
+    //                      }
+    //                  ],
+    //                  "categories": [
+    //                      {
+    // (string)                 "mod_id": "", // optional (default: "mystcraft")
+    // (string)                 "category_id": "",
+    // (int)                    "weight":  // null if never added by grammar.
+    //                      }
+    //                  ],
+    // (float)          "instability_base": , // optional (must include instability_exposed if used)
+    // (float)          "instability_exposed":  // optional (must include instability_base if used)
+    //              }
+]

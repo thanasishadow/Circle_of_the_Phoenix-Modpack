@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Galen3",
+    "category": "global"
+  },
+  "content": {
+    "title": "27th April (Galen)",
+    "body": "[…] I better talk to Eudemus before it is too late […]",
+    "autoplay": true
+  },
+  "sortingIndex": 33,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

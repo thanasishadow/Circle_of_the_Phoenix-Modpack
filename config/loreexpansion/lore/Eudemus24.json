@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Eudemus1",
+    "category": "global"
+  },
+  "content": {
+    "title": "24th April (Eudemus)",
+    "body": "This is outrageous. How could they even be considering such a ridiculous thing? […]",
+    "autoplay": true
+  },
+  "sortingIndex": 37,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

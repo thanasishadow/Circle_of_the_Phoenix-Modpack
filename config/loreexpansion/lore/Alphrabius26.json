@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Alphrabius2",
+    "category": "global"
+  },
+  "content": {
+    "title": "26th April (Alphrabius)",
+    "body": "[…] 2/3 […]",
+    "autoplay": true
+  },
+  "sortingIndex": 20,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

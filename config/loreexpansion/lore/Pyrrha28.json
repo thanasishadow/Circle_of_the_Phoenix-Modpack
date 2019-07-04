@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Pyrrha4",
+    "category": "global"
+  },
+  "content": {
+    "title": "28th April (Pyrrha)",
+    "body": "[…] I wonder if I should share my suspicions with my colleagues […]",
+    "autoplay": true
+  },
+  "sortingIndex": 16,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

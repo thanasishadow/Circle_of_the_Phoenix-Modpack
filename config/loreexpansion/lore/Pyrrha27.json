@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Pyrrha3",
+    "category": "global"
+  },
+  "content": {
+    "title": "27th April (Pyrrha)",
+    "body": "[…] Sadly, my two colleagues voted in favor of this plan. I should start preparing some protective charms and a barrier. […]",
+    "autoplay": true
+  },
+  "sortingIndex": 15,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

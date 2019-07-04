@@ -1,0 +1,6 @@
+
+{
+  "Name": "rad_flame",
+  "Registry ID": "lumen:rad_flame",
+  "Class": "ladysnake.lumen.common.entities.EntityRadFlame"
+}

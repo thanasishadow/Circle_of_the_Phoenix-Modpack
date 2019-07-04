@@ -1,0 +1,18 @@
+{
+    "name": "Wood Alteration",
+    "icon": "contenttweaker:charred_log",
+    "category": "Tier 2",
+    "pages": [
+		{
+			"type": "slate_altar_T2",
+			"title": " Alteration",
+			"input1": "contenttweaker:flamablepowder",
+			"block": "minecraft:log",
+			"output": "contenttweaker:charred_log"
+		},
+		{
+            "type": "text",
+			"text": "This alteration is a good way of acquiring charcoal."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Volphisto2",
+    "category": "global"
+  },
+  "content": {
+    "title": "26th April (Volphisto)",
+    "body": "[…] the time has come […]",
+    "autoplay": true
+  },
+  "sortingIndex": 44,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Volphisto1",
+    "category": "global"
+  },
+  "content": {
+    "title": "24th April (Volphisto)",
+    "body": "[…] both mortals and witches can learn from one another […]",
+    "autoplay": true
+  },
+  "sortingIndex": 43,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

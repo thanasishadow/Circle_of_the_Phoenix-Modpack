@@ -1,0 +1,8877 @@
+## Ore Dictionary Info                      ##
+##############################################
+## In the form:                             ##
+## <ore dictionary entry>                   ##
+##     <item id registered> - <item damage> ##
+##     etc...                               ##
+##############################################
+arrow
+minecraft:arrow - 0
+minecraft:spectral_arrow - 0
+minecraft:tipped_arrow - 0
+
+
+atlcraftDecoKit
+atlcraft:atlcraft_furniturecraftingkit - 0
+
+
+bEnderAirBottle
+botania:manaresource - 15
+
+
+bFlask
+botania:vial - 1
+
+
+bPlaceholder
+botania:manaresource - 11
+
+
+bRedString
+botania:manaresource - 12
+
+
+bVial
+botania:vial - 0
+
+
+bakingEgg
+exoticbirds:cassowary_egg - 0
+exoticbirds:duck_egg - 0
+exoticbirds:flamingo_egg - 0
+exoticbirds:gouldianfinch_egg - 0
+exoticbirds:hummingbird_egg - 0
+exoticbirds:kingfisher_egg - 0
+exoticbirds:kiwi_egg - 0
+exoticbirds:lyrebird_egg - 0
+exoticbirds:magpie_egg - 0
+exoticbirds:ostrich_egg - 0
+exoticbirds:owl_egg - 0
+exoticbirds:parrot_egg - 0
+exoticbirds:peafowl_egg - 0
+exoticbirds:pelican_egg - 0
+exoticbirds:emperorpenguin_egg - 0
+exoticbirds:pigeon_egg - 0
+exoticbirds:roadrunner_egg - 0
+exoticbirds:seagull_egg - 0
+exoticbirds:swan_egg - 0
+exoticbirds:toucan_egg - 0
+exoticbirds:vulture_egg - 0
+exoticbirds:woodpecker_egg - 0
+exoticbirds:heron_egg - 0
+exoticbirds:booby_egg - 0
+exoticbirds:cardinal_egg - 0
+exoticbirds:bluejay_egg - 0
+exoticbirds:robin_egg - 0
+exoticbirds:crane_egg - 0
+exoticbirds:kookaburra_egg - 0
+
+
+barkAcacia
+rootsclassic:acaciatreebark - 0
+
+
+barkBirch
+rootsclassic:birchtreebark - 0
+
+
+barkJungle
+rootsclassic:jungletreebark - 0
+
+
+barkOak
+rootsclassic:oaktreebark - 0
+
+
+barkSpruce
+rootsclassic:sprucetreebark - 0
+
+
+barkWood
+rootsclassic:oaktreebark - 0
+rootsclassic:sprucetreebark - 0
+rootsclassic:jungletreebark - 0
+rootsclassic:acaciatreebark - 0
+rootsclassic:birchtreebark - 0
+
+
+bed
+minecraft:bed - 0
+
+
+beeswax
+bewitchment:wax - 0
+
+
+bellsIron
+totemic:sub_items - 1
+
+
+blockAlexandrite
+bewitchment:gem_block - 8
+
+
+blockAlubrass
+tconstruct:metal - 5
+
+
+blockAluminum
+thermalfoundation:storage - 4
+chisel:blockaluminum - 0
+chisel:blockaluminum - 1
+chisel:blockaluminum - 2
+chisel:blockaluminum - 3
+chisel:blockaluminum - 4
+chisel:blockaluminum - 5
+chisel:blockaluminum - 6
+
+
+blockAmethyst
+bewitchment:gem_block - 7
+
+
+blockAquaMiddleGem
+thebetweenlands:aqua_middle_gem_block - 0
+
+
+blockArdite
+tconstruct:metal - 1
+
+
+blockAstralStarmetal
+
+
+blockBaseEssence
+mysticalagriculture:ingot_storage - 0
+
+
+blockBlaze
+botania:blazeblock - 0
+
+
+blockBloodstone
+bewitchment:gem_block - 4
+
+
+blockBone
+thebetweenlands:slimy_bone_block - 0
+minecraft:bone_block - 0
+
+
+blockBrass
+thaumcraft:metal_brass - 0
+
+
+blockBronze
+thermalfoundation:storage_alloy - 3
+chisel:blockbronze - 0
+chisel:blockbronze - 1
+chisel:blockbronze - 2
+chisel:blockbronze - 3
+chisel:blockbronze - 4
+chisel:blockbronze - 5
+chisel:blockbronze - 6
+
+
+blockCactus
+minecraft:cactus - 0
+minecraft:cactus - any
+
+
+blockCandle
+bewitchment:candle_small - 0
+bewitchment:candle_medium - 0
+bewitchment:candle_small - 1
+bewitchment:candle_medium - 1
+bewitchment:candle_small - 2
+bewitchment:candle_medium - 2
+bewitchment:candle_small - 3
+bewitchment:candle_medium - 3
+bewitchment:candle_small - 4
+bewitchment:candle_medium - 4
+bewitchment:candle_small - 5
+bewitchment:candle_medium - 5
+bewitchment:candle_small - 6
+bewitchment:candle_medium - 6
+bewitchment:candle_small - 7
+bewitchment:candle_medium - 7
+bewitchment:candle_small - 8
+bewitchment:candle_medium - 8
+bewitchment:candle_small - 9
+bewitchment:candle_medium - 9
+bewitchment:candle_small - 10
+bewitchment:candle_medium - 10
+bewitchment:candle_small - 11
+bewitchment:candle_medium - 11
+bewitchment:candle_small - 12
+bewitchment:candle_medium - 12
+bewitchment:candle_small - 13
+bewitchment:candle_medium - 13
+bewitchment:candle_small - 14
+bewitchment:candle_medium - 14
+bewitchment:candle_small - 15
+bewitchment:candle_medium - 15
+
+
+blockCharcoal
+thermalfoundation:storage_resource - 0
+chisel:block_charcoal - 0
+chisel:block_charcoal - 1
+chisel:block_charcoal - 2
+chisel:block_charcoal - 3
+chisel:block_charcoal - 4
+chisel:block_charcoal - 5
+chisel:block_charcoal - 6
+chisel:block_charcoal - 7
+chisel:block_charcoal - 8
+chisel:block_charcoal - 9
+chisel:block_charcoal - 10
+chisel:block_charcoal - 11
+chisel:block_charcoal - 12
+chisel:block_charcoal - 13
+chisel:block_charcoal - 14
+chisel:block_charcoal - 15
+chisel:block_charcoal1 - 0
+chisel:block_charcoal1 - 1
+chisel:block_charcoal1 - 2
+chisel:block_charcoal1 - 3
+chisel:block_charcoal1 - 4
+chisel:block_charcoal1 - 5
+chisel:block_charcoal1 - 6
+chisel:block_charcoal1 - 7
+chisel:block_charcoal1 - 8
+chisel:block_charcoal1 - 9
+chisel:block_charcoal1 - 10
+chisel:block_charcoal1 - 11
+chisel:block_charcoal1 - 12
+chisel:block_charcoal1 - 13
+chisel:block_charcoal1 - 14
+chisel:block_charcoal1 - 15
+chisel:block_charcoal2 - 0
+chisel:block_charcoal2 - 1
+
+
+blockCincinnasite
+betternether:cincinnasite_forged - 0
+betternether:cincinnasite_pillar - 0
+betternether:cincinnasite_tile_large - 0
+betternether:cincinnasite_tile_small - 0
+
+
+blockClay
+minecraft:clay - any
+
+
+blockCoal
+minecraft:coal_block - 0
+chisel:block_coal - 0
+chisel:block_coal - 1
+chisel:block_coal - 2
+chisel:block_coal - 3
+chisel:block_coal - 4
+chisel:block_coal - 5
+chisel:block_coal - 6
+chisel:block_coal - 7
+chisel:block_coal - 8
+chisel:block_coal - 9
+chisel:block_coal - 10
+chisel:block_coal - 11
+chisel:block_coal - 12
+chisel:block_coal - 13
+chisel:block_coal - 14
+chisel:block_coal - 15
+chisel:block_coal1 - 0
+chisel:block_coal1 - 1
+chisel:block_coal1 - 2
+chisel:block_coal1 - 3
+chisel:block_coal1 - 4
+chisel:block_coal1 - 5
+chisel:block_coal1 - 6
+chisel:block_coal1 - 7
+chisel:block_coal1 - 8
+chisel:block_coal1 - 9
+chisel:block_coal1 - 10
+chisel:block_coal1 - 11
+chisel:block_coal1 - 12
+chisel:block_coal1 - 13
+chisel:block_coal1 - 14
+chisel:block_coal1 - 15
+chisel:block_coal2 - 0
+chisel:block_coal2 - 1
+
+
+blockCoalCoke
+chisel:block_coal_coke - 0
+chisel:block_coal_coke - 1
+chisel:block_coal_coke - 2
+chisel:block_coal_coke - 3
+chisel:block_coal_coke - 4
+chisel:block_coal_coke - 5
+chisel:block_coal_coke - 6
+chisel:block_coal_coke - 7
+chisel:block_coal_coke - 8
+chisel:block_coal_coke - 9
+chisel:block_coal_coke - 10
+chisel:block_coal_coke - 11
+chisel:block_coal_coke - 12
+chisel:block_coal_coke - 13
+chisel:block_coal_coke - 14
+chisel:block_coal_coke - 15
+chisel:block_coal_coke1 - 0
+chisel:block_coal_coke1 - 1
+chisel:block_coal_coke1 - 2
+chisel:block_coal_coke1 - 3
+chisel:block_coal_coke1 - 4
+chisel:block_coal_coke1 - 5
+chisel:block_coal_coke1 - 6
+chisel:block_coal_coke1 - 7
+chisel:block_coal_coke1 - 8
+chisel:block_coal_coke1 - 9
+chisel:block_coal_coke1 - 10
+chisel:block_coal_coke1 - 11
+chisel:block_coal_coke1 - 12
+chisel:block_coal_coke1 - 13
+chisel:block_coal_coke1 - 14
+chisel:block_coal_coke1 - 15
+chisel:block_coal_coke2 - 0
+chisel:block_coal_coke2 - 1
+
+
+blockCobalt
+chisel:blockcobalt - 0
+chisel:blockcobalt - 1
+chisel:blockcobalt - 2
+chisel:blockcobalt - 3
+chisel:blockcobalt - 4
+chisel:blockcobalt - 5
+chisel:blockcobalt - 6
+tconstruct:metal - 0
+
+
+blockColdIron
+bewitchment:cold_iron_block - 0
+bewitchment:cold_iron_block_chisel - 0
+bewitchment:cold_iron_block_chisel - 1
+bewitchment:cold_iron_block_chisel - 2
+bewitchment:cold_iron_block_chisel - 3
+bewitchment:cold_iron_block_chisel - 4
+bewitchment:cold_iron_block_chisel - 5
+bewitchment:cold_iron_block_chisel - 6
+bewitchment:cold_iron_block_chisel - 7
+bewitchment:cold_iron_block_chisel - 8
+
+
+blockConcrete
+chisel:concrete_black - 0
+chisel:concrete_black - 1
+chisel:concrete_black - 2
+chisel:concrete_black - 3
+chisel:concrete_black - 4
+chisel:concrete_black - 5
+chisel:concrete_black - 6
+chisel:concrete_black - 7
+chisel:concrete_black - 8
+chisel:concrete_black - 9
+chisel:concrete_black - 10
+chisel:concrete_black - 11
+chisel:concrete_black - 12
+chisel:concrete_black - 13
+chisel:concrete_black - 14
+chisel:concrete_black - 15
+chisel:concrete_black1 - 0
+chisel:concrete_black1 - 1
+chisel:concrete_black1 - 2
+chisel:concrete_black1 - 3
+chisel:concrete_black1 - 4
+chisel:concrete_black1 - 5
+chisel:concrete_black1 - 6
+chisel:concrete_black1 - 7
+chisel:concrete_black1 - 8
+chisel:concrete_black1 - 9
+chisel:concrete_black1 - 10
+chisel:concrete_black1 - 11
+chisel:concrete_black1 - 12
+chisel:concrete_black1 - 13
+chisel:concrete_black1 - 14
+chisel:concrete_black1 - 15
+chisel:concrete_black2 - 0
+chisel:concrete_red - 0
+chisel:concrete_red - 1
+chisel:concrete_red - 2
+chisel:concrete_red - 3
+chisel:concrete_red - 4
+chisel:concrete_red - 5
+chisel:concrete_red - 6
+chisel:concrete_red - 7
+chisel:concrete_red - 8
+chisel:concrete_red - 9
+chisel:concrete_red - 10
+chisel:concrete_red - 11
+chisel:concrete_red - 12
+chisel:concrete_red - 13
+chisel:concrete_red - 14
+chisel:concrete_red - 15
+chisel:concrete_red1 - 0
+chisel:concrete_red1 - 1
+chisel:concrete_red1 - 2
+chisel:concrete_red1 - 3
+chisel:concrete_red1 - 4
+chisel:concrete_red1 - 5
+chisel:concrete_red1 - 6
+chisel:concrete_red1 - 7
+chisel:concrete_red1 - 8
+chisel:concrete_red1 - 9
+chisel:concrete_red1 - 10
+chisel:concrete_red1 - 11
+chisel:concrete_red1 - 12
+chisel:concrete_red1 - 13
+chisel:concrete_red1 - 14
+chisel:concrete_red1 - 15
+chisel:concrete_red2 - 0
+chisel:concrete_green - 0
+chisel:concrete_green - 1
+chisel:concrete_green - 2
+chisel:concrete_green - 3
+chisel:concrete_green - 4
+chisel:concrete_green - 5
+chisel:concrete_green - 6
+chisel:concrete_green - 7
+chisel:concrete_green - 8
+chisel:concrete_green - 9
+chisel:concrete_green - 10
+chisel:concrete_green - 11
+chisel:concrete_green - 12
+chisel:concrete_green - 13
+chisel:concrete_green - 14
+chisel:concrete_green - 15
+chisel:concrete_green1 - 0
+chisel:concrete_green1 - 1
+chisel:concrete_green1 - 2
+chisel:concrete_green1 - 3
+chisel:concrete_green1 - 4
+chisel:concrete_green1 - 5
+chisel:concrete_green1 - 6
+chisel:concrete_green1 - 7
+chisel:concrete_green1 - 8
+chisel:concrete_green1 - 9
+chisel:concrete_green1 - 10
+chisel:concrete_green1 - 11
+chisel:concrete_green1 - 12
+chisel:concrete_green1 - 13
+chisel:concrete_green1 - 14
+chisel:concrete_green1 - 15
+chisel:concrete_green2 - 0
+chisel:concrete_brown - 0
+chisel:concrete_brown - 1
+chisel:concrete_brown - 2
+chisel:concrete_brown - 3
+chisel:concrete_brown - 4
+chisel:concrete_brown - 5
+chisel:concrete_brown - 6
+chisel:concrete_brown - 7
+chisel:concrete_brown - 8
+chisel:concrete_brown - 9
+chisel:concrete_brown - 10
+chisel:concrete_brown - 11
+chisel:concrete_brown - 12
+chisel:concrete_brown - 13
+chisel:concrete_brown - 14
+chisel:concrete_brown - 15
+chisel:concrete_brown1 - 0
+chisel:concrete_brown1 - 1
+chisel:concrete_brown1 - 2
+chisel:concrete_brown1 - 3
+chisel:concrete_brown1 - 4
+chisel:concrete_brown1 - 5
+chisel:concrete_brown1 - 6
+chisel:concrete_brown1 - 7
+chisel:concrete_brown1 - 8
+chisel:concrete_brown1 - 9
+chisel:concrete_brown1 - 10
+chisel:concrete_brown1 - 11
+chisel:concrete_brown1 - 12
+chisel:concrete_brown1 - 13
+chisel:concrete_brown1 - 14
+chisel:concrete_brown1 - 15
+chisel:concrete_brown2 - 0
+chisel:concrete_blue - 0
+chisel:concrete_blue - 1
+chisel:concrete_blue - 2
+chisel:concrete_blue - 3
+chisel:concrete_blue - 4
+chisel:concrete_blue - 5
+chisel:concrete_blue - 6
+chisel:concrete_blue - 7
+chisel:concrete_blue - 8
+chisel:concrete_blue - 9
+chisel:concrete_blue - 10
+chisel:concrete_blue - 11
+chisel:concrete_blue - 12
+chisel:concrete_blue - 13
+chisel:concrete_blue - 14
+chisel:concrete_blue - 15
+chisel:concrete_blue1 - 0
+chisel:concrete_blue1 - 1
+chisel:concrete_blue1 - 2
+chisel:concrete_blue1 - 3
+chisel:concrete_blue1 - 4
+chisel:concrete_blue1 - 5
+chisel:concrete_blue1 - 6
+chisel:concrete_blue1 - 7
+chisel:concrete_blue1 - 8
+chisel:concrete_blue1 - 9
+chisel:concrete_blue1 - 10
+chisel:concrete_blue1 - 11
+chisel:concrete_blue1 - 12
+chisel:concrete_blue1 - 13
+chisel:concrete_blue1 - 14
+chisel:concrete_blue1 - 15
+chisel:concrete_blue2 - 0
+chisel:concrete_purple - 0
+chisel:concrete_purple - 1
+chisel:concrete_purple - 2
+chisel:concrete_purple - 3
+chisel:concrete_purple - 4
+chisel:concrete_purple - 5
+chisel:concrete_purple - 6
+chisel:concrete_purple - 7
+chisel:concrete_purple - 8
+chisel:concrete_purple - 9
+chisel:concrete_purple - 10
+chisel:concrete_purple - 11
+chisel:concrete_purple - 12
+chisel:concrete_purple - 13
+chisel:concrete_purple - 14
+chisel:concrete_purple - 15
+chisel:concrete_purple1 - 0
+chisel:concrete_purple1 - 1
+chisel:concrete_purple1 - 2
+chisel:concrete_purple1 - 3
+chisel:concrete_purple1 - 4
+chisel:concrete_purple1 - 5
+chisel:concrete_purple1 - 6
+chisel:concrete_purple1 - 7
+chisel:concrete_purple1 - 8
+chisel:concrete_purple1 - 9
+chisel:concrete_purple1 - 10
+chisel:concrete_purple1 - 11
+chisel:concrete_purple1 - 12
+chisel:concrete_purple1 - 13
+chisel:concrete_purple1 - 14
+chisel:concrete_purple1 - 15
+chisel:concrete_purple2 - 0
+chisel:concrete_cyan - 0
+chisel:concrete_cyan - 1
+chisel:concrete_cyan - 2
+chisel:concrete_cyan - 3
+chisel:concrete_cyan - 4
+chisel:concrete_cyan - 5
+chisel:concrete_cyan - 6
+chisel:concrete_cyan - 7
+chisel:concrete_cyan - 8
+chisel:concrete_cyan - 9
+chisel:concrete_cyan - 10
+chisel:concrete_cyan - 11
+chisel:concrete_cyan - 12
+chisel:concrete_cyan - 13
+chisel:concrete_cyan - 14
+chisel:concrete_cyan - 15
+chisel:concrete_cyan1 - 0
+chisel:concrete_cyan1 - 1
+chisel:concrete_cyan1 - 2
+chisel:concrete_cyan1 - 3
+chisel:concrete_cyan1 - 4
+chisel:concrete_cyan1 - 5
+chisel:concrete_cyan1 - 6
+chisel:concrete_cyan1 - 7
+chisel:concrete_cyan1 - 8
+chisel:concrete_cyan1 - 9
+chisel:concrete_cyan1 - 10
+chisel:concrete_cyan1 - 11
+chisel:concrete_cyan1 - 12
+chisel:concrete_cyan1 - 13
+chisel:concrete_cyan1 - 14
+chisel:concrete_cyan1 - 15
+chisel:concrete_cyan2 - 0
+chisel:concrete_lightgray - 0
+chisel:concrete_lightgray - 1
+chisel:concrete_lightgray - 2
+chisel:concrete_lightgray - 3
+chisel:concrete_lightgray - 4
+chisel:concrete_lightgray - 5
+chisel:concrete_lightgray - 6
+chisel:concrete_lightgray - 7
+chisel:concrete_lightgray - 8
+chisel:concrete_lightgray - 9
+chisel:concrete_lightgray - 10
+chisel:concrete_lightgray - 11
+chisel:concrete_lightgray - 12
+chisel:concrete_lightgray - 13
+chisel:concrete_lightgray - 14
+chisel:concrete_lightgray - 15
+chisel:concrete_lightgray1 - 0
+chisel:concrete_lightgray1 - 1
+chisel:concrete_lightgray1 - 2
+chisel:concrete_lightgray1 - 3
+chisel:concrete_lightgray1 - 4
+chisel:concrete_lightgray1 - 5
+chisel:concrete_lightgray1 - 6
+chisel:concrete_lightgray1 - 7
+chisel:concrete_lightgray1 - 8
+chisel:concrete_lightgray1 - 9
+chisel:concrete_lightgray1 - 10
+chisel:concrete_lightgray1 - 11
+chisel:concrete_lightgray1 - 12
+chisel:concrete_lightgray1 - 13
+chisel:concrete_lightgray1 - 14
+chisel:concrete_lightgray1 - 15
+chisel:concrete_lightgray2 - 0
+chisel:concrete_gray - 0
+chisel:concrete_gray - 1
+chisel:concrete_gray - 2
+chisel:concrete_gray - 3
+chisel:concrete_gray - 4
+chisel:concrete_gray - 5
+chisel:concrete_gray - 6
+chisel:concrete_gray - 7
+chisel:concrete_gray - 8
+chisel:concrete_gray - 9
+chisel:concrete_gray - 10
+chisel:concrete_gray - 11
+chisel:concrete_gray - 12
+chisel:concrete_gray - 13
+chisel:concrete_gray - 14
+chisel:concrete_gray - 15
+chisel:concrete_gray1 - 0
+chisel:concrete_gray1 - 1
+chisel:concrete_gray1 - 2
+chisel:concrete_gray1 - 3
+chisel:concrete_gray1 - 4
+chisel:concrete_gray1 - 5
+chisel:concrete_gray1 - 6
+chisel:concrete_gray1 - 7
+chisel:concrete_gray1 - 8
+chisel:concrete_gray1 - 9
+chisel:concrete_gray1 - 10
+chisel:concrete_gray1 - 11
+chisel:concrete_gray1 - 12
+chisel:concrete_gray1 - 13
+chisel:concrete_gray1 - 14
+chisel:concrete_gray1 - 15
+chisel:concrete_gray2 - 0
+chisel:concrete_pink - 0
+chisel:concrete_pink - 1
+chisel:concrete_pink - 2
+chisel:concrete_pink - 3
+chisel:concrete_pink - 4
+chisel:concrete_pink - 5
+chisel:concrete_pink - 6
+chisel:concrete_pink - 7
+chisel:concrete_pink - 8
+chisel:concrete_pink - 9
+chisel:concrete_pink - 10
+chisel:concrete_pink - 11
+chisel:concrete_pink - 12
+chisel:concrete_pink - 13
+chisel:concrete_pink - 14
+chisel:concrete_pink - 15
+chisel:concrete_pink1 - 0
+chisel:concrete_pink1 - 1
+chisel:concrete_pink1 - 2
+chisel:concrete_pink1 - 3
+chisel:concrete_pink1 - 4
+chisel:concrete_pink1 - 5
+chisel:concrete_pink1 - 6
+chisel:concrete_pink1 - 7
+chisel:concrete_pink1 - 8
+chisel:concrete_pink1 - 9
+chisel:concrete_pink1 - 10
+chisel:concrete_pink1 - 11
+chisel:concrete_pink1 - 12
+chisel:concrete_pink1 - 13
+chisel:concrete_pink1 - 14
+chisel:concrete_pink1 - 15
+chisel:concrete_pink2 - 0
+chisel:concrete_lime - 0
+chisel:concrete_lime - 1
+chisel:concrete_lime - 2
+chisel:concrete_lime - 3
+chisel:concrete_lime - 4
+chisel:concrete_lime - 5
+chisel:concrete_lime - 6
+chisel:concrete_lime - 7
+chisel:concrete_lime - 8
+chisel:concrete_lime - 9
+chisel:concrete_lime - 10
+chisel:concrete_lime - 11
+chisel:concrete_lime - 12
+chisel:concrete_lime - 13
+chisel:concrete_lime - 14
+chisel:concrete_lime - 15
+chisel:concrete_lime1 - 0
+chisel:concrete_lime1 - 1
+chisel:concrete_lime1 - 2
+chisel:concrete_lime1 - 3
+chisel:concrete_lime1 - 4
+chisel:concrete_lime1 - 5
+chisel:concrete_lime1 - 6
+chisel:concrete_lime1 - 7
+chisel:concrete_lime1 - 8
+chisel:concrete_lime1 - 9
+chisel:concrete_lime1 - 10
+chisel:concrete_lime1 - 11
+chisel:concrete_lime1 - 12
+chisel:concrete_lime1 - 13
+chisel:concrete_lime1 - 14
+chisel:concrete_lime1 - 15
+chisel:concrete_lime2 - 0
+chisel:concrete_yellow - 0
+chisel:concrete_yellow - 1
+chisel:concrete_yellow - 2
+chisel:concrete_yellow - 3
+chisel:concrete_yellow - 4
+chisel:concrete_yellow - 5
+chisel:concrete_yellow - 6
+chisel:concrete_yellow - 7
+chisel:concrete_yellow - 8
+chisel:concrete_yellow - 9
+chisel:concrete_yellow - 10
+chisel:concrete_yellow - 11
+chisel:concrete_yellow - 12
+chisel:concrete_yellow - 13
+chisel:concrete_yellow - 14
+chisel:concrete_yellow - 15
+chisel:concrete_yellow1 - 0
+chisel:concrete_yellow1 - 1
+chisel:concrete_yellow1 - 2
+chisel:concrete_yellow1 - 3
+chisel:concrete_yellow1 - 4
+chisel:concrete_yellow1 - 5
+chisel:concrete_yellow1 - 6
+chisel:concrete_yellow1 - 7
+chisel:concrete_yellow1 - 8
+chisel:concrete_yellow1 - 9
+chisel:concrete_yellow1 - 10
+chisel:concrete_yellow1 - 11
+chisel:concrete_yellow1 - 12
+chisel:concrete_yellow1 - 13
+chisel:concrete_yellow1 - 14
+chisel:concrete_yellow1 - 15
+chisel:concrete_yellow2 - 0
+chisel:concrete_lightblue - 0
+chisel:concrete_lightblue - 1
+chisel:concrete_lightblue - 2
+chisel:concrete_lightblue - 3
+chisel:concrete_lightblue - 4
+chisel:concrete_lightblue - 5
+chisel:concrete_lightblue - 6
+chisel:concrete_lightblue - 7
+chisel:concrete_lightblue - 8
+chisel:concrete_lightblue - 9
+chisel:concrete_lightblue - 10
+chisel:concrete_lightblue - 11
+chisel:concrete_lightblue - 12
+chisel:concrete_lightblue - 13
+chisel:concrete_lightblue - 14
+chisel:concrete_lightblue - 15
+chisel:concrete_lightblue1 - 0
+chisel:concrete_lightblue1 - 1
+chisel:concrete_lightblue1 - 2
+chisel:concrete_lightblue1 - 3
+chisel:concrete_lightblue1 - 4
+chisel:concrete_lightblue1 - 5
+chisel:concrete_lightblue1 - 6
+chisel:concrete_lightblue1 - 7
+chisel:concrete_lightblue1 - 8
+chisel:concrete_lightblue1 - 9
+chisel:concrete_lightblue1 - 10
+chisel:concrete_lightblue1 - 11
+chisel:concrete_lightblue1 - 12
+chisel:concrete_lightblue1 - 13
+chisel:concrete_lightblue1 - 14
+chisel:concrete_lightblue1 - 15
+chisel:concrete_lightblue2 - 0
+chisel:concrete_magenta - 0
+chisel:concrete_magenta - 1
+chisel:concrete_magenta - 2
+chisel:concrete_magenta - 3
+chisel:concrete_magenta - 4
+chisel:concrete_magenta - 5
+chisel:concrete_magenta - 6
+chisel:concrete_magenta - 7
+chisel:concrete_magenta - 8
+chisel:concrete_magenta - 9
+chisel:concrete_magenta - 10
+chisel:concrete_magenta - 11
+chisel:concrete_magenta - 12
+chisel:concrete_magenta - 13
+chisel:concrete_magenta - 14
+chisel:concrete_magenta - 15
+chisel:concrete_magenta1 - 0
+chisel:concrete_magenta1 - 1
+chisel:concrete_magenta1 - 2
+chisel:concrete_magenta1 - 3
+chisel:concrete_magenta1 - 4
+chisel:concrete_magenta1 - 5
+chisel:concrete_magenta1 - 6
+chisel:concrete_magenta1 - 7
+chisel:concrete_magenta1 - 8
+chisel:concrete_magenta1 - 9
+chisel:concrete_magenta1 - 10
+chisel:concrete_magenta1 - 11
+chisel:concrete_magenta1 - 12
+chisel:concrete_magenta1 - 13
+chisel:concrete_magenta1 - 14
+chisel:concrete_magenta1 - 15
+chisel:concrete_magenta2 - 0
+chisel:concrete_orange - 0
+chisel:concrete_orange - 1
+chisel:concrete_orange - 2
+chisel:concrete_orange - 3
+chisel:concrete_orange - 4
+chisel:concrete_orange - 5
+chisel:concrete_orange - 6
+chisel:concrete_orange - 7
+chisel:concrete_orange - 8
+chisel:concrete_orange - 9
+chisel:concrete_orange - 10
+chisel:concrete_orange - 11
+chisel:concrete_orange - 12
+chisel:concrete_orange - 13
+chisel:concrete_orange - 14
+chisel:concrete_orange - 15
+chisel:concrete_orange1 - 0
+chisel:concrete_orange1 - 1
+chisel:concrete_orange1 - 2
+chisel:concrete_orange1 - 3
+chisel:concrete_orange1 - 4
+chisel:concrete_orange1 - 5
+chisel:concrete_orange1 - 6
+chisel:concrete_orange1 - 7
+chisel:concrete_orange1 - 8
+chisel:concrete_orange1 - 9
+chisel:concrete_orange1 - 10
+chisel:concrete_orange1 - 11
+chisel:concrete_orange1 - 12
+chisel:concrete_orange1 - 13
+chisel:concrete_orange1 - 14
+chisel:concrete_orange1 - 15
+chisel:concrete_orange2 - 0
+chisel:concrete_white - 0
+chisel:concrete_white - 1
+chisel:concrete_white - 2
+chisel:concrete_white - 3
+chisel:concrete_white - 4
+chisel:concrete_white - 5
+chisel:concrete_white - 6
+chisel:concrete_white - 7
+chisel:concrete_white - 8
+chisel:concrete_white - 9
+chisel:concrete_white - 10
+chisel:concrete_white - 11
+chisel:concrete_white - 12
+chisel:concrete_white - 13
+chisel:concrete_white - 14
+chisel:concrete_white - 15
+chisel:concrete_white1 - 0
+chisel:concrete_white1 - 1
+chisel:concrete_white1 - 2
+chisel:concrete_white1 - 3
+chisel:concrete_white1 - 4
+chisel:concrete_white1 - 5
+chisel:concrete_white1 - 6
+chisel:concrete_white1 - 7
+chisel:concrete_white1 - 8
+chisel:concrete_white1 - 9
+chisel:concrete_white1 - 10
+chisel:concrete_white1 - 11
+chisel:concrete_white1 - 12
+chisel:concrete_white1 - 13
+chisel:concrete_white1 - 14
+chisel:concrete_white1 - 15
+chisel:concrete_white2 - 0
+
+
+blockConcreteBlack
+chisel:concrete_black - 0
+chisel:concrete_black - 1
+chisel:concrete_black - 2
+chisel:concrete_black - 3
+chisel:concrete_black - 4
+chisel:concrete_black - 5
+chisel:concrete_black - 6
+chisel:concrete_black - 7
+chisel:concrete_black - 8
+chisel:concrete_black - 9
+chisel:concrete_black - 10
+chisel:concrete_black - 11
+chisel:concrete_black - 12
+chisel:concrete_black - 13
+chisel:concrete_black - 14
+chisel:concrete_black - 15
+chisel:concrete_black1 - 0
+chisel:concrete_black1 - 1
+chisel:concrete_black1 - 2
+chisel:concrete_black1 - 3
+chisel:concrete_black1 - 4
+chisel:concrete_black1 - 5
+chisel:concrete_black1 - 6
+chisel:concrete_black1 - 7
+chisel:concrete_black1 - 8
+chisel:concrete_black1 - 9
+chisel:concrete_black1 - 10
+chisel:concrete_black1 - 11
+chisel:concrete_black1 - 12
+chisel:concrete_black1 - 13
+chisel:concrete_black1 - 14
+chisel:concrete_black1 - 15
+chisel:concrete_black2 - 0
+
+
+blockConcreteBlue
+chisel:concrete_blue - 0
+chisel:concrete_blue - 1
+chisel:concrete_blue - 2
+chisel:concrete_blue - 3
+chisel:concrete_blue - 4
+chisel:concrete_blue - 5
+chisel:concrete_blue - 6
+chisel:concrete_blue - 7
+chisel:concrete_blue - 8
+chisel:concrete_blue - 9
+chisel:concrete_blue - 10
+chisel:concrete_blue - 11
+chisel:concrete_blue - 12
+chisel:concrete_blue - 13
+chisel:concrete_blue - 14
+chisel:concrete_blue - 15
+chisel:concrete_blue1 - 0
+chisel:concrete_blue1 - 1
+chisel:concrete_blue1 - 2
+chisel:concrete_blue1 - 3
+chisel:concrete_blue1 - 4
+chisel:concrete_blue1 - 5
+chisel:concrete_blue1 - 6
+chisel:concrete_blue1 - 7
+chisel:concrete_blue1 - 8
+chisel:concrete_blue1 - 9
+chisel:concrete_blue1 - 10
+chisel:concrete_blue1 - 11
+chisel:concrete_blue1 - 12
+chisel:concrete_blue1 - 13
+chisel:concrete_blue1 - 14
+chisel:concrete_blue1 - 15
+chisel:concrete_blue2 - 0
+
+
+blockConcreteBrown
+chisel:concrete_brown - 0
+chisel:concrete_brown - 1
+chisel:concrete_brown - 2
+chisel:concrete_brown - 3
+chisel:concrete_brown - 4
+chisel:concrete_brown - 5
+chisel:concrete_brown - 6
+chisel:concrete_brown - 7
+chisel:concrete_brown - 8
+chisel:concrete_brown - 9
+chisel:concrete_brown - 10
+chisel:concrete_brown - 11
+chisel:concrete_brown - 12
+chisel:concrete_brown - 13
+chisel:concrete_brown - 14
+chisel:concrete_brown - 15
+chisel:concrete_brown1 - 0
+chisel:concrete_brown1 - 1
+chisel:concrete_brown1 - 2
+chisel:concrete_brown1 - 3
+chisel:concrete_brown1 - 4
+chisel:concrete_brown1 - 5
+chisel:concrete_brown1 - 6
+chisel:concrete_brown1 - 7
+chisel:concrete_brown1 - 8
+chisel:concrete_brown1 - 9
+chisel:concrete_brown1 - 10
+chisel:concrete_brown1 - 11
+chisel:concrete_brown1 - 12
+chisel:concrete_brown1 - 13
+chisel:concrete_brown1 - 14
+chisel:concrete_brown1 - 15
+chisel:concrete_brown2 - 0
+
+
+blockConcreteCyan
+chisel:concrete_cyan - 0
+chisel:concrete_cyan - 1
+chisel:concrete_cyan - 2
+chisel:concrete_cyan - 3
+chisel:concrete_cyan - 4
+chisel:concrete_cyan - 5
+chisel:concrete_cyan - 6
+chisel:concrete_cyan - 7
+chisel:concrete_cyan - 8
+chisel:concrete_cyan - 9
+chisel:concrete_cyan - 10
+chisel:concrete_cyan - 11
+chisel:concrete_cyan - 12
+chisel:concrete_cyan - 13
+chisel:concrete_cyan - 14
+chisel:concrete_cyan - 15
+chisel:concrete_cyan1 - 0
+chisel:concrete_cyan1 - 1
+chisel:concrete_cyan1 - 2
+chisel:concrete_cyan1 - 3
+chisel:concrete_cyan1 - 4
+chisel:concrete_cyan1 - 5
+chisel:concrete_cyan1 - 6
+chisel:concrete_cyan1 - 7
+chisel:concrete_cyan1 - 8
+chisel:concrete_cyan1 - 9
+chisel:concrete_cyan1 - 10
+chisel:concrete_cyan1 - 11
+chisel:concrete_cyan1 - 12
+chisel:concrete_cyan1 - 13
+chisel:concrete_cyan1 - 14
+chisel:concrete_cyan1 - 15
+chisel:concrete_cyan2 - 0
+
+
+blockConcreteGray
+chisel:concrete_gray - 0
+chisel:concrete_gray - 1
+chisel:concrete_gray - 2
+chisel:concrete_gray - 3
+chisel:concrete_gray - 4
+chisel:concrete_gray - 5
+chisel:concrete_gray - 6
+chisel:concrete_gray - 7
+chisel:concrete_gray - 8
+chisel:concrete_gray - 9
+chisel:concrete_gray - 10
+chisel:concrete_gray - 11
+chisel:concrete_gray - 12
+chisel:concrete_gray - 13
+chisel:concrete_gray - 14
+chisel:concrete_gray - 15
+chisel:concrete_gray1 - 0
+chisel:concrete_gray1 - 1
+chisel:concrete_gray1 - 2
+chisel:concrete_gray1 - 3
+chisel:concrete_gray1 - 4
+chisel:concrete_gray1 - 5
+chisel:concrete_gray1 - 6
+chisel:concrete_gray1 - 7
+chisel:concrete_gray1 - 8
+chisel:concrete_gray1 - 9
+chisel:concrete_gray1 - 10
+chisel:concrete_gray1 - 11
+chisel:concrete_gray1 - 12
+chisel:concrete_gray1 - 13
+chisel:concrete_gray1 - 14
+chisel:concrete_gray1 - 15
+chisel:concrete_gray2 - 0
+
+
+blockConcreteGreen
+chisel:concrete_green - 0
+chisel:concrete_green - 1
+chisel:concrete_green - 2
+chisel:concrete_green - 3
+chisel:concrete_green - 4
+chisel:concrete_green - 5
+chisel:concrete_green - 6
+chisel:concrete_green - 7
+chisel:concrete_green - 8
+chisel:concrete_green - 9
+chisel:concrete_green - 10
+chisel:concrete_green - 11
+chisel:concrete_green - 12
+chisel:concrete_green - 13
+chisel:concrete_green - 14
+chisel:concrete_green - 15
+chisel:concrete_green1 - 0
+chisel:concrete_green1 - 1
+chisel:concrete_green1 - 2
+chisel:concrete_green1 - 3
+chisel:concrete_green1 - 4
+chisel:concrete_green1 - 5
+chisel:concrete_green1 - 6
+chisel:concrete_green1 - 7
+chisel:concrete_green1 - 8
+chisel:concrete_green1 - 9
+chisel:concrete_green1 - 10
+chisel:concrete_green1 - 11
+chisel:concrete_green1 - 12
+chisel:concrete_green1 - 13
+chisel:concrete_green1 - 14
+chisel:concrete_green1 - 15
+chisel:concrete_green2 - 0
+
+
+blockConcreteLightBlue
+chisel:concrete_lightblue - 0
+chisel:concrete_lightblue - 1
+chisel:concrete_lightblue - 2
+chisel:concrete_lightblue - 3
+chisel:concrete_lightblue - 4
+chisel:concrete_lightblue - 5
+chisel:concrete_lightblue - 6
+chisel:concrete_lightblue - 7
+chisel:concrete_lightblue - 8
+chisel:concrete_lightblue - 9
+chisel:concrete_lightblue - 10
+chisel:concrete_lightblue - 11
+chisel:concrete_lightblue - 12
+chisel:concrete_lightblue - 13
+chisel:concrete_lightblue - 14
+chisel:concrete_lightblue - 15
+chisel:concrete_lightblue1 - 0
+chisel:concrete_lightblue1 - 1
+chisel:concrete_lightblue1 - 2
+chisel:concrete_lightblue1 - 3
+chisel:concrete_lightblue1 - 4
+chisel:concrete_lightblue1 - 5
+chisel:concrete_lightblue1 - 6
+chisel:concrete_lightblue1 - 7
+chisel:concrete_lightblue1 - 8
+chisel:concrete_lightblue1 - 9
+chisel:concrete_lightblue1 - 10
+chisel:concrete_lightblue1 - 11
+chisel:concrete_lightblue1 - 12
+chisel:concrete_lightblue1 - 13
+chisel:concrete_lightblue1 - 14
+chisel:concrete_lightblue1 - 15
+chisel:concrete_lightblue2 - 0
+
+
+blockConcreteLightGray
+chisel:concrete_lightgray - 0
+chisel:concrete_lightgray - 1
+chisel:concrete_lightgray - 2
+chisel:concrete_lightgray - 3
+chisel:concrete_lightgray - 4
+chisel:concrete_lightgray - 5
+chisel:concrete_lightgray - 6
+chisel:concrete_lightgray - 7
+chisel:concrete_lightgray - 8
+chisel:concrete_lightgray - 9
+chisel:concrete_lightgray - 10
+chisel:concrete_lightgray - 11
+chisel:concrete_lightgray - 12
+chisel:concrete_lightgray - 13
+chisel:concrete_lightgray - 14
+chisel:concrete_lightgray - 15
+chisel:concrete_lightgray1 - 0
+chisel:concrete_lightgray1 - 1
+chisel:concrete_lightgray1 - 2
+chisel:concrete_lightgray1 - 3
+chisel:concrete_lightgray1 - 4
+chisel:concrete_lightgray1 - 5
+chisel:concrete_lightgray1 - 6
+chisel:concrete_lightgray1 - 7
+chisel:concrete_lightgray1 - 8
+chisel:concrete_lightgray1 - 9
+chisel:concrete_lightgray1 - 10
+chisel:concrete_lightgray1 - 11
+chisel:concrete_lightgray1 - 12
+chisel:concrete_lightgray1 - 13
+chisel:concrete_lightgray1 - 14
+chisel:concrete_lightgray1 - 15
+chisel:concrete_lightgray2 - 0
+
+
+blockConcreteLime
+chisel:concrete_lime - 0
+chisel:concrete_lime - 1
+chisel:concrete_lime - 2
+chisel:concrete_lime - 3
+chisel:concrete_lime - 4
+chisel:concrete_lime - 5
+chisel:concrete_lime - 6
+chisel:concrete_lime - 7
+chisel:concrete_lime - 8
+chisel:concrete_lime - 9
+chisel:concrete_lime - 10
+chisel:concrete_lime - 11
+chisel:concrete_lime - 12
+chisel:concrete_lime - 13
+chisel:concrete_lime - 14
+chisel:concrete_lime - 15
+chisel:concrete_lime1 - 0
+chisel:concrete_lime1 - 1
+chisel:concrete_lime1 - 2
+chisel:concrete_lime1 - 3
+chisel:concrete_lime1 - 4
+chisel:concrete_lime1 - 5
+chisel:concrete_lime1 - 6
+chisel:concrete_lime1 - 7
+chisel:concrete_lime1 - 8
+chisel:concrete_lime1 - 9
+chisel:concrete_lime1 - 10
+chisel:concrete_lime1 - 11
+chisel:concrete_lime1 - 12
+chisel:concrete_lime1 - 13
+chisel:concrete_lime1 - 14
+chisel:concrete_lime1 - 15
+chisel:concrete_lime2 - 0
+
+
+blockConcreteMagenta
+chisel:concrete_magenta - 0
+chisel:concrete_magenta - 1
+chisel:concrete_magenta - 2
+chisel:concrete_magenta - 3
+chisel:concrete_magenta - 4
+chisel:concrete_magenta - 5
+chisel:concrete_magenta - 6
+chisel:concrete_magenta - 7
+chisel:concrete_magenta - 8
+chisel:concrete_magenta - 9
+chisel:concrete_magenta - 10
+chisel:concrete_magenta - 11
+chisel:concrete_magenta - 12
+chisel:concrete_magenta - 13
+chisel:concrete_magenta - 14
+chisel:concrete_magenta - 15
+chisel:concrete_magenta1 - 0
+chisel:concrete_magenta1 - 1
+chisel:concrete_magenta1 - 2
+chisel:concrete_magenta1 - 3
+chisel:concrete_magenta1 - 4
+chisel:concrete_magenta1 - 5
+chisel:concrete_magenta1 - 6
+chisel:concrete_magenta1 - 7
+chisel:concrete_magenta1 - 8
+chisel:concrete_magenta1 - 9
+chisel:concrete_magenta1 - 10
+chisel:concrete_magenta1 - 11
+chisel:concrete_magenta1 - 12
+chisel:concrete_magenta1 - 13
+chisel:concrete_magenta1 - 14
+chisel:concrete_magenta1 - 15
+chisel:concrete_magenta2 - 0
+
+
+blockConcreteOrange
+chisel:concrete_orange - 0
+chisel:concrete_orange - 1
+chisel:concrete_orange - 2
+chisel:concrete_orange - 3
+chisel:concrete_orange - 4
+chisel:concrete_orange - 5
+chisel:concrete_orange - 6
+chisel:concrete_orange - 7
+chisel:concrete_orange - 8
+chisel:concrete_orange - 9
+chisel:concrete_orange - 10
+chisel:concrete_orange - 11
+chisel:concrete_orange - 12
+chisel:concrete_orange - 13
+chisel:concrete_orange - 14
+chisel:concrete_orange - 15
+chisel:concrete_orange1 - 0
+chisel:concrete_orange1 - 1
+chisel:concrete_orange1 - 2
+chisel:concrete_orange1 - 3
+chisel:concrete_orange1 - 4
+chisel:concrete_orange1 - 5
+chisel:concrete_orange1 - 6
+chisel:concrete_orange1 - 7
+chisel:concrete_orange1 - 8
+chisel:concrete_orange1 - 9
+chisel:concrete_orange1 - 10
+chisel:concrete_orange1 - 11
+chisel:concrete_orange1 - 12
+chisel:concrete_orange1 - 13
+chisel:concrete_orange1 - 14
+chisel:concrete_orange1 - 15
+chisel:concrete_orange2 - 0
+
+
+blockConcretePink
+chisel:concrete_pink - 0
+chisel:concrete_pink - 1
+chisel:concrete_pink - 2
+chisel:concrete_pink - 3
+chisel:concrete_pink - 4
+chisel:concrete_pink - 5
+chisel:concrete_pink - 6
+chisel:concrete_pink - 7
+chisel:concrete_pink - 8
+chisel:concrete_pink - 9
+chisel:concrete_pink - 10
+chisel:concrete_pink - 11
+chisel:concrete_pink - 12
+chisel:concrete_pink - 13
+chisel:concrete_pink - 14
+chisel:concrete_pink - 15
+chisel:concrete_pink1 - 0
+chisel:concrete_pink1 - 1
+chisel:concrete_pink1 - 2
+chisel:concrete_pink1 - 3
+chisel:concrete_pink1 - 4
+chisel:concrete_pink1 - 5
+chisel:concrete_pink1 - 6
+chisel:concrete_pink1 - 7
+chisel:concrete_pink1 - 8
+chisel:concrete_pink1 - 9
+chisel:concrete_pink1 - 10
+chisel:concrete_pink1 - 11
+chisel:concrete_pink1 - 12
+chisel:concrete_pink1 - 13
+chisel:concrete_pink1 - 14
+chisel:concrete_pink1 - 15
+chisel:concrete_pink2 - 0
+
+
+blockConcretePurple
+chisel:concrete_purple - 0
+chisel:concrete_purple - 1
+chisel:concrete_purple - 2
+chisel:concrete_purple - 3
+chisel:concrete_purple - 4
+chisel:concrete_purple - 5
+chisel:concrete_purple - 6
+chisel:concrete_purple - 7
+chisel:concrete_purple - 8
+chisel:concrete_purple - 9
+chisel:concrete_purple - 10
+chisel:concrete_purple - 11
+chisel:concrete_purple - 12
+chisel:concrete_purple - 13
+chisel:concrete_purple - 14
+chisel:concrete_purple - 15
+chisel:concrete_purple1 - 0
+chisel:concrete_purple1 - 1
+chisel:concrete_purple1 - 2
+chisel:concrete_purple1 - 3
+chisel:concrete_purple1 - 4
+chisel:concrete_purple1 - 5
+chisel:concrete_purple1 - 6
+chisel:concrete_purple1 - 7
+chisel:concrete_purple1 - 8
+chisel:concrete_purple1 - 9
+chisel:concrete_purple1 - 10
+chisel:concrete_purple1 - 11
+chisel:concrete_purple1 - 12
+chisel:concrete_purple1 - 13
+chisel:concrete_purple1 - 14
+chisel:concrete_purple1 - 15
+chisel:concrete_purple2 - 0
+
+
+blockConcreteRed
+chisel:concrete_red - 0
+chisel:concrete_red - 1
+chisel:concrete_red - 2
+chisel:concrete_red - 3
+chisel:concrete_red - 4
+chisel:concrete_red - 5
+chisel:concrete_red - 6
+chisel:concrete_red - 7
+chisel:concrete_red - 8
+chisel:concrete_red - 9
+chisel:concrete_red - 10
+chisel:concrete_red - 11
+chisel:concrete_red - 12
+chisel:concrete_red - 13
+chisel:concrete_red - 14
+chisel:concrete_red - 15
+chisel:concrete_red1 - 0
+chisel:concrete_red1 - 1
+chisel:concrete_red1 - 2
+chisel:concrete_red1 - 3
+chisel:concrete_red1 - 4
+chisel:concrete_red1 - 5
+chisel:concrete_red1 - 6
+chisel:concrete_red1 - 7
+chisel:concrete_red1 - 8
+chisel:concrete_red1 - 9
+chisel:concrete_red1 - 10
+chisel:concrete_red1 - 11
+chisel:concrete_red1 - 12
+chisel:concrete_red1 - 13
+chisel:concrete_red1 - 14
+chisel:concrete_red1 - 15
+chisel:concrete_red2 - 0
+
+
+blockConcreteWhite
+chisel:concrete_white - 0
+chisel:concrete_white - 1
+chisel:concrete_white - 2
+chisel:concrete_white - 3
+chisel:concrete_white - 4
+chisel:concrete_white - 5
+chisel:concrete_white - 6
+chisel:concrete_white - 7
+chisel:concrete_white - 8
+chisel:concrete_white - 9
+chisel:concrete_white - 10
+chisel:concrete_white - 11
+chisel:concrete_white - 12
+chisel:concrete_white - 13
+chisel:concrete_white - 14
+chisel:concrete_white - 15
+chisel:concrete_white1 - 0
+chisel:concrete_white1 - 1
+chisel:concrete_white1 - 2
+chisel:concrete_white1 - 3
+chisel:concrete_white1 - 4
+chisel:concrete_white1 - 5
+chisel:concrete_white1 - 6
+chisel:concrete_white1 - 7
+chisel:concrete_white1 - 8
+chisel:concrete_white1 - 9
+chisel:concrete_white1 - 10
+chisel:concrete_white1 - 11
+chisel:concrete_white1 - 12
+chisel:concrete_white1 - 13
+chisel:concrete_white1 - 14
+chisel:concrete_white1 - 15
+chisel:concrete_white2 - 0
+
+
+blockConcreteYellow
+chisel:concrete_yellow - 0
+chisel:concrete_yellow - 1
+chisel:concrete_yellow - 2
+chisel:concrete_yellow - 3
+chisel:concrete_yellow - 4
+chisel:concrete_yellow - 5
+chisel:concrete_yellow - 6
+chisel:concrete_yellow - 7
+chisel:concrete_yellow - 8
+chisel:concrete_yellow - 9
+chisel:concrete_yellow - 10
+chisel:concrete_yellow - 11
+chisel:concrete_yellow - 12
+chisel:concrete_yellow - 13
+chisel:concrete_yellow - 14
+chisel:concrete_yellow - 15
+chisel:concrete_yellow1 - 0
+chisel:concrete_yellow1 - 1
+chisel:concrete_yellow1 - 2
+chisel:concrete_yellow1 - 3
+chisel:concrete_yellow1 - 4
+chisel:concrete_yellow1 - 5
+chisel:concrete_yellow1 - 6
+chisel:concrete_yellow1 - 7
+chisel:concrete_yellow1 - 8
+chisel:concrete_yellow1 - 9
+chisel:concrete_yellow1 - 10
+chisel:concrete_yellow1 - 11
+chisel:concrete_yellow1 - 12
+chisel:concrete_yellow1 - 13
+chisel:concrete_yellow1 - 14
+chisel:concrete_yellow1 - 15
+chisel:concrete_yellow2 - 0
+
+
+blockConstantan
+thermalfoundation:storage_alloy - 4
+
+
+blockCopper
+thermalfoundation:storage - 0
+chisel:blockcopper - 0
+chisel:blockcopper - 1
+chisel:blockcopper - 2
+chisel:blockcopper - 3
+chisel:blockcopper - 4
+chisel:blockcopper - 5
+chisel:blockcopper - 6
+
+
+blockCrimsonMiddleGem
+thebetweenlands:crimson_middle_gem_block - 0
+
+
+blockDiamond
+minecraft:diamond_block - 0
+chisel:diamond - 0
+chisel:diamond - 1
+chisel:diamond - 2
+chisel:diamond - 3
+chisel:diamond - 4
+chisel:diamond - 5
+chisel:diamond - 6
+chisel:diamond - 7
+chisel:diamond - 8
+chisel:diamond - 9
+chisel:diamond - 10
+chisel:diamond - 11
+
+
+blockEbonys
+midnight:ebonys_block - 0
+
+
+blockElectrum
+thermalfoundation:storage_alloy - 1
+chisel:blockelectrum - 0
+chisel:blockelectrum - 1
+chisel:blockelectrum - 2
+chisel:blockelectrum - 3
+chisel:blockelectrum - 4
+chisel:blockelectrum - 5
+chisel:blockelectrum - 6
+
+
+blockElvenElementium
+
+
+blockEmerald
+minecraft:emerald_block - 0
+chisel:emerald - 0
+chisel:emerald - 1
+chisel:emerald - 2
+chisel:emerald - 3
+chisel:emerald - 4
+chisel:emerald - 5
+chisel:emerald - 6
+chisel:emerald - 7
+chisel:emerald - 8
+chisel:emerald - 9
+chisel:emerald - 10
+chisel:emerald - 11
+chisel:emerald - 12
+chisel:emerald - 13
+
+
+blockEnderium
+thermalfoundation:storage_alloy - 7
+
+
+blockFiery
+twilightforest:block_storage - 1
+
+
+blockFuelCoke
+thermalfoundation:storage_resource - 1
+chisel:block_coal_coke - 0
+chisel:block_coal_coke - 1
+chisel:block_coal_coke - 2
+chisel:block_coal_coke - 3
+chisel:block_coal_coke - 4
+chisel:block_coal_coke - 5
+chisel:block_coal_coke - 6
+chisel:block_coal_coke - 7
+chisel:block_coal_coke - 8
+chisel:block_coal_coke - 9
+chisel:block_coal_coke - 10
+chisel:block_coal_coke - 11
+chisel:block_coal_coke - 12
+chisel:block_coal_coke - 13
+chisel:block_coal_coke - 14
+chisel:block_coal_coke - 15
+chisel:block_coal_coke1 - 0
+chisel:block_coal_coke1 - 1
+chisel:block_coal_coke1 - 2
+chisel:block_coal_coke1 - 3
+chisel:block_coal_coke1 - 4
+chisel:block_coal_coke1 - 5
+chisel:block_coal_coke1 - 6
+chisel:block_coal_coke1 - 7
+chisel:block_coal_coke1 - 8
+chisel:block_coal_coke1 - 9
+chisel:block_coal_coke1 - 10
+chisel:block_coal_coke1 - 11
+chisel:block_coal_coke1 - 12
+chisel:block_coal_coke1 - 13
+chisel:block_coal_coke1 - 14
+chisel:block_coal_coke1 - 15
+chisel:block_coal_coke2 - 0
+chisel:block_coal_coke2 - 1
+
+
+blockGarnet
+bewitchment:gem_block - 0
+
+
+blockGlass
+minecraft:glass - 0
+minecraft:stained_glass - any
+chisel:glass - 0
+chisel:glass - 1
+chisel:glass - 2
+chisel:glass - 3
+chisel:glass - 4
+chisel:glass - 5
+chisel:glass - 6
+chisel:glass - 7
+chisel:glass - 8
+chisel:glass - 9
+chisel:glass - 10
+chisel:glass - 11
+chisel:glass - 12
+chisel:glass - 13
+chisel:glass - 14
+chisel:glass - 15
+chisel:glassdyedblack - 0
+chisel:glassdyedblack - 1
+chisel:glassdyedblack - 2
+chisel:glassdyedblack - 3
+chisel:glassdyedblack - 4
+chisel:glassdyedblack - 5
+chisel:glassdyedred - 0
+chisel:glassdyedred - 1
+chisel:glassdyedred - 2
+chisel:glassdyedred - 3
+chisel:glassdyedred - 4
+chisel:glassdyedred - 5
+chisel:glassdyedgreen - 0
+chisel:glassdyedgreen - 1
+chisel:glassdyedgreen - 2
+chisel:glassdyedgreen - 3
+chisel:glassdyedgreen - 4
+chisel:glassdyedgreen - 5
+chisel:glassdyedbrown - 0
+chisel:glassdyedbrown - 1
+chisel:glassdyedbrown - 2
+chisel:glassdyedbrown - 3
+chisel:glassdyedbrown - 4
+chisel:glassdyedbrown - 5
+chisel:glassdyedblue - 0
+chisel:glassdyedblue - 1
+chisel:glassdyedblue - 2
+chisel:glassdyedblue - 3
+chisel:glassdyedblue - 4
+chisel:glassdyedblue - 5
+chisel:glassdyedpurple - 0
+chisel:glassdyedpurple - 1
+chisel:glassdyedpurple - 2
+chisel:glassdyedpurple - 3
+chisel:glassdyedpurple - 4
+chisel:glassdyedpurple - 5
+chisel:glassdyedcyan - 0
+chisel:glassdyedcyan - 1
+chisel:glassdyedcyan - 2
+chisel:glassdyedcyan - 3
+chisel:glassdyedcyan - 4
+chisel:glassdyedcyan - 5
+chisel:glassdyedlightgray - 0
+chisel:glassdyedlightgray - 1
+chisel:glassdyedlightgray - 2
+chisel:glassdyedlightgray - 3
+chisel:glassdyedlightgray - 4
+chisel:glassdyedlightgray - 5
+chisel:glassdyedgray - 0
+chisel:glassdyedgray - 1
+chisel:glassdyedgray - 2
+chisel:glassdyedgray - 3
+chisel:glassdyedgray - 4
+chisel:glassdyedgray - 5
+chisel:glassdyedpink - 0
+chisel:glassdyedpink - 1
+chisel:glassdyedpink - 2
+chisel:glassdyedpink - 3
+chisel:glassdyedpink - 4
+chisel:glassdyedpink - 5
+chisel:glassdyedlime - 0
+chisel:glassdyedlime - 1
+chisel:glassdyedlime - 2
+chisel:glassdyedlime - 3
+chisel:glassdyedlime - 4
+chisel:glassdyedlime - 5
+chisel:glassdyedyellow - 0
+chisel:glassdyedyellow - 1
+chisel:glassdyedyellow - 2
+chisel:glassdyedyellow - 3
+chisel:glassdyedyellow - 4
+chisel:glassdyedyellow - 5
+chisel:glassdyedlightblue - 0
+chisel:glassdyedlightblue - 1
+chisel:glassdyedlightblue - 2
+chisel:glassdyedlightblue - 3
+chisel:glassdyedlightblue - 4
+chisel:glassdyedlightblue - 5
+chisel:glassdyedmagenta - 0
+chisel:glassdyedmagenta - 1
+chisel:glassdyedmagenta - 2
+chisel:glassdyedmagenta - 3
+chisel:glassdyedmagenta - 4
+chisel:glassdyedmagenta - 5
+chisel:glassdyedorange - 0
+chisel:glassdyedorange - 1
+chisel:glassdyedorange - 2
+chisel:glassdyedorange - 3
+chisel:glassdyedorange - 4
+chisel:glassdyedorange - 5
+chisel:glassdyedwhite - 0
+chisel:glassdyedwhite - 1
+chisel:glassdyedwhite - 2
+chisel:glassdyedwhite - 3
+chisel:glassdyedwhite - 4
+chisel:glassdyedwhite - 5
+tconstruct:clear_glass - any
+tconstruct:clear_stained_glass - any
+evilcraft:obscured_glass - 0
+thebetweenlands:silt_glass - 0
+
+
+blockGlassBlack
+minecraft:stained_glass - 15
+chisel:glassdyedblack - 0
+chisel:glassdyedblack - 1
+chisel:glassdyedblack - 2
+chisel:glassdyedblack - 3
+chisel:glassdyedblack - 4
+chisel:glassdyedblack - 5
+tconstruct:clear_stained_glass - 15
+
+
+blockGlassBlue
+minecraft:stained_glass - 11
+chisel:glassdyedblue - 0
+chisel:glassdyedblue - 1
+chisel:glassdyedblue - 2
+chisel:glassdyedblue - 3
+chisel:glassdyedblue - 4
+chisel:glassdyedblue - 5
+tconstruct:clear_stained_glass - 11
+
+
+blockGlassBrown
+minecraft:stained_glass - 12
+chisel:glassdyedbrown - 0
+chisel:glassdyedbrown - 1
+chisel:glassdyedbrown - 2
+chisel:glassdyedbrown - 3
+chisel:glassdyedbrown - 4
+chisel:glassdyedbrown - 5
+tconstruct:clear_stained_glass - 12
+
+
+blockGlassColorless
+minecraft:glass - 0
+chisel:glass - 0
+chisel:glass - 1
+chisel:glass - 2
+chisel:glass - 3
+chisel:glass - 4
+chisel:glass - 5
+chisel:glass - 6
+chisel:glass - 7
+chisel:glass - 8
+chisel:glass - 9
+chisel:glass - 10
+chisel:glass - 11
+chisel:glass - 12
+chisel:glass - 13
+chisel:glass - 14
+chisel:glass - 15
+thebetweenlands:silt_glass - 0
+
+
+blockGlassCyan
+minecraft:stained_glass - 9
+chisel:glassdyedcyan - 0
+chisel:glassdyedcyan - 1
+chisel:glassdyedcyan - 2
+chisel:glassdyedcyan - 3
+chisel:glassdyedcyan - 4
+chisel:glassdyedcyan - 5
+tconstruct:clear_stained_glass - 9
+
+
+blockGlassGray
+minecraft:stained_glass - 7
+chisel:glassdyedgray - 0
+chisel:glassdyedgray - 1
+chisel:glassdyedgray - 2
+chisel:glassdyedgray - 3
+chisel:glassdyedgray - 4
+chisel:glassdyedgray - 5
+tconstruct:clear_stained_glass - 7
+
+
+blockGlassGreen
+minecraft:stained_glass - 13
+chisel:glassdyedgreen - 0
+chisel:glassdyedgreen - 1
+chisel:glassdyedgreen - 2
+chisel:glassdyedgreen - 3
+chisel:glassdyedgreen - 4
+chisel:glassdyedgreen - 5
+tconstruct:clear_stained_glass - 13
+
+
+blockGlassHardened
+thermalfoundation:glass - any
+thermalfoundation:glass_alloy - any
+
+
+blockGlassLightBlue
+minecraft:stained_glass - 3
+chisel:glassdyedlightblue - 0
+chisel:glassdyedlightblue - 1
+chisel:glassdyedlightblue - 2
+chisel:glassdyedlightblue - 3
+chisel:glassdyedlightblue - 4
+chisel:glassdyedlightblue - 5
+tconstruct:clear_stained_glass - 3
+
+
+blockGlassLightGray
+minecraft:stained_glass - 8
+chisel:glassdyedlightgray - 0
+chisel:glassdyedlightgray - 1
+chisel:glassdyedlightgray - 2
+chisel:glassdyedlightgray - 3
+chisel:glassdyedlightgray - 4
+chisel:glassdyedlightgray - 5
+tconstruct:clear_stained_glass - 8
+
+
+blockGlassLime
+minecraft:stained_glass - 5
+chisel:glassdyedlime - 0
+chisel:glassdyedlime - 1
+chisel:glassdyedlime - 2
+chisel:glassdyedlime - 3
+chisel:glassdyedlime - 4
+chisel:glassdyedlime - 5
+tconstruct:clear_stained_glass - 5
+
+
+blockGlassMagenta
+minecraft:stained_glass - 2
+chisel:glassdyedmagenta - 0
+chisel:glassdyedmagenta - 1
+chisel:glassdyedmagenta - 2
+chisel:glassdyedmagenta - 3
+chisel:glassdyedmagenta - 4
+chisel:glassdyedmagenta - 5
+tconstruct:clear_stained_glass - 2
+
+
+blockGlassOrange
+minecraft:stained_glass - 1
+chisel:glassdyedorange - 0
+chisel:glassdyedorange - 1
+chisel:glassdyedorange - 2
+chisel:glassdyedorange - 3
+chisel:glassdyedorange - 4
+chisel:glassdyedorange - 5
+tconstruct:clear_stained_glass - 1
+
+
+blockGlassPink
+minecraft:stained_glass - 6
+chisel:glassdyedpink - 0
+chisel:glassdyedpink - 1
+chisel:glassdyedpink - 2
+chisel:glassdyedpink - 3
+chisel:glassdyedpink - 4
+chisel:glassdyedpink - 5
+tconstruct:clear_stained_glass - 6
+
+
+blockGlassPurple
+minecraft:stained_glass - 10
+chisel:glassdyedpurple - 0
+chisel:glassdyedpurple - 1
+chisel:glassdyedpurple - 2
+chisel:glassdyedpurple - 3
+chisel:glassdyedpurple - 4
+chisel:glassdyedpurple - 5
+tconstruct:clear_stained_glass - 10
+
+
+blockGlassRed
+minecraft:stained_glass - 14
+chisel:glassdyedred - 0
+chisel:glassdyedred - 1
+chisel:glassdyedred - 2
+chisel:glassdyedred - 3
+chisel:glassdyedred - 4
+chisel:glassdyedred - 5
+tconstruct:clear_stained_glass - 14
+
+
+blockGlassWhite
+minecraft:stained_glass - 0
+chisel:glassdyedwhite - 0
+chisel:glassdyedwhite - 1
+chisel:glassdyedwhite - 2
+chisel:glassdyedwhite - 3
+chisel:glassdyedwhite - 4
+chisel:glassdyedwhite - 5
+tconstruct:clear_stained_glass - 0
+
+
+blockGlassYellow
+minecraft:stained_glass - 4
+chisel:glassdyedyellow - 0
+chisel:glassdyedyellow - 1
+chisel:glassdyedyellow - 2
+chisel:glassdyedyellow - 3
+chisel:glassdyedyellow - 4
+chisel:glassdyedyellow - 5
+tconstruct:clear_stained_glass - 4
+
+
+blockGlowstone
+minecraft:glowstone - 0
+
+
+blockGold
+minecraft:gold_block - 0
+chisel:blockgold - 0
+chisel:blockgold - 1
+chisel:blockgold - 2
+chisel:blockgold - 3
+chisel:blockgold - 4
+chisel:blockgold - 5
+chisel:blockgold - 6
+chisel:gold - 0
+chisel:gold - 1
+chisel:gold - 2
+chisel:gold - 3
+chisel:gold - 4
+chisel:gold - 5
+chisel:gold - 6
+chisel:gold - 7
+chisel:gold - 8
+chisel:gold - 9
+chisel:gold - 10
+chisel:gold - 11
+chisel:gold - 12
+chisel:gold - 13
+chisel:gold - 14
+
+
+blockGreenMiddleGem
+thebetweenlands:green_middle_gem_block - 0
+
+
+blockIce
+chisel:ice - 0
+chisel:ice - 1
+chisel:ice - 2
+chisel:ice - 3
+chisel:ice - 4
+chisel:ice - 5
+chisel:ice - 6
+chisel:ice - 7
+chisel:ice - 8
+chisel:ice - 9
+chisel:ice - 10
+chisel:ice - 11
+chisel:ice - 12
+chisel:ice - 13
+chisel:ice - 14
+chisel:ice - 15
+chisel:ice1 - 0
+chisel:ice1 - 1
+chisel:ice1 - 2
+chisel:ice1 - 3
+chisel:ice1 - 4
+chisel:ice1 - 5
+chisel:ice1 - 6
+chisel:ice1 - 7
+chisel:ice1 - 8
+chisel:ice1 - 9
+chisel:ice1 - 10
+chisel:ice1 - 11
+chisel:ice1 - 12
+chisel:ice1 - 13
+chisel:ice1 - 14
+chisel:ice1 - 15
+chisel:ice2 - 0
+chisel:icepillar - 0
+chisel:icepillar - 1
+chisel:icepillar - 2
+chisel:icepillar - 3
+chisel:icepillar - 4
+chisel:icepillar - 5
+chisel:icepillar - 6
+
+
+blockInferium
+mysticalagriculture:ingot_storage - 1
+
+
+blockInferiumCoal
+mysticalagriculture:coal_block - 0
+
+
+blockInferiumEssence
+mysticalagriculture:storage - 0
+
+
+blockIntermedium
+mysticalagriculture:ingot_storage - 3
+
+
+blockIntermediumCoal
+mysticalagriculture:coal_block - 2
+
+
+blockIntermediumEssence
+mysticalagriculture:storage - 2
+
+
+blockInvar
+thermalfoundation:storage_alloy - 2
+chisel:blockinvar - 0
+chisel:blockinvar - 1
+chisel:blockinvar - 2
+chisel:blockinvar - 3
+chisel:blockinvar - 4
+chisel:blockinvar - 5
+chisel:blockinvar - 6
+
+
+blockIridium
+thermalfoundation:storage - 7
+
+
+blockIron
+minecraft:iron_block - 0
+chisel:blockiron - 0
+chisel:blockiron - 1
+chisel:blockiron - 2
+chisel:blockiron - 3
+chisel:blockiron - 4
+chisel:blockiron - 5
+chisel:blockiron - 6
+chisel:iron - 0
+chisel:iron - 1
+chisel:iron - 2
+chisel:iron - 3
+chisel:iron - 4
+chisel:iron - 5
+chisel:iron - 6
+chisel:iron - 7
+chisel:iron - 8
+chisel:iron - 9
+chisel:iron - 10
+chisel:iron - 11
+chisel:iron - 12
+chisel:iron - 13
+chisel:iron - 14
+
+
+blockJasper
+bewitchment:gem_block - 5
+
+
+blockKnightmetal
+twilightforest:knightmetal_block - 0
+
+
+blockKnightslime
+tconstruct:metal - 3
+
+
+blockLapis
+minecraft:lapis_block - 0
+chisel:lapis - 0
+chisel:lapis - 1
+chisel:lapis - 2
+chisel:lapis - 3
+chisel:lapis - 4
+chisel:lapis - 5
+chisel:lapis - 6
+chisel:lapis - 7
+chisel:lapis - 8
+
+
+blockLead
+thermalfoundation:storage - 3
+chisel:blocklead - 0
+chisel:blocklead - 1
+chisel:blocklead - 2
+chisel:blocklead - 3
+chisel:blocklead - 4
+chisel:blocklead - 5
+chisel:blocklead - 6
+
+
+blockLumium
+thermalfoundation:storage_alloy - 6
+
+
+blockMagma
+minecraft:magma - 0
+
+
+blockMalachite
+bewitchment:gem_block - 6
+
+
+blockManasteel
+
+
+blockManyullyn
+tconstruct:metal - 2
+
+
+blockMarble
+astralsorcery:blockmarble - 0
+astralsorcery:blockmarble - 1
+astralsorcery:blockmarble - 2
+astralsorcery:blockmarble - 3
+astralsorcery:blockmarble - 4
+astralsorcery:blockmarble - 5
+astralsorcery:blockmarble - 6
+
+
+blockMetal
+minecraft:iron_block - 0
+minecraft:gold_block - 0
+
+
+blockMithril
+thermalfoundation:storage - 8
+
+
+blockMossy
+chisel:cobblestonemossy - 0
+chisel:cobblestonemossy - 1
+chisel:cobblestonemossy - 2
+chisel:cobblestonemossy - 3
+chisel:cobblestonemossy - 4
+chisel:cobblestonemossy - 5
+chisel:cobblestonemossy - 6
+chisel:cobblestonemossy - 7
+chisel:cobblestonemossy - 8
+chisel:cobblestonemossy - 9
+chisel:cobblestonemossy - 10
+chisel:cobblestonemossy - 11
+chisel:cobblestonemossy - 12
+chisel:cobblestonemossy - 13
+chisel:cobblestonemossy - 14
+chisel:cobblestonemossy - 15
+chisel:cobblestonemossy1 - 0
+chisel:cobblestonemossy1 - 1
+chisel:cobblestonemossy1 - 2
+chisel:cobblestonemossy1 - 3
+chisel:cobblestonemossy1 - 4
+chisel:cobblestonemossy1 - 5
+chisel:cobblestonemossy1 - 6
+chisel:cobblestonemossy1 - 7
+chisel:cobblestonemossy1 - 8
+chisel:cobblestonemossy1 - 9
+chisel:cobblestonemossy1 - 10
+chisel:cobblestonemossy1 - 11
+chisel:cobblestonemossy1 - 12
+chisel:cobblestonemossy1 - 13
+chisel:cobblestonemossy1 - 14
+chisel:cobblestonemossy1 - 15
+chisel:cobblestonemossy2 - 0
+minecraft:mossy_cobblestone - any
+minecraft:stonebrick - 1
+
+
+blockNagrilite
+midnight:nagrilite_block - 0
+
+
+blockNetherWart
+minecraft:nether_wart_block - 0
+
+
+blockNethersteel
+bewitchment:nethersteel - 0
+bewitchment:nethersteel_chisel - 0
+bewitchment:nethersteel_chisel - 1
+bewitchment:nethersteel_chisel - 2
+bewitchment:nethersteel_chisel - 3
+bewitchment:nethersteel_chisel - 4
+bewitchment:nethersteel_chisel - 5
+bewitchment:nethersteel_chisel - 6
+bewitchment:nethersteel_chisel - 7
+bewitchment:nethersteel_chisel - 8
+bewitchment:nethersteel_chisel - 9
+bewitchment:nethersteel_chisel - 10
+
+
+blockNickel
+thermalfoundation:storage - 5
+chisel:blocknickel - 0
+chisel:blocknickel - 1
+chisel:blocknickel - 2
+chisel:blocknickel - 3
+chisel:blocknickel - 4
+chisel:blocknickel - 5
+chisel:blocknickel - 6
+
+
+blockNuummite
+bewitchment:gem_block - 1
+
+
+blockOctine
+thebetweenlands:octine_block - 0
+
+
+blockPigiron
+tconstruct:metal - 4
+
+
+blockPlanks
+betternether:stalagnate_planks - 0
+betternether:reeds_block - 0
+
+
+blockPlatinum
+thermalfoundation:storage - 6
+chisel:blockplatinum - 0
+chisel:blockplatinum - 1
+chisel:blockplatinum - 2
+chisel:blockplatinum - 3
+chisel:blockplatinum - 4
+chisel:blockplatinum - 5
+chisel:blockplatinum - 6
+
+
+blockPrismarine
+minecraft:prismarine - 0
+
+
+blockPrismarineBrick
+minecraft:prismarine - 1
+
+
+blockPrismarineDark
+minecraft:prismarine - 2
+
+
+blockProsperity
+mysticalagriculture:storage - 5
+
+
+blockPrudentium
+mysticalagriculture:ingot_storage - 2
+
+
+blockPrudentiumCoal
+mysticalagriculture:coal_block - 1
+
+
+blockPrudentiumEssence
+mysticalagriculture:storage - 1
+
+
+blockQuartz
+minecraft:quartz_block - 0
+chisel:quartz - 0
+chisel:quartz - 1
+chisel:quartz - 2
+chisel:quartz - 3
+chisel:quartz - 4
+chisel:quartz - 5
+chisel:quartz - 6
+chisel:quartz - 7
+chisel:quartz - 8
+chisel:quartz - 9
+chisel:quartz - 10
+chisel:quartz - 11
+chisel:quartz - 12
+chisel:quartz - 13
+chisel:quartz - 14
+chisel:quartz - 15
+chisel:quartz1 - 0
+chisel:quartz1 - 1
+chisel:quartz1 - 2
+chisel:quartz1 - 3
+chisel:quartz1 - 4
+chisel:quartz1 - 5
+chisel:quartz1 - 6
+chisel:quartz1 - 7
+chisel:quartz1 - 8
+chisel:quartz1 - 9
+chisel:quartz1 - 10
+chisel:quartz1 - 11
+chisel:quartz1 - 12
+chisel:quartz1 - 13
+chisel:quartz1 - 14
+chisel:quartz1 - 15
+
+
+blockQuartzGlass
+betternether:quartz_glass - 0
+
+
+blockRedstone
+minecraft:redstone_block - 0
+chisel:redstone - 0
+chisel:redstone - 1
+chisel:redstone - 2
+chisel:redstone - 3
+chisel:redstone - 4
+chisel:redstone - 5
+chisel:redstone - 6
+chisel:redstone - 7
+chisel:redstone - 8
+chisel:redstone - 9
+chisel:redstone - 10
+chisel:redstone - 11
+chisel:redstone - 12
+chisel:redstone - 13
+chisel:redstone - 14
+chisel:redstone - 15
+chisel:redstone1 - 0
+chisel:redstone1 - 1
+chisel:redstone1 - 2
+chisel:redstone1 - 3
+chisel:redstone1 - 4
+chisel:redstone1 - 5
+chisel:redstone1 - 6
+chisel:redstone1 - 7
+chisel:redstone1 - 8
+chisel:redstone1 - 9
+chisel:redstone1 - 10
+chisel:redstone1 - 11
+
+
+blockRockwool
+thermalfoundation:rockwool - any
+
+
+blockSeared
+tconstruct:seared - any
+
+
+blockSignalum
+thermalfoundation:storage_alloy - 5
+
+
+blockSilver
+thermalfoundation:storage - 2
+chisel:blocksilver - 0
+chisel:blocksilver - 1
+chisel:blocksilver - 2
+chisel:blocksilver - 3
+chisel:blocksilver - 4
+chisel:blocksilver - 5
+chisel:blocksilver - 6
+bewitchment:silver_block - 0
+bewitchment:silver_block_chisel - 0
+bewitchment:silver_block_chisel - 1
+bewitchment:silver_block_chisel - 2
+bewitchment:silver_block_chisel - 3
+bewitchment:silver_block_chisel - 4
+bewitchment:silver_block_chisel - 5
+bewitchment:silver_block_chisel - 6
+bewitchment:silver_block_chisel - 7
+bewitchment:silver_block_chisel - 8
+
+
+blockSlime
+minecraft:slime - 0
+minecraft:slime - any
+tconstruct:slime - any
+
+
+blockSlimeCongealed
+tconstruct:slime_congealed - any
+
+
+blockSlimeDirt
+tconstruct:slime_dirt - any
+
+
+blockSlimeGrass
+tconstruct:slime_grass - any
+
+
+blockSoulium
+mysticalagriculture:ingot_storage - 6
+
+
+blockSteel
+thermalfoundation:storage_alloy - 0
+chisel:blocksteel - 0
+chisel:blocksteel - 1
+chisel:blocksteel - 2
+chisel:blocksteel - 3
+chisel:blocksteel - 4
+chisel:blocksteel - 5
+chisel:blocksteel - 6
+
+
+blockSteeleaf
+twilightforest:block_storage - 2
+
+
+blockStone
+evilcraft:bloody_cobblestone - 0
+
+
+blockSulfur
+thebetweenlands:sulfur_block - 0
+
+
+blockSuperium
+mysticalagriculture:ingot_storage - 4
+
+
+blockSuperiumCoal
+mysticalagriculture:coal_block - 3
+
+
+blockSuperiumEssence
+mysticalagriculture:storage - 3
+
+
+blockSupremium
+mysticalagriculture:ingot_storage - 5
+
+
+blockSupremiumCoal
+mysticalagriculture:coal_block - 4
+
+
+blockSupremiumEssence
+mysticalagriculture:storage - 4
+
+
+blockSyrmorite
+thebetweenlands:syrmorite_block - 0
+
+
+blockTenebrum
+midnight:tenebrum_block - 0
+
+
+blockTerrasteel
+
+
+blockThaumium
+thaumcraft:metal_thaumium - 0
+
+
+blockTigersEye
+bewitchment:gem_block - 2
+
+
+blockTin
+thermalfoundation:storage - 1
+chisel:blocktin - 0
+chisel:blocktin - 1
+chisel:blocktin - 2
+chisel:blocktin - 3
+chisel:blocktin - 4
+chisel:blocktin - 5
+chisel:blocktin - 6
+
+
+blockTourmaline
+bewitchment:gem_block - 3
+
+
+blockUranium
+chisel:blockuranium - 0
+chisel:blockuranium - 1
+chisel:blockuranium - 2
+chisel:blockuranium - 3
+chisel:blockuranium - 4
+chisel:blockuranium - 5
+chisel:blockuranium - 6
+
+
+blockValonite
+thebetweenlands:valonite_block - 0
+
+
+blockVoid
+thaumcraft:metal_void - 0
+
+
+blockWood
+betternether:stalagnate_stem - 0
+
+
+blockWool
+minecraft:wool - any
+chisel:wool_black - 0
+chisel:wool_black - 1
+chisel:wool_red - 0
+chisel:wool_red - 1
+chisel:wool_green - 0
+chisel:wool_green - 1
+chisel:wool_brown - 0
+chisel:wool_brown - 1
+chisel:wool_blue - 0
+chisel:wool_blue - 1
+chisel:wool_purple - 0
+chisel:wool_purple - 1
+chisel:wool_cyan - 0
+chisel:wool_cyan - 1
+chisel:wool_lightgray - 0
+chisel:wool_lightgray - 1
+chisel:wool_gray - 0
+chisel:wool_gray - 1
+chisel:wool_pink - 0
+chisel:wool_pink - 1
+chisel:wool_lime - 0
+chisel:wool_lime - 1
+chisel:wool_yellow - 0
+chisel:wool_yellow - 1
+chisel:wool_lightblue - 0
+chisel:wool_lightblue - 1
+chisel:wool_magenta - 0
+chisel:wool_magenta - 1
+chisel:wool_orange - 0
+chisel:wool_orange - 1
+chisel:wool_white - 0
+chisel:wool_white - 1
+
+
+blockZinc
+
+
+bone
+minecraft:bone - 0
+thebetweenlands:items_misc - 14
+totemic:eagle_drops - 0
+
+
+boneWithered
+tconstruct:materials - 17
+inspirations:materials - 7
+
+
+book
+minecraft:book - any
+inspirations:books - any
+
+
+bookshelf
+chisel:bookshelf_oak - 0
+chisel:bookshelf_oak - 1
+chisel:bookshelf_oak - 2
+chisel:bookshelf_oak - 3
+chisel:bookshelf_oak - 4
+chisel:bookshelf_oak - 5
+chisel:bookshelf_oak - 6
+chisel:bookshelf_oak - 7
+chisel:bookshelf_oak - 8
+chisel:bookshelf_oak - 9
+chisel:bookshelf_spruce - 0
+chisel:bookshelf_spruce - 1
+chisel:bookshelf_spruce - 2
+chisel:bookshelf_spruce - 3
+chisel:bookshelf_spruce - 4
+chisel:bookshelf_spruce - 5
+chisel:bookshelf_spruce - 6
+chisel:bookshelf_spruce - 7
+chisel:bookshelf_spruce - 8
+chisel:bookshelf_spruce - 9
+chisel:bookshelf_birch - 0
+chisel:bookshelf_birch - 1
+chisel:bookshelf_birch - 2
+chisel:bookshelf_birch - 3
+chisel:bookshelf_birch - 4
+chisel:bookshelf_birch - 5
+chisel:bookshelf_birch - 6
+chisel:bookshelf_birch - 7
+chisel:bookshelf_birch - 8
+chisel:bookshelf_birch - 9
+chisel:bookshelf_jungle - 0
+chisel:bookshelf_jungle - 1
+chisel:bookshelf_jungle - 2
+chisel:bookshelf_jungle - 3
+chisel:bookshelf_jungle - 4
+chisel:bookshelf_jungle - 5
+chisel:bookshelf_jungle - 6
+chisel:bookshelf_jungle - 7
+chisel:bookshelf_jungle - 8
+chisel:bookshelf_jungle - 9
+chisel:bookshelf_acacia - 0
+chisel:bookshelf_acacia - 1
+chisel:bookshelf_acacia - 2
+chisel:bookshelf_acacia - 3
+chisel:bookshelf_acacia - 4
+chisel:bookshelf_acacia - 5
+chisel:bookshelf_acacia - 6
+chisel:bookshelf_acacia - 7
+chisel:bookshelf_acacia - 8
+chisel:bookshelf_acacia - 9
+chisel:bookshelf_darkoak - 0
+chisel:bookshelf_darkoak - 1
+chisel:bookshelf_darkoak - 2
+chisel:bookshelf_darkoak - 3
+chisel:bookshelf_darkoak - 4
+chisel:bookshelf_darkoak - 5
+chisel:bookshelf_darkoak - 6
+chisel:bookshelf_darkoak - 7
+chisel:bookshelf_darkoak - 8
+chisel:bookshelf_darkoak - 9
+minecraft:bookshelf - 0
+
+
+bookshelfAcacia
+chisel:bookshelf_acacia - 0
+chisel:bookshelf_acacia - 1
+chisel:bookshelf_acacia - 2
+chisel:bookshelf_acacia - 3
+chisel:bookshelf_acacia - 4
+chisel:bookshelf_acacia - 5
+chisel:bookshelf_acacia - 6
+chisel:bookshelf_acacia - 7
+chisel:bookshelf_acacia - 8
+chisel:bookshelf_acacia - 9
+
+
+bookshelfBirch
+chisel:bookshelf_birch - 0
+chisel:bookshelf_birch - 1
+chisel:bookshelf_birch - 2
+chisel:bookshelf_birch - 3
+chisel:bookshelf_birch - 4
+chisel:bookshelf_birch - 5
+chisel:bookshelf_birch - 6
+chisel:bookshelf_birch - 7
+chisel:bookshelf_birch - 8
+chisel:bookshelf_birch - 9
+
+
+bookshelfDarkOak
+chisel:bookshelf_darkoak - 0
+chisel:bookshelf_darkoak - 1
+chisel:bookshelf_darkoak - 2
+chisel:bookshelf_darkoak - 3
+chisel:bookshelf_darkoak - 4
+chisel:bookshelf_darkoak - 5
+chisel:bookshelf_darkoak - 6
+chisel:bookshelf_darkoak - 7
+chisel:bookshelf_darkoak - 8
+chisel:bookshelf_darkoak - 9
+
+
+bookshelfJungle
+chisel:bookshelf_jungle - 0
+chisel:bookshelf_jungle - 1
+chisel:bookshelf_jungle - 2
+chisel:bookshelf_jungle - 3
+chisel:bookshelf_jungle - 4
+chisel:bookshelf_jungle - 5
+chisel:bookshelf_jungle - 6
+chisel:bookshelf_jungle - 7
+chisel:bookshelf_jungle - 8
+chisel:bookshelf_jungle - 9
+
+
+bookshelfOak
+chisel:bookshelf_oak - 0
+chisel:bookshelf_oak - 1
+chisel:bookshelf_oak - 2
+chisel:bookshelf_oak - 3
+chisel:bookshelf_oak - 4
+chisel:bookshelf_oak - 5
+chisel:bookshelf_oak - 6
+chisel:bookshelf_oak - 7
+chisel:bookshelf_oak - 8
+chisel:bookshelf_oak - 9
+
+
+bookshelfSpruce
+chisel:bookshelf_spruce - 0
+chisel:bookshelf_spruce - 1
+chisel:bookshelf_spruce - 2
+chisel:bookshelf_spruce - 3
+chisel:bookshelf_spruce - 4
+chisel:bookshelf_spruce - 5
+chisel:bookshelf_spruce - 6
+chisel:bookshelf_spruce - 7
+chisel:bookshelf_spruce - 8
+chisel:bookshelf_spruce - 9
+
+
+bottleLingering
+inspirations:materials - 3
+
+
+bottleSplash
+inspirations:materials - 2
+
+
+brickStone
+chisel:stonebrick - 0
+chisel:stonebrick - 1
+chisel:stonebrick - 2
+chisel:stonebrick - 3
+chisel:stonebrick - 4
+chisel:stonebrick - 5
+chisel:stonebrick - 6
+chisel:stonebrick - 7
+chisel:stonebrick - 8
+chisel:stonebrick - 9
+chisel:stonebrick - 10
+chisel:stonebrick - 11
+chisel:stonebrick - 12
+chisel:stonebrick - 13
+chisel:stonebrick - 14
+chisel:stonebrick - 15
+chisel:stonebrick1 - 0
+chisel:stonebrick1 - 1
+chisel:stonebrick1 - 2
+chisel:stonebrick1 - 3
+chisel:stonebrick1 - 4
+chisel:stonebrick1 - 5
+chisel:stonebrick1 - 6
+chisel:stonebrick1 - 7
+chisel:stonebrick1 - 8
+chisel:stonebrick1 - 9
+chisel:stonebrick2 - 0
+chisel:stonebrick2 - 1
+chisel:stonebrick2 - 2
+chisel:stonebrick2 - 3
+chisel:stonebrick2 - 4
+chisel:stonebrick2 - 5
+chisel:stonebrick2 - 6
+chisel:stonebrick2 - 7
+
+
+bricksStone
+chisel:stonebrick - 0
+chisel:stonebrick - 1
+chisel:stonebrick - 2
+chisel:stonebrick - 3
+chisel:stonebrick - 4
+chisel:stonebrick - 5
+chisel:stonebrick - 6
+chisel:stonebrick - 7
+chisel:stonebrick - 8
+chisel:stonebrick - 9
+chisel:stonebrick - 10
+chisel:stonebrick - 11
+chisel:stonebrick - 12
+chisel:stonebrick - 13
+chisel:stonebrick - 14
+chisel:stonebrick - 15
+chisel:stonebrick1 - 0
+chisel:stonebrick1 - 1
+chisel:stonebrick1 - 2
+chisel:stonebrick1 - 3
+chisel:stonebrick1 - 4
+chisel:stonebrick1 - 5
+chisel:stonebrick1 - 6
+chisel:stonebrick1 - 7
+chisel:stonebrick1 - 8
+chisel:stonebrick1 - 9
+chisel:stonebrick2 - 0
+chisel:stonebrick2 - 1
+chisel:stonebrick2 - 2
+chisel:stonebrick2 - 3
+chisel:stonebrick2 - 4
+chisel:stonebrick2 - 5
+chisel:stonebrick2 - 6
+chisel:stonebrick2 - 7
+
+
+carminite
+twilightforest:carminite - 0
+
+
+cast
+tconstruct:cast - any
+tconstruct:cast_custom - any
+
+
+charcoal
+minecraft:coal - 1
+
+
+chest
+minecraft:chest - 0
+minecraft:ender_chest - 0
+minecraft:trapped_chest - 0
+stonechest:chest_cobblestone - 0
+stonechest:chest_stone - 0
+stonechest:chest_granite - 0
+stonechest:chest_diorite - 0
+stonechest:chest_andesite - 0
+thebetweenlands:weedwood_chest - 0
+metalchests:metal_chest - 0
+metalchests:metal_chest - 1
+metalchests:metal_chest - 2
+metalchests:metal_chest - 3
+metalchests:metal_chest - 4
+metalchests:metal_chest - 5
+metalchests:metal_hungry_chest - 0
+metalchests:metal_hungry_chest - 1
+metalchests:metal_hungry_chest - 2
+metalchests:metal_hungry_chest - 3
+metalchests:metal_hungry_chest - 4
+metalchests:metal_hungry_chest - 5
+metalchests:metal_sorting_hungry_chest - 0
+metalchests:metal_sorting_hungry_chest - 1
+metalchests:metal_sorting_hungry_chest - 2
+metalchests:metal_sorting_hungry_chest - 3
+metalchests:metal_sorting_hungry_chest - 4
+metalchests:metal_sorting_hungry_chest - 5
+minecraft:white_shulker_box - 0
+minecraft:orange_shulker_box - 0
+minecraft:magenta_shulker_box - 0
+minecraft:light_blue_shulker_box - 0
+minecraft:yellow_shulker_box - 0
+minecraft:lime_shulker_box - 0
+minecraft:pink_shulker_box - 0
+minecraft:gray_shulker_box - 0
+minecraft:silver_shulker_box - 0
+minecraft:cyan_shulker_box - 0
+minecraft:purple_shulker_box - 0
+minecraft:blue_shulker_box - 0
+minecraft:brown_shulker_box - 0
+minecraft:green_shulker_box - 0
+minecraft:red_shulker_box - 0
+minecraft:black_shulker_box - 0
+midnight:shadowroot_chest - 0
+
+
+chestCopper
+metalchests:metal_chest - 0
+
+
+chestCopperHungry
+metalchests:metal_hungry_chest - 0
+
+
+chestCopperSortingHungry
+metalchests:metal_sorting_hungry_chest - 0
+
+
+chestDiamond
+metalchests:metal_chest - 4
+
+
+chestDiamondHungry
+metalchests:metal_hungry_chest - 4
+
+
+chestDiamondSortingHungry
+metalchests:metal_sorting_hungry_chest - 4
+
+
+chestEnder
+minecraft:ender_chest - 0
+
+
+chestGold
+metalchests:metal_chest - 3
+
+
+chestGoldHungry
+metalchests:metal_hungry_chest - 3
+
+
+chestGoldSortingHungry
+metalchests:metal_sorting_hungry_chest - 3
+
+
+chestIron
+metalchests:metal_chest - 1
+
+
+chestIronHungry
+metalchests:metal_hungry_chest - 1
+
+
+chestIronSortingHungry
+metalchests:metal_sorting_hungry_chest - 1
+
+
+chestObsidian
+metalchests:metal_chest - 5
+
+
+chestObsidianHungry
+metalchests:metal_hungry_chest - 5
+
+
+chestObsidianSortingHungry
+metalchests:metal_sorting_hungry_chest - 5
+
+
+chestSilver
+metalchests:metal_chest - 2
+
+
+chestSilverHungry
+metalchests:metal_hungry_chest - 2
+
+
+chestSilverSortingHungry
+metalchests:metal_sorting_hungry_chest - 2
+
+
+chestTrapped
+minecraft:trapped_chest - 0
+
+
+chestWood
+minecraft:chest - 0
+thebetweenlands:weedwood_chest - 0
+midnight:shadowroot_chest - 0
+
+
+clathrateEnder
+thermalfoundation:material - 895
+
+
+clathrateGlowstone
+thermalfoundation:material - 894
+
+
+clathrateOil
+thermalfoundation:material - 892
+
+
+clathrateRedstone
+thermalfoundation:material - 893
+
+
+clay
+minecraft:clay_ball - any
+
+
+clothManaweave
+botania:manaresource - 22
+
+
+clumpWax
+bewitchment:wax - 0
+
+
+clusterCinnabar
+thaumcraft:cluster - 6
+
+
+clusterCopper
+thaumcraft:cluster - 2
+
+
+clusterGold
+thaumcraft:cluster - 1
+
+
+clusterIron
+thaumcraft:cluster - 0
+
+
+clusterLead
+thaumcraft:cluster - 5
+
+
+clusterQuartz
+thaumcraft:cluster - 7
+
+
+clusterSilver
+thaumcraft:cluster - 4
+
+
+clusterTin
+thaumcraft:cluster - 3
+
+
+coal
+minecraft:coal - 0
+
+
+coalInferium
+mysticalagriculture:coal - 0
+
+
+coalIntermedium
+mysticalagriculture:coal - 2
+
+
+coalPrudentium
+mysticalagriculture:coal - 1
+
+
+coalSuperium
+mysticalagriculture:coal - 3
+
+
+coalSupremium
+mysticalagriculture:coal - 4
+
+
+coalpiece
+minecraft:coal - 0
+minecraft:coal - 1
+
+
+cobblestone
+minecraft:cobblestone - 0
+chisel:cobblestone - 0
+chisel:cobblestone - 1
+chisel:cobblestone - 2
+chisel:cobblestone - 3
+chisel:cobblestone - 4
+chisel:cobblestone - 5
+chisel:cobblestone - 6
+chisel:cobblestone - 7
+chisel:cobblestone - 8
+chisel:cobblestone - 9
+chisel:cobblestone - 10
+chisel:cobblestone - 11
+chisel:cobblestone - 12
+chisel:cobblestone - 13
+chisel:cobblestone - 14
+chisel:cobblestone - 15
+chisel:cobblestone1 - 0
+chisel:cobblestone1 - 1
+chisel:cobblestone1 - 2
+chisel:cobblestone1 - 3
+chisel:cobblestone1 - 4
+chisel:cobblestone1 - 5
+chisel:cobblestone1 - 6
+chisel:cobblestone1 - 7
+chisel:cobblestone1 - 8
+chisel:cobblestone1 - 9
+chisel:cobblestone2 - 0
+chisel:cobblestone2 - 1
+chisel:cobblestone2 - 2
+chisel:cobblestone2 - 3
+chisel:cobblestone2 - 4
+chisel:cobblestone2 - 5
+chisel:cobblestone2 - 6
+chisel:cobblestone2 - 7
+chisel:cobblestone2 - 8
+chisel:cobblestone2 - 9
+thebetweenlands:betweenstone - 0
+
+
+cofh:potion
+minecraft:potion - 0
+
+
+coinAluminum
+thermalfoundation:coin - 68
+
+
+coinBronze
+thermalfoundation:coin - 99
+
+
+coinConstantan
+thermalfoundation:coin - 100
+
+
+coinCopper
+thermalfoundation:coin - 64
+
+
+coinElectrum
+thermalfoundation:coin - 97
+
+
+coinEnderium
+thermalfoundation:coin - 103
+
+
+coinGold
+thermalfoundation:coin - 1
+
+
+coinInvar
+thermalfoundation:coin - 98
+
+
+coinIridium
+thermalfoundation:coin - 71
+
+
+coinIron
+thermalfoundation:coin - 0
+
+
+coinLead
+thermalfoundation:coin - 67
+
+
+coinLumium
+thermalfoundation:coin - 102
+
+
+coinMithril
+thermalfoundation:coin - 72
+
+
+coinNickel
+thermalfoundation:coin - 69
+
+
+coinPlatinum
+thermalfoundation:coin - 70
+
+
+coinSignalum
+thermalfoundation:coin - 101
+
+
+coinSilver
+thermalfoundation:coin - 66
+
+
+coinSteel
+thermalfoundation:coin - 96
+
+
+coinTin
+thermalfoundation:coin - 65
+
+
+coquina
+bewitchment:coquina - 0
+
+
+craftingTableWood
+minecraft:crafting_table - 0
+
+
+cropAconitum
+bewitchment:aconitum - 0
+
+
+cropApple
+minecraft:apple - 0
+
+
+cropAsphodel
+bewitchment:asphodel - 0
+
+
+cropBambooshoot
+cuisine:crops - 21
+
+
+cropBean
+randomthings:beans - 0
+
+
+cropBeetroot
+minecraft:beetroot - 0
+
+
+cropBelladonna
+bewitchment:belladonna - 0
+
+
+cropBellpepper
+cuisine:crops - 16
+cuisine:crops - 15
+
+
+cropCabbage
+cuisine:crops - 11
+
+
+cropCarrot
+minecraft:carrot - 0
+
+
+cropChilipepper
+rustic:chili_pepper - 0
+cuisine:crops - 5
+
+
+cropChorusfruit
+minecraft:chorus_fruit - 0
+
+
+cropCitron
+cuisine:food - 10
+
+
+cropCorn
+cuisine:crops - 13
+
+
+cropCucumber
+cuisine:crops - 14
+
+
+cropEggplant
+cuisine:crops - 19
+
+
+cropGarlic
+bewitchment:garlic - 0
+cuisine:crops - 6
+
+
+cropGinger
+bewitchment:ginger - 0
+cuisine:crops - 7
+
+
+cropGrape
+rustic:grapes - 0
+
+
+cropGrapefruit
+cuisine:food - 14
+
+
+cropIronberry
+rustic:ironberries - 0
+
+
+cropKelp
+bewitchment:kelp - 0
+
+
+cropKenaf
+bewitchment:kenaf - 0
+
+
+cropLavender
+bewitchment:lavender - 0
+
+
+cropLeek
+cuisine:crops - 17
+
+
+cropLemon
+cuisine:food - 13
+
+
+cropLettuce
+cuisine:crops - 12
+
+
+cropLime
+cuisine:food - 15
+
+
+cropMandarin
+cuisine:food - 9
+
+
+cropMandrake
+bewitchment:mandrake_root - 0
+
+
+cropMelon
+minecraft:melon_block - 0
+minecraft:melon - 0
+
+
+cropMint
+bewitchment:mint - 0
+
+
+cropMushroom
+
+
+cropNetherWart
+minecraft:nether_wart - 0
+
+
+cropOlive
+rustic:olives - 0
+
+
+cropOnion
+cuisine:crops - 18
+
+
+cropOrange
+cuisine:food - 12
+
+
+cropPeanut
+cuisine:crops - 0
+
+
+cropPomelo
+cuisine:food - 11
+
+
+cropPotato
+minecraft:potato - 0
+
+
+cropPumpkin
+minecraft:pumpkin - 0
+
+
+cropRice
+cuisine:crops - 3
+
+
+cropScallion
+cuisine:crops - 9
+
+
+cropSeaweed
+bewitchment:kelp - 0
+
+
+cropSesame
+cuisine:crops - 1
+
+
+cropSichuanpepper
+cuisine:crops - 8
+
+
+cropSilphium
+bewitchment:silphium - 0
+
+
+cropSoybean
+cuisine:crops - 2
+
+
+cropSpiceleaf
+bewitchment:mint - 0
+
+
+cropSpinach
+cuisine:crops - 20
+
+
+cropThistle
+bewitchment:thistle - 0
+
+
+cropTomato
+rustic:tomato - 0
+cuisine:crops - 4
+
+
+cropTulsi
+bewitchment:tulsi - 0
+
+
+cropTurnip
+cuisine:crops - 10
+
+
+cropWheat
+minecraft:wheat - 0
+
+
+cropWhiteSage
+bewitchment:white_sage - 0
+
+
+cropWildberry
+rustic:wildberries - 0
+
+
+cropWormwood
+bewitchment:wormwood - 0
+
+
+crystalCertusQuartz
+
+
+crystalCinnabar
+thermalfoundation:material - 866
+
+
+crystalCrudeOil
+thermalfoundation:material - 892
+
+
+crystalEnder
+thermalfoundation:material - 895
+
+
+crystalGlowstone
+thermalfoundation:material - 894
+
+
+crystalRedstone
+thermalfoundation:material - 893
+
+
+crystalSlag
+thermalfoundation:material - 864
+
+
+crystalSlagRich
+thermalfoundation:material - 865
+
+
+decorativeGrave
+tombstone:decorative_grave_simple - 0
+tombstone:decorative_grave_normal - 0
+tombstone:decorative_grave_cross - 0
+tombstone:decorative_tombstone - 0
+
+
+denseoreAlubrass
+
+
+denseoreAluminum
+
+
+denseoreArdite
+
+
+denseoreBrass
+
+
+denseoreBronze
+
+
+denseoreCobalt
+
+
+denseoreConstantan
+
+
+denseoreCopper
+
+
+denseoreElectrum
+
+
+denseoreEnderium
+
+
+denseoreFiery
+
+
+denseoreGold
+
+
+denseoreInvar
+
+
+denseoreIridium
+
+
+denseoreIron
+
+
+denseoreKnightmetal
+
+
+denseoreKnightslime
+
+
+denseoreLead
+
+
+denseoreLumium
+
+
+denseoreManyullyn
+
+
+denseoreNickel
+
+
+denseorePigiron
+
+
+denseorePlatinum
+
+
+denseoreSignalum
+
+
+denseoreSilver
+
+
+denseoreSteel
+
+
+denseoreTin
+
+
+dirt
+minecraft:dirt - 0
+chisel:dirt - 0
+chisel:dirt - 1
+chisel:dirt - 2
+chisel:dirt - 3
+chisel:dirt - 4
+chisel:dirt - 5
+chisel:dirt - 6
+chisel:dirt - 7
+chisel:dirt - 8
+chisel:dirt - 9
+chisel:dirt - 10
+chisel:dirt - 11
+chisel:dirt - 12
+chisel:dirt - 13
+chisel:dirt - 14
+chisel:dirt - 15
+minecraft:dirt - any
+thebetweenlands:swamp_dirt - 0
+thebetweenlands:coarse_swamp_dirt - 0
+
+
+doorWood
+minecraft:acacia_door - 0
+minecraft:birch_door - 0
+minecraft:dark_oak_door - 0
+minecraft:wooden_door - 0
+minecraft:jungle_door - 0
+minecraft:spruce_door - 0
+redwoods:redwood_door - 0
+redwoods:fir_door - 0
+cuisine:door - 0
+midnight:shadowroot_door - 0
+midnight:dark_willow_door - 0
+midnight:dead_wood_door - 0
+
+
+drawerBasic
+storagedrawers:basicdrawers - any
+
+
+drawerTrim
+storagedrawers:trim - any
+
+
+dreamwood
+botania:dreamwood - 0
+
+
+dreamwoodTwig
+botania:manaresource - 13
+
+
+dropHoney
+bewitchment:honey - 0
+
+
+dustAerotheum
+thermalfoundation:material - 1026
+
+
+dustAlubrass
+
+
+dustAluminum
+thermalfoundation:material - 68
+
+
+dustAmber
+
+
+dustAquaMiddleGem
+
+
+dustAquamarine
+
+
+dustArdite
+
+
+dustAstralStarmetal
+astralsorcery:itemcraftingcomponent - 2
+
+
+dustBasalz
+thermalfoundation:material - 2053
+
+
+dustBlaze
+minecraft:blaze_powder - 0
+
+
+dustBlitz
+thermalfoundation:material - 2051
+
+
+dustBlizz
+thermalfoundation:material - 2049
+
+
+dustBone
+
+
+dustBrass
+
+
+dustBronze
+thermalfoundation:material - 99
+
+
+dustCertusQuartz
+
+
+dustCharcoal
+thermalfoundation:material - 769
+
+
+dustCinnabar
+
+
+dustClathrateEnder
+
+
+dustClathrateGlowstone
+
+
+dustClathrateOilSand
+
+
+dustClathrateOilShale
+
+
+dustClathrateRedstone
+
+
+dustCoal
+thermalfoundation:material - 768
+bloodmagic:component - 21
+
+
+dustCobalt
+
+
+dustConstantan
+thermalfoundation:material - 100
+
+
+dustCopper
+thermalfoundation:material - 64
+
+
+dustCrimsonMiddleGem
+
+
+dustCrudesalt
+cuisine:material - 3
+
+
+dustCryotheum
+thermalfoundation:material - 1025
+
+
+dustCrystalAir
+
+
+dustCrystalEarth
+
+
+dustCrystalEntropy
+
+
+dustCrystalFire
+
+
+dustCrystalOrder
+
+
+dustCrystalTaint
+
+
+dustCrystalWater
+
+
+dustDark
+
+
+dustDiamond
+
+
+dustDraconium
+
+
+dustDull
+evilcraft:dull_dust - 0
+
+
+dustElectrum
+thermalfoundation:material - 97
+
+
+dustElvenElementium
+
+
+dustEmerald
+
+
+dustEnderium
+thermalfoundation:material - 103
+
+
+dustEssence
+
+
+dustFairy
+wings:fairy_dust - 0
+
+
+dustFiery
+
+
+dustGalena
+
+
+dustGlowstone
+minecraft:glowstone_dust - 0
+
+
+dustGold
+thermalfoundation:material - 1
+bloodmagic:component - 20
+
+
+dustGrave
+tombstone:crafting_ingredient - 3
+
+
+dustGreenMiddleGem
+
+
+dustInvar
+thermalfoundation:material - 98
+
+
+dustIridium
+thermalfoundation:material - 71
+
+
+dustIron
+thermalfoundation:material - 0
+bloodmagic:component - 19
+
+
+dustKnightmetal
+
+
+dustKnightslime
+
+
+dustLapis
+
+
+dustLead
+thermalfoundation:material - 67
+
+
+dustLifeCrystal
+
+
+dustLumium
+thermalfoundation:material - 102
+
+
+dustMana
+thermalfoundation:material - 1028
+
+
+dustManasteel
+
+
+dustManyullyn
+
+
+dustMithril
+thermalfoundation:material - 72
+
+
+dustNickel
+thermalfoundation:material - 69
+
+
+dustObsidian
+thermalfoundation:material - 770
+
+
+dustOctine
+
+
+dustPetrotheum
+thermalfoundation:material - 1027
+
+
+dustPigiron
+
+
+dustPlatinum
+thermalfoundation:material - 70
+
+
+dustPrismarine
+minecraft:prismarine_crystals - 0
+
+
+dustPyrotheum
+thermalfoundation:material - 1024
+
+
+dustQuartz
+
+
+dustQuartzBlack
+
+
+dustRedDiamond
+
+
+dustRedstone
+minecraft:redstone - 0
+
+
+dustSalt
+bewitchment:salt - 0
+cuisine:material - 2
+
+
+dustSaltpeter
+thermalfoundation:material - 772
+bloodmagic:component - 24
+valoegheses_be:saltpeter - 0
+
+
+dustScabyst
+
+
+dustSignalum
+thermalfoundation:material - 101
+
+
+dustSilver
+thermalfoundation:material - 66
+
+
+dustSteel
+thermalfoundation:material - 96
+
+
+dustSulfur
+thermalfoundation:material - 771
+bloodmagic:component - 23
+valoegheses_be:sulphurrock - 0
+
+
+dustSyrmorite
+
+
+dustTerrasteel
+
+
+dustThaumium
+
+
+dustTin
+thermalfoundation:material - 65
+
+
+dustTinyIron
+rustic:dust_tiny_iron - 0
+
+
+dustUnrefinedsugar
+cuisine:material - 7
+
+
+dustValonite
+
+
+dustWood
+thermalfoundation:material - 800
+
+
+dye
+minecraft:dye - any
+thermalfoundation:dye - any
+botania:dye - any
+bewitchment:iron_gall_ink - 0
+bewitchment:catechu - 0
+plants2:generic - 2
+plants2:generic - 1
+plants2:generic - 3
+plants2:generic - 4
+
+
+dyeBlack
+minecraft:dye - 0
+thermalfoundation:dye - 0
+botania:dye - 15
+bewitchment:iron_gall_ink - 0
+inspirations:dyed_bottle - 0
+plants2:generic - 1
+
+
+dyeBlue
+minecraft:dye - 4
+thermalfoundation:dye - 4
+botania:dye - 11
+inspirations:dyed_bottle - 4
+plants2:generic - 2
+
+
+dyeBrown
+minecraft:dye - 3
+thermalfoundation:dye - 3
+botania:dye - 12
+bewitchment:catechu - 0
+inspirations:dyed_bottle - 3
+plants2:generic - 3
+
+
+dyeCyan
+minecraft:dye - 6
+thermalfoundation:dye - 6
+botania:dye - 9
+inspirations:dyed_bottle - 6
+
+
+dyeGray
+minecraft:dye - 8
+thermalfoundation:dye - 8
+botania:dye - 7
+inspirations:dyed_bottle - 8
+
+
+dyeGreen
+minecraft:dye - 2
+thermalfoundation:dye - 2
+botania:dye - 13
+inspirations:dyed_bottle - 2
+
+
+dyeLightBlue
+minecraft:dye - 12
+thermalfoundation:dye - 12
+botania:dye - 3
+inspirations:dyed_bottle - 12
+
+
+dyeLightGray
+minecraft:dye - 7
+rustic:ironberries - 0
+thermalfoundation:dye - 7
+botania:dye - 8
+inspirations:dyed_bottle - 7
+
+
+dyeLime
+minecraft:dye - 10
+thermalfoundation:dye - 10
+botania:dye - 5
+inspirations:dyed_bottle - 10
+
+
+dyeMagenta
+minecraft:dye - 13
+thermalfoundation:dye - 13
+botania:dye - 2
+inspirations:dyed_bottle - 13
+
+
+dyeOrange
+minecraft:dye - 14
+thermalfoundation:dye - 14
+botania:dye - 1
+inspirations:dyed_bottle - 14
+
+
+dyePink
+minecraft:dye - 9
+thermalfoundation:dye - 9
+botania:dye - 6
+inspirations:dyed_bottle - 9
+
+
+dyePurple
+minecraft:dye - 5
+rustic:grapes - 0
+thermalfoundation:dye - 5
+botania:dye - 10
+inspirations:dyed_bottle - 5
+
+
+dyeRed
+minecraft:dye - 1
+rustic:wildberries - 0
+thermalfoundation:dye - 1
+botania:dye - 14
+evilcraft:hardened_blood_shard - 0
+inspirations:dyed_bottle - 1
+
+
+dyeSilver
+
+
+dyeWhite
+minecraft:dye - 15
+thermalfoundation:dye - 15
+botania:dye - 0
+inspirations:dyed_bottle - 15
+plants2:generic - 4
+
+
+dyeYellow
+minecraft:dye - 11
+thermalfoundation:dye - 11
+botania:dye - 4
+inspirations:dyed_bottle - 11
+
+
+egg
+minecraft:egg - 0
+exoticbirds:cassowary_egg - 0
+exoticbirds:duck_egg - 0
+exoticbirds:flamingo_egg - 0
+exoticbirds:gouldianfinch_egg - 0
+exoticbirds:hummingbird_egg - 0
+exoticbirds:kingfisher_egg - 0
+exoticbirds:kiwi_egg - 0
+exoticbirds:lyrebird_egg - 0
+exoticbirds:magpie_egg - 0
+exoticbirds:ostrich_egg - 0
+exoticbirds:owl_egg - 0
+exoticbirds:parrot_egg - 0
+exoticbirds:peafowl_egg - 0
+exoticbirds:pelican_egg - 0
+exoticbirds:emperorpenguin_egg - 0
+exoticbirds:pigeon_egg - 0
+exoticbirds:roadrunner_egg - 0
+exoticbirds:seagull_egg - 0
+exoticbirds:swan_egg - 0
+exoticbirds:toucan_egg - 0
+exoticbirds:vulture_egg - 0
+exoticbirds:woodpecker_egg - 0
+exoticbirds:heron_egg - 0
+exoticbirds:booby_egg - 0
+exoticbirds:cardinal_egg - 0
+exoticbirds:bluejay_egg - 0
+exoticbirds:robin_egg - 0
+exoticbirds:crane_egg - 0
+exoticbirds:kookaburra_egg - 0
+primitivemobs:dodo_egg - 0
+
+
+elvenDragonstone
+botania:manaresource - 9
+
+
+elvenPixieDust
+botania:manaresource - 8
+
+
+enderpearl
+minecraft:ender_pearl - 0
+
+
+endstone
+minecraft:end_stone - 0
+chisel:endstone - 0
+chisel:endstone - 1
+chisel:endstone - 2
+chisel:endstone - 3
+chisel:endstone - 4
+chisel:endstone - 5
+chisel:endstone - 6
+chisel:endstone - 7
+chisel:endstone - 8
+chisel:endstone - 9
+chisel:endstone - 10
+chisel:endstone - 11
+chisel:endstone - 12
+chisel:endstone - 13
+chisel:endstone - 14
+chisel:endstone - 15
+chisel:endstone1 - 0
+chisel:endstone1 - 1
+chisel:endstone1 - 2
+chisel:endstone1 - 3
+chisel:endstone1 - 4
+chisel:endstone1 - 5
+chisel:endstone1 - 6
+chisel:endstone1 - 7
+chisel:endstone1 - 8
+chisel:endstone1 - 9
+chisel:endstone2 - 0
+chisel:endstone2 - 1
+chisel:endstone2 - 2
+chisel:endstone2 - 3
+chisel:endstone2 - 4
+chisel:endstone2 - 5
+chisel:endstone2 - 6
+
+
+essenceInferium
+mysticalagriculture:crafting - 0
+
+
+essenceIntermedium
+mysticalagriculture:crafting - 2
+
+
+essencePrudentium
+mysticalagriculture:crafting - 1
+
+
+essenceSuperium
+mysticalagriculture:crafting - 3
+
+
+essenceSupremium
+mysticalagriculture:crafting - 4
+
+
+essenceTier1
+mysticalagriculture:zombie_essence - 0
+mysticalagriculture:stone_essence - 0
+mysticalagriculture:nature_essence - 0
+mysticalagriculture:dirt_essence - 0
+mysticalagriculture:ice_essence - 0
+mysticalagriculture:water_essence - 0
+mysticalagriculture:wood_essence - 0
+
+
+essenceTier2
+mysticalagriculture:fire_essence - 0
+mysticalagriculture:aluminum_essence - 0
+mysticalagriculture:aluminum_brass_essence - 0
+mysticalagriculture:mystical_flower_essence - 0
+mysticalagriculture:dye_essence - 0
+mysticalagriculture:copper_essence - 0
+mysticalagriculture:sheep_essence - 0
+mysticalagriculture:slate_essence - 0
+mysticalagriculture:limestone_essence - 0
+mysticalagriculture:slime_essence - 0
+mysticalagriculture:pig_essence - 0
+mysticalagriculture:chicken_essence - 0
+mysticalagriculture:coal_essence - 0
+mysticalagriculture:nether_essence - 0
+mysticalagriculture:basalt_essence - 0
+mysticalagriculture:sulfur_essence - 0
+mysticalagriculture:cow_essence - 0
+mysticalagriculture:marble_essence - 0
+mysticalagriculture:slimy_bone_essence - 0
+
+
+essenceTier3
+mysticalagriculture:creeper_essence - 0
+mysticalagriculture:bronze_essence - 0
+mysticalagriculture:lead_essence - 0
+mysticalagriculture:ironwood_essence - 0
+mysticalagriculture:skeleton_essence - 0
+mysticalagriculture:tin_essence - 0
+mysticalagriculture:obsidian_essence - 0
+mysticalagriculture:steeleaf_essence - 0
+mysticalagriculture:glowstone_essence - 0
+mysticalagriculture:basalz_essence - 0
+mysticalagriculture:octine_essence - 0
+mysticalagriculture:guardian_essence - 0
+mysticalagriculture:blitz_essence - 0
+mysticalagriculture:syrmorite_essence - 0
+mysticalagriculture:knightslime_essence - 0
+mysticalagriculture:aquamarine_essence - 0
+mysticalagriculture:rabbit_essence - 0
+mysticalagriculture:iron_essence - 0
+mysticalagriculture:redstone_essence - 0
+mysticalagriculture:dark_gem_essence - 0
+mysticalagriculture:silver_essence - 0
+mysticalagriculture:blizz_essence - 0
+mysticalagriculture:quicksilver_essence - 0
+mysticalagriculture:manasteel_essence - 0
+mysticalagriculture:ardite_essence - 0
+mysticalagriculture:saltpeter_essence - 0
+mysticalagriculture:brass_essence - 0
+mysticalagriculture:thaumium_essence - 0
+mysticalagriculture:nether_quartz_essence - 0
+mysticalagriculture:spider_essence - 0
+
+
+essenceTier4
+mysticalagriculture:experience_essence - 0
+mysticalagriculture:electrum_essence - 0
+mysticalagriculture:steel_essence - 0
+mysticalagriculture:fiery_ingot_essence - 0
+mysticalagriculture:cobalt_essence - 0
+mysticalagriculture:nickel_essence - 0
+mysticalagriculture:ghast_essence - 0
+mysticalagriculture:void_metal_essence - 0
+mysticalagriculture:elementium_essence - 0
+mysticalagriculture:knightmetal_essence - 0
+mysticalagriculture:enderman_essence - 0
+mysticalagriculture:mithril_essence - 0
+mysticalagriculture:lapis_lazuli_essence - 0
+mysticalagriculture:invar_essence - 0
+mysticalagriculture:blaze_essence - 0
+mysticalagriculture:gold_essence - 0
+mysticalagriculture:end_essence - 0
+mysticalagriculture:amber_essence - 0
+mysticalagriculture:signalum_essence - 0
+mysticalagriculture:constantan_essence - 0
+mysticalagriculture:lumium_essence - 0
+
+
+essenceTier5
+mysticalagriculture:diamond_essence - 0
+mysticalagriculture:starmetal_essence - 0
+mysticalagriculture:enderium_essence - 0
+mysticalagriculture:iridium_essence - 0
+mysticalagriculture:terrasteel_essence - 0
+mysticalagriculture:manyullyn_essence - 0
+mysticalagriculture:valonite_essence - 0
+mysticalagriculture:wither_skeleton_essence - 0
+mysticalagriculture:emerald_essence - 0
+mysticalagriculture:platinum_essence - 0
+mysticalagriculture:rock_crystal_essence - 0
+
+
+eternalLifeEssence
+botania:manaresource - 5
+
+
+feather
+minecraft:feather - 0
+bewitchment:chromatic_quill - 0
+exoticbirds:peacock_feather - 0
+exoticbirds:phoenix_feather - 0
+totemic:eagle_drops - 1
+
+
+fenceGateWood
+minecraft:fence_gate - 0
+minecraft:spruce_fence_gate - 0
+minecraft:birch_fence_gate - 0
+minecraft:jungle_fence_gate - 0
+minecraft:dark_oak_fence_gate - 0
+minecraft:acacia_fence_gate - 0
+thebetweenlands:weedwood_plank_fence_gate - 0
+thebetweenlands:weedwood_log_fence_gate - 0
+thebetweenlands:rubber_tree_plank_fence_gate - 0
+thebetweenlands:giant_root_plank_fence_gate - 0
+thebetweenlands:hearthgrove_plank_fence_gate - 0
+thebetweenlands:nibbletwig_plank_fence_gate - 0
+redwoods:redwood_fence_gate - 0
+redwoods:fir_fence_gate - 0
+totemic:cedar_fence_gate - 0
+cuisine:fence_gate - 0
+
+
+fenceWood
+minecraft:fence - 0
+minecraft:spruce_fence - 0
+minecraft:birch_fence - 0
+minecraft:jungle_fence - 0
+minecraft:dark_oak_fence - 0
+minecraft:acacia_fence - 0
+thebetweenlands:weedwood_plank_fence - 0
+thebetweenlands:weedwood_log_fence - 0
+thebetweenlands:rubber_tree_plank_fence - 0
+thebetweenlands:giant_root_plank_fence - 0
+thebetweenlands:hearthgrove_plank_fence - 0
+thebetweenlands:nibbletwig_plank_fence - 0
+redwoods:redwood_fence - 0
+redwoods:fir_fence - 0
+totemic:cedar_fence - 0
+cuisine:fence - 0
+
+
+fish
+minecraft:fish - any
+
+
+foodCheese
+betteranimalsplus:goatcheese - 0
+
+
+foodDough
+cuisine:food - 2
+
+
+foodDrink
+cuisine:glass_bottle - 0
+
+
+foodEgg
+exoticbirds:cassowary_egg - 0
+exoticbirds:duck_egg - 0
+exoticbirds:flamingo_egg - 0
+exoticbirds:gouldianfinch_egg - 0
+exoticbirds:hummingbird_egg - 0
+exoticbirds:kingfisher_egg - 0
+exoticbirds:kiwi_egg - 0
+exoticbirds:lyrebird_egg - 0
+exoticbirds:magpie_egg - 0
+exoticbirds:ostrich_egg - 0
+exoticbirds:owl_egg - 0
+exoticbirds:parrot_egg - 0
+exoticbirds:peafowl_egg - 0
+exoticbirds:pelican_egg - 0
+exoticbirds:emperorpenguin_egg - 0
+exoticbirds:pigeon_egg - 0
+exoticbirds:roadrunner_egg - 0
+exoticbirds:seagull_egg - 0
+exoticbirds:swan_egg - 0
+exoticbirds:toucan_egg - 0
+exoticbirds:vulture_egg - 0
+exoticbirds:woodpecker_egg - 0
+exoticbirds:heron_egg - 0
+exoticbirds:booby_egg - 0
+exoticbirds:cardinal_egg - 0
+exoticbirds:bluejay_egg - 0
+exoticbirds:robin_egg - 0
+exoticbirds:crane_egg - 0
+exoticbirds:kookaburra_egg - 0
+
+
+foodFirmtofu
+cuisine:food - 0
+
+
+foodFlour
+cuisine:food - 1
+
+
+foodGoatCheese
+betteranimalsplus:goatcheese - 0
+
+
+foodGoatMilk
+betteranimalsplus:goatmilk - 0
+
+
+foodHoneydrop
+bewitchment:honey - 0
+
+
+foodMushroom
+thebetweenlands:bulb_capped_mushroom_item - 0
+thebetweenlands:black_hat_mushroom_item - 0
+thebetweenlands:flat_head_mushroom_item - 0
+minecraft:brown_mushroom - 0
+minecraft:red_mushroom - 0
+
+
+foodPickles
+cuisine:food - 5
+cuisine:food - 6
+cuisine:food - 7
+cuisine:food - 8
+
+
+foodRice
+cuisine:food - 4
+
+
+foodSalt
+bewitchment:salt - 0
+
+
+foodSimpleEgg
+exoticbirds:cassowary_egg - 0
+exoticbirds:duck_egg - 0
+exoticbirds:flamingo_egg - 0
+exoticbirds:gouldianfinch_egg - 0
+exoticbirds:hummingbird_egg - 0
+exoticbirds:kingfisher_egg - 0
+exoticbirds:kiwi_egg - 0
+exoticbirds:lyrebird_egg - 0
+exoticbirds:magpie_egg - 0
+exoticbirds:ostrich_egg - 0
+exoticbirds:owl_egg - 0
+exoticbirds:parrot_egg - 0
+exoticbirds:peafowl_egg - 0
+exoticbirds:pelican_egg - 0
+exoticbirds:emperorpenguin_egg - 0
+exoticbirds:pigeon_egg - 0
+exoticbirds:roadrunner_egg - 0
+exoticbirds:seagull_egg - 0
+exoticbirds:swan_egg - 0
+exoticbirds:toucan_egg - 0
+exoticbirds:vulture_egg - 0
+exoticbirds:woodpecker_egg - 0
+exoticbirds:heron_egg - 0
+exoticbirds:booby_egg - 0
+exoticbirds:cardinal_egg - 0
+exoticbirds:bluejay_egg - 0
+exoticbirds:robin_egg - 0
+exoticbirds:crane_egg - 0
+exoticbirds:kookaburra_egg - 0
+primitivemobs:dodo_egg - 0
+
+
+foodVenisoncooked
+betteranimalsplus:venisoncooked - 0
+
+
+foodVenisonraw
+betteranimalsplus:venisonraw - 0
+
+
+fuelCoke
+thermalfoundation:material - 802
+
+
+furArctic
+twilightforest:arctic_fur - 0
+
+
+gaiaIngot
+botania:manaresource - 14
+
+
+gearAlubrass
+
+
+gearAluminum
+thermalfoundation:material - 260
+
+
+gearArdite
+
+
+gearAstralStarmetal
+
+
+gearBrass
+
+
+gearBronze
+thermalfoundation:material - 291
+
+
+gearCobalt
+
+
+gearConstantan
+thermalfoundation:material - 292
+
+
+gearCopper
+thermalfoundation:material - 256
+
+
+gearDiamond
+thermalfoundation:material - 26
+
+
+gearElectrum
+thermalfoundation:material - 289
+
+
+gearElvenElementium
+
+
+gearEmerald
+thermalfoundation:material - 27
+
+
+gearEnderium
+thermalfoundation:material - 295
+
+
+gearFiery
+
+
+gearGold
+thermalfoundation:material - 25
+
+
+gearInvar
+thermalfoundation:material - 290
+
+
+gearIridium
+thermalfoundation:material - 263
+
+
+gearIron
+thermalfoundation:material - 24
+
+
+gearKnightmetal
+
+
+gearKnightslime
+
+
+gearLead
+thermalfoundation:material - 259
+
+
+gearLumium
+thermalfoundation:material - 294
+
+
+gearManasteel
+
+
+gearManyullyn
+
+
+gearMithril
+thermalfoundation:material - 264
+
+
+gearNickel
+thermalfoundation:material - 261
+
+
+gearOctine
+
+
+gearPigiron
+
+
+gearPlatinum
+thermalfoundation:material - 262
+
+
+gearSignalum
+thermalfoundation:material - 293
+
+
+gearSilver
+thermalfoundation:material - 258
+
+
+gearSteel
+thermalfoundation:material - 288
+
+
+gearStone
+thermalfoundation:material - 23
+
+
+gearSyrmorite
+
+
+gearTerrasteel
+
+
+gearThaumium
+
+
+gearTin
+thermalfoundation:material - 257
+
+
+gearWood
+thermalfoundation:material - 22
+
+
+gemAlexandrite
+bewitchment:gem - 8
+simplygems:gems - 21
+
+
+gemAmber
+thaumcraft:amber - 0
+
+
+gemAmethyst
+wings:amethyst - 0
+bewitchment:gem - 7
+simplygems:gems - 20
+
+
+gemAntarctricite
+simplygems:gems - 22
+
+
+gemAquaMiddleGem
+thebetweenlands:aqua_middle_gem - 0
+
+
+gemAquamarine
+astralsorcery:itemcraftingcomponent - 0
+
+
+gemAzurite
+simplygems:gems - 36
+
+
+gemBenitoite
+simplygems:gems - 8
+
+
+gemBloodstone
+bewitchment:gem - 4
+
+
+gemBlueZoisite
+simplygems:gems - 34
+
+
+gemBort
+simplygems:gems - 9
+
+
+gemCairngorm
+simplygems:gems - 25
+
+
+gemChrysoberyl
+simplygems:gems - 33
+
+
+gemCinnabar
+simplygems:gems - 0
+simplygems:gems - 39
+
+
+gemCrimsonMiddleGem
+thebetweenlands:crimson_middle_gem - 0
+
+
+gemDark
+evilcraft:dark_gem - 0
+
+
+gemDarkCrushed
+evilcraft:dark_gem_crushed - 0
+
+
+gemDarkPower
+evilcraft:dark_power_gem - 0
+
+
+gemDiamond
+minecraft:diamond - 0
+simplygems:gems - 12
+simplygems:gems - 13
+simplygems:gems - 14
+
+
+gemEmerald
+minecraft:emerald - 0
+
+
+gemEuclase
+simplygems:gems - 10
+
+
+gemGarnet
+bewitchment:gem - 0
+
+
+gemGhostQuartz
+simplygems:gems - 24
+
+
+gemGoshenite
+simplygems:gems - 1
+
+
+gemGreenMiddleGem
+thebetweenlands:green_middle_gem - 0
+
+
+gemHemimorphite
+simplygems:gems - 28
+
+
+gemJade
+simplygems:gems - 2
+
+
+gemJasper
+bewitchment:gem - 5
+
+
+gemLapis
+minecraft:dye - 4
+
+
+gemLifeCrystal
+thebetweenlands:life_crystal - any
+
+
+gemMalachite
+bewitchment:gem - 6
+
+
+gemMorganite
+simplygems:gems - 7
+
+
+gemNeptunite
+simplygems:gems - 11
+
+
+gemNuummite
+bewitchment:gem - 1
+
+
+gemObsidian
+simplygems:gems - 19
+
+
+gemOpal
+simplygems:gems - 37
+simplygems:gems - 38
+
+
+gemPadparadscha
+simplygems:gems - 23
+
+
+gemPeridot
+simplygems:gems - 29
+
+
+gemPhosphophyllite
+simplygems:gems - 3
+
+
+gemPrismarine
+minecraft:prismarine_shard - 0
+
+
+gemQuartz
+minecraft:quartz - 0
+
+
+gemQuartzBlack
+
+
+gemRedberyl
+simplygems:gems - 6
+
+
+gemRuby
+simplygems:gems - 30
+
+
+gemRutile
+simplygems:gems - 4
+simplygems:gems - 5
+
+
+gemSapphire
+simplygems:gems - 31
+
+
+gemScabyst
+thebetweenlands:items_misc - 39
+
+
+gemSphene
+simplygems:gems - 27
+
+
+gemTanzanite
+
+
+gemTigersEye
+bewitchment:gem - 2
+
+
+gemTopaz
+simplygems:gems - 32
+
+
+gemTourmaline
+bewitchment:gem - 3
+
+
+gemUnakite
+simplygems:gems - 35
+
+
+gemValonite
+thebetweenlands:items_misc - 19
+
+
+gemWatermelonTourmaline
+simplygems:gems - 26
+
+
+gemZircon
+simplygems:gems - 15
+simplygems:gems - 16
+simplygems:gems - 17
+simplygems:gems - 18
+
+
+glassclear
+minecraft:glass_pane - 0
+minecraft:stained_glass_pane - 0
+
+
+glowstone
+minecraft:glowstone - 0
+chisel:glowstone - 0
+chisel:glowstone - 1
+chisel:glowstone - 2
+chisel:glowstone - 3
+chisel:glowstone - 4
+chisel:glowstone - 5
+chisel:glowstone - 6
+chisel:glowstone - 7
+chisel:glowstone - 8
+chisel:glowstone - 9
+chisel:glowstone - 10
+chisel:glowstone - 11
+chisel:glowstone - 12
+chisel:glowstone - 13
+chisel:glowstone - 14
+chisel:glowstone - 15
+chisel:glowstone1 - 0
+chisel:glowstone1 - 1
+chisel:glowstone1 - 2
+chisel:glowstone1 - 3
+chisel:glowstone1 - 4
+chisel:glowstone1 - 5
+chisel:glowstone1 - 6
+chisel:glowstone1 - 7
+chisel:glowstone1 - 8
+chisel:glowstone1 - 9
+chisel:glowstone1 - 10
+chisel:glowstone1 - 11
+chisel:glowstone1 - 12
+chisel:glowstone1 - 13
+chisel:glowstone1 - 14
+chisel:glowstone1 - 15
+chisel:glowstone2 - 0
+
+
+grass
+minecraft:grass - 0
+thebetweenlands:swamp_grass - 0
+
+
+gravel
+minecraft:gravel - 0
+
+
+gunpowder
+minecraft:gunpowder - 0
+
+
+handleWood
+cuisine:material - 1
+
+
+hardenedClay
+chisel:hardenedclay - 0
+chisel:hardenedclay - 1
+chisel:hardenedclay - 2
+chisel:hardenedclay - 3
+chisel:hardenedclay - 4
+chisel:hardenedclay - 5
+chisel:hardenedclay - 6
+chisel:hardenedclay - 7
+chisel:hardenedclay - 8
+chisel:hardenedclay - 9
+chisel:hardenedclay - 10
+chisel:hardenedclay - 11
+chisel:hardenedclay - 12
+chisel:hardenedclay - 13
+chisel:hardenedclay - 14
+chisel:hardenedclay - 15
+chisel:hardenedclay1 - 0
+chisel:hardenedclay1 - 1
+chisel:hardenedclay1 - 2
+chisel:hardenedclay1 - 3
+chisel:hardenedclay1 - 4
+chisel:hardenedclay1 - 5
+chisel:hardenedclay1 - 6
+chisel:hardenedclay1 - 7
+chisel:hardenedclay1 - 8
+chisel:hardenedclay1 - 9
+chisel:hardenedclay2 - 0
+chisel:hardenedclay2 - 1
+chisel:hardenedclay2 - 2
+chisel:hardenedclay2 - 3
+chisel:hardenedclay2 - 4
+chisel:hardenedclay2 - 5
+chisel:hardenedclay2 - 6
+minecraft:hardened_clay - any
+
+
+hideBuffalo
+totemic:buffalo_items - 0
+
+
+honeyDrop
+bewitchment:honey - 0
+
+
+hopper
+minecraft:hopper - 0
+
+
+ice
+chisel:ice - 0
+chisel:ice - 1
+chisel:ice - 2
+chisel:ice - 3
+chisel:ice - 4
+chisel:ice - 5
+chisel:ice - 6
+chisel:ice - 7
+chisel:ice - 8
+chisel:ice - 9
+chisel:ice - 10
+chisel:ice - 11
+chisel:ice - 12
+chisel:ice - 13
+chisel:ice - 14
+chisel:ice - 15
+chisel:ice1 - 0
+chisel:ice1 - 1
+chisel:ice1 - 2
+chisel:ice1 - 3
+chisel:ice1 - 4
+chisel:ice1 - 5
+chisel:ice1 - 6
+chisel:ice1 - 7
+chisel:ice1 - 8
+chisel:ice1 - 9
+chisel:ice1 - 10
+chisel:ice1 - 11
+chisel:ice1 - 12
+chisel:ice1 - 13
+chisel:ice1 - 14
+chisel:ice1 - 15
+chisel:ice2 - 0
+chisel:icepillar - 0
+chisel:icepillar - 1
+chisel:icepillar - 2
+chisel:icepillar - 3
+chisel:icepillar - 4
+chisel:icepillar - 5
+chisel:icepillar - 6
+minecraft:ice - 0
+
+
+ingotAlubrass
+tconstruct:ingots - 5
+
+
+ingotAluminum
+thermalfoundation:material - 132
+
+
+ingotArdite
+tconstruct:ingots - 1
+
+
+ingotAstralStarmetal
+astralsorcery:itemcraftingcomponent - 1
+
+
+ingotBaseEssence
+mysticalagriculture:crafting - 32
+
+
+ingotBrass
+thaumcraft:ingot - 2
+
+
+ingotBrick
+minecraft:brick - 0
+
+
+ingotBrickNether
+minecraft:netherbrick - 0
+
+
+ingotBrickSeared
+tconstruct:materials - 0
+
+
+ingotBronze
+thermalfoundation:material - 163
+
+
+ingotCobalt
+tconstruct:ingots - 0
+
+
+ingotColdIron
+bewitchment:cold_iron_ingot - 0
+
+
+ingotConstantan
+thermalfoundation:material - 164
+
+
+ingotCopper
+thermalfoundation:material - 128
+
+
+ingotDraconium
+
+
+ingotElectrum
+thermalfoundation:material - 161
+
+
+ingotElvenElementium
+botania:manaresource - 7
+
+
+ingotEnderium
+thermalfoundation:material - 167
+
+
+ingotFiery
+twilightforest:fiery_ingot - 0
+
+
+ingotGold
+minecraft:gold_ingot - 0
+
+
+ingotInferium
+mysticalagriculture:crafting - 33
+
+
+ingotIntermedium
+mysticalagriculture:crafting - 35
+
+
+ingotInvar
+thermalfoundation:material - 162
+
+
+ingotIridium
+thermalfoundation:material - 135
+
+
+ingotIron
+minecraft:iron_ingot - 0
+
+
+ingotIronwood
+twilightforest:ironwood_ingot - 0
+
+
+ingotKnightmetal
+twilightforest:knightmetal_ingot - 0
+
+
+ingotKnightslime
+tconstruct:ingots - 3
+
+
+ingotLead
+thermalfoundation:material - 131
+
+
+ingotLumium
+thermalfoundation:material - 166
+
+
+ingotManasteel
+botania:manaresource - 0
+
+
+ingotManyullyn
+tconstruct:ingots - 2
+
+
+ingotMithril
+thermalfoundation:material - 136
+
+
+ingotNickel
+thermalfoundation:material - 133
+
+
+ingotOctine
+thebetweenlands:octine_ingot - 0
+
+
+ingotPigiron
+tconstruct:ingots - 4
+
+
+ingotPlatinum
+thermalfoundation:material - 134
+
+
+ingotPrudentium
+mysticalagriculture:crafting - 34
+
+
+ingotSignalum
+thermalfoundation:material - 165
+
+
+ingotSilver
+thermalfoundation:material - 130
+bewitchment:silver_ingot - 0
+
+
+ingotSoulium
+mysticalagriculture:crafting - 38
+
+
+ingotSteel
+thermalfoundation:material - 160
+
+
+ingotSteeleaf
+twilightforest:steeleaf_ingot - 0
+
+
+ingotSuperium
+mysticalagriculture:crafting - 36
+
+
+ingotSupremium
+mysticalagriculture:crafting - 37
+
+
+ingotSyrmorite
+thebetweenlands:items_misc - 11
+
+
+ingotTerrasteel
+botania:manaresource - 4
+
+
+ingotThaumium
+thaumcraft:ingot - 0
+
+
+ingotTin
+thermalfoundation:material - 129
+
+
+ingotVanadium
+valoegheses_be:ingot_vanadium - 0
+
+
+ingotVoid
+thaumcraft:ingot - 1
+
+
+ingredientEgg
+exoticbirds:cassowary_egg - 0
+exoticbirds:duck_egg - 0
+exoticbirds:flamingo_egg - 0
+exoticbirds:gouldianfinch_egg - 0
+exoticbirds:hummingbird_egg - 0
+exoticbirds:kingfisher_egg - 0
+exoticbirds:kiwi_egg - 0
+exoticbirds:lyrebird_egg - 0
+exoticbirds:magpie_egg - 0
+exoticbirds:ostrich_egg - 0
+exoticbirds:owl_egg - 0
+exoticbirds:parrot_egg - 0
+exoticbirds:peafowl_egg - 0
+exoticbirds:pelican_egg - 0
+exoticbirds:emperorpenguin_egg - 0
+exoticbirds:pigeon_egg - 0
+exoticbirds:roadrunner_egg - 0
+exoticbirds:seagull_egg - 0
+exoticbirds:swan_egg - 0
+exoticbirds:toucan_egg - 0
+exoticbirds:vulture_egg - 0
+exoticbirds:woodpecker_egg - 0
+exoticbirds:heron_egg - 0
+exoticbirds:booby_egg - 0
+exoticbirds:cardinal_egg - 0
+exoticbirds:bluejay_egg - 0
+exoticbirds:robin_egg - 0
+exoticbirds:crane_egg - 0
+exoticbirds:kookaburra_egg - 0
+primitivemobs:dodo_egg - 0
+
+
+ingredientEnchantedGraveKey
+minecraft:ender_pearl - 0
+
+
+ingredientSalt
+bewitchment:salt - 0
+
+
+itemBeeswax
+bewitchment:wax - 0
+
+
+itemBioblend
+thermalfoundation:material - 818
+
+
+itemBioblendRich
+thermalfoundation:material - 819
+
+
+itemBiomass
+thermalfoundation:material - 816
+
+
+itemBiomassRich
+thermalfoundation:material - 817
+
+
+itemCinnabar
+thermalfoundation:material - 866
+
+
+itemFoodCutter
+cuisine:kitchen_knife - 0
+
+
+itemHoney
+bewitchment:honey - 0
+
+
+itemSalt
+
+
+itemSawdust
+thermalfoundation:material - 800
+
+
+itemSkull
+minecraft:skull - any
+
+
+itemSlag
+thermalfoundation:material - 864
+
+
+itemSlagRich
+thermalfoundation:material - 865
+
+
+itemWax
+bewitchment:wax - 0
+
+
+kelp
+bewitchment:kelp - 0
+
+
+leather
+minecraft:leather - 0
+
+
+leaves
+
+
+lexicaBotania
+botania:lexicon - 0
+
+
+limestone
+bewitchment:coquina - 0
+
+
+listAllGoatMilk
+betteranimalsplus:goatmilk - 0
+
+
+listAllMilk
+betteranimalsplus:goatmilk - 0
+
+
+listAllSalt
+
+
+listAllbeefcooked
+totemic:cooked_buffalo_meat - 0
+
+
+listAllbeefraw
+totemic:buffalo_meat - 0
+minecraft:beef - 0
+
+
+listAllberry
+rustic:grapes - 0
+rustic:ironberries - 0
+rustic:wildberries - 0
+
+
+listAllbuffalocooked
+totemic:cooked_buffalo_meat - 0
+
+
+listAllbuffaloraw
+totemic:buffalo_meat - 0
+
+
+listAllchickencooked
+
+
+listAllchickenraw
+minecraft:chicken - 0
+
+
+listAllcitrus
+cuisine:food - 9
+cuisine:food - 10
+cuisine:food - 11
+cuisine:food - 12
+cuisine:food - 13
+cuisine:food - 15
+cuisine:food - 14
+
+
+listAllegg
+exoticbirds:cassowary_egg - 0
+exoticbirds:duck_egg - 0
+exoticbirds:flamingo_egg - 0
+exoticbirds:gouldianfinch_egg - 0
+exoticbirds:hummingbird_egg - 0
+exoticbirds:kingfisher_egg - 0
+exoticbirds:kiwi_egg - 0
+exoticbirds:lyrebird_egg - 0
+exoticbirds:magpie_egg - 0
+exoticbirds:ostrich_egg - 0
+exoticbirds:owl_egg - 0
+exoticbirds:parrot_egg - 0
+exoticbirds:peafowl_egg - 0
+exoticbirds:pelican_egg - 0
+exoticbirds:emperorpenguin_egg - 0
+exoticbirds:pigeon_egg - 0
+exoticbirds:roadrunner_egg - 0
+exoticbirds:seagull_egg - 0
+exoticbirds:swan_egg - 0
+exoticbirds:toucan_egg - 0
+exoticbirds:vulture_egg - 0
+exoticbirds:woodpecker_egg - 0
+exoticbirds:heron_egg - 0
+exoticbirds:booby_egg - 0
+exoticbirds:cardinal_egg - 0
+exoticbirds:bluejay_egg - 0
+exoticbirds:robin_egg - 0
+exoticbirds:crane_egg - 0
+exoticbirds:kookaburra_egg - 0
+primitivemobs:dodo_egg - 0
+
+
+listAllfiber
+bewitchment:kenaf - 0
+
+
+listAllfishcooked
+
+
+listAllfruit
+rustic:olives - 0
+rustic:ironberries - 0
+rustic:grapes - 0
+rustic:wildberries - 0
+minecraft:apple - 0
+minecraft:melon - 0
+minecraft:chorus_fruit - 0
+cuisine:food - 9
+cuisine:food - 10
+cuisine:food - 11
+cuisine:food - 12
+cuisine:food - 13
+cuisine:food - 14
+cuisine:food - 15
+cuisine:food - 16
+
+
+listAllgrain
+minecraft:wheat - 0
+cuisine:food - 0
+cuisine:food - 4
+cuisine:crops - 1
+cuisine:crops - 2
+cuisine:crops - 13
+
+
+listAllgreenveggie
+bewitchment:kelp - 0
+bewitchment:mint - 0
+bewitchment:silphium - 0
+
+
+listAllherb
+bewitchment:lavender - 0
+bewitchment:thistle - 0
+bewitchment:garlic - 0
+bewitchment:white_sage - 0
+bewitchment:tulsi - 0
+bewitchment:silphium - 0
+
+
+listAllmeatcooked
+minecraft:cooked_beef - any
+minecraft:cooked_chicken - any
+minecraft:cooked_fish - any
+minecraft:cooked_mutton - any
+minecraft:cooked_porkchop - any
+minecraft:cooked_rabbit - any
+betteranimalsplus:venisoncooked - 0
+betteranimalsplus:pheasantcooked - 0
+totemic:cooked_buffalo_meat - 0
+
+
+listAllmeatraw
+betteranimalsplus:venisonraw - 0
+betteranimalsplus:pheasantraw - 0
+totemic:buffalo_meat - 0
+minecraft:beef - 0
+minecraft:porkchop - 0
+minecraft:chicken - 0
+minecraft:rabbit - 0
+minecraft:mutton - 0
+
+
+listAllmuttoncooked
+
+
+listAllmuttonraw
+minecraft:mutton - 0
+
+
+listAllnut
+cuisine:crops - 0
+
+
+listAllpepper
+rustic:chili_pepper - 0
+
+
+listAllporkcooked
+
+
+listAllporkraw
+minecraft:porkchop - 0
+
+
+listAllrabbitcooked
+
+
+listAllrabbitraw
+minecraft:rabbit - 0
+
+
+listAllsalt
+bewitchment:salt - 0
+
+
+listAllspice
+bewitchment:ginger - 0
+bewitchment:mint - 0
+bewitchment:silphium - 0
+bewitchment:wormwood - 0
+cuisine:material - 2
+cuisine:material - 3
+cuisine:material - 7
+minecraft:sugar - 0
+cuisine:crops - 8
+
+
+listAllsugar
+bewitchment:honey - 0
+cuisine:material - 7
+minecraft:sugar - 0
+
+
+listAllturkeycooked
+
+
+listAllveggie
+randomthings:beans - 0
+rustic:tomato - 0
+bewitchment:kelp - 0
+minecraft:beetroot - 0
+minecraft:potato - 0
+minecraft:carrot - 0
+minecraft:pumpkin - 0
+cuisine:crops - 4
+cuisine:crops - 5
+cuisine:crops - 6
+cuisine:crops - 7
+cuisine:crops - 10
+cuisine:crops - 11
+cuisine:crops - 12
+cuisine:crops - 14
+cuisine:crops - 15
+cuisine:crops - 16
+cuisine:crops - 17
+cuisine:crops - 18
+cuisine:crops - 19
+cuisine:crops - 20
+
+
+listAllvenisoncooked
+betteranimalsplus:venisoncooked - 0
+
+
+listAllvenisonraw
+betteranimalsplus:venisonraw - 0
+
+
+listAllwater
+cuisine:mortar - 1
+minecraft:water_bucket - 0
+
+
+livingRoot
+botania:manaresource - 20
+
+
+livingrock
+botania:livingrock - 0
+
+
+livingwood
+botania:livingwood - 0
+
+
+livingwoodTwig
+botania:manaresource - 3
+
+
+logWood
+minecraft:log - any
+minecraft:log2 - any
+randomthings:spectrelog - 0
+rustic:log - 0
+rustic:log - 1
+thaumcraft:log_greatwood - 0
+thaumcraft:log_silverwood - 0
+evilcraft:undead_log - 0
+thebetweenlands:weedwood - any
+thebetweenlands:log_weedwood - any
+thebetweenlands:log_sap - any
+thebetweenlands:log_rubber - any
+thebetweenlands:giant_root - any
+thebetweenlands:log_hearthgrove - any
+thebetweenlands:log_nibbletwig - any
+thebetweenlands:log_spirit_tree - any
+wizardry:wisdom_wood_log - 0
+twilightforest:twilight_log - any
+twilightforest:magic_log - any
+plants2:nether_log - any
+plants2:log_0 - any
+plants2:crystal_log - any
+bewitchment:log_elder - 0
+bewitchment:log_juniper - 0
+bewitchment:log_yew - 0
+bewitchment:log_cypress - 0
+redwoods:redwood_log - 0
+redwoods:fir_log - 0
+redwoods:redwood_log_quarter - 0
+redwoods:fir_log_quarter - 0
+totemic:cedar_log - 0
+valoegheses_be:log_forest_evil - 0
+valoegheses_be:log_zoesteria_pine - 0
+valoegheses_be:log_zoesteria_palm - 0
+valoegheses_be:log_zoesteria_peach - 0
+valoegheses_be:log_zoesteria_plum - 0
+valoegheses_be:log_zoesteria_palm_dark - 0
+cuisine:log - 0
+midnight:shadowroot_log - 0
+midnight:dark_willow_log - 0
+midnight:dead_wood_log - 0
+
+
+lumpSalt
+bewitchment:salt - 0
+
+
+magicScroll
+tombstone:scroll_buff - 0
+tombstone:scroll_of_knowledge - 0
+
+
+magicTablet
+tombstone:tablet_of_recall - 0
+tombstone:tablet_of_assistance - 0
+
+
+manaDiamond
+botania:manaresource - 2
+
+
+manaPearl
+botania:manaresource - 1
+
+
+manaString
+botania:manaresource - 16
+
+
+materialBeeswax
+bewitchment:wax - 0
+
+
+materialBone
+minecraft:bone - 0
+evilcraft:werewolf_bone - 0
+
+
+materialBowlOfPromises0
+evilcraft:bowl_of_promises - 2
+evilcraft:bowl_of_promises - 3
+evilcraft:bowl_of_promises - 4
+evilcraft:bowl_of_promises - 5
+
+
+materialBowlOfPromises1
+evilcraft:bowl_of_promises - 3
+evilcraft:bowl_of_promises - 4
+evilcraft:bowl_of_promises - 5
+
+
+materialBowlOfPromises2
+evilcraft:bowl_of_promises - 4
+evilcraft:bowl_of_promises - 5
+
+
+materialBowlOfPromises3
+evilcraft:bowl_of_promises - 5
+
+
+materialFlesh
+minecraft:rotten_flesh - any
+evilcraft:werewolf_flesh - 0
+
+
+materialHoneycomb
+bewitchment:honeycomb - 0
+
+
+materialPoisonous
+minecraft:poisonous_potato - 0
+minecraft:fish - 3
+evilcraft:poison_sac - 0
+
+
+materialPressedWax
+bewitchment:wax - 0
+
+
+materialPressedwax
+atlcraft:atlcraft_wax - 0
+atlcraft:atlcraft_tallow - 0
+
+
+materialPromiseAcceptor
+evilcraft:promise_acceptor - 0
+evilcraft:promise_acceptor - 1
+evilcraft:promise_acceptor - 2
+
+
+materialSalt
+bewitchment:salt - 0
+
+
+materialSpike
+evilcraft:dark_spike - 0
+
+
+materialWax
+bewitchment:wax - 0
+
+
+materialWaxcomb
+bewitchment:empty_honeycomb - 0
+
+
+mortar_and_pestle
+bewitchment:mortar_and_pestle - 0
+
+
+mycelium
+minecraft:mycelium - 0
+
+
+mysticFlowerBlack
+botania:flower - 15
+
+
+mysticFlowerBlackDouble
+botania:doubleflower2 - 7
+
+
+mysticFlowerBlue
+botania:flower - 11
+
+
+mysticFlowerBlueDouble
+botania:doubleflower2 - 3
+
+
+mysticFlowerBrown
+botania:flower - 12
+
+
+mysticFlowerBrownDouble
+botania:doubleflower2 - 4
+
+
+mysticFlowerCyan
+botania:flower - 9
+
+
+mysticFlowerCyanDouble
+botania:doubleflower2 - 1
+
+
+mysticFlowerGray
+botania:flower - 7
+
+
+mysticFlowerGrayDouble
+botania:doubleflower1 - 7
+
+
+mysticFlowerGreen
+botania:flower - 13
+
+
+mysticFlowerGreenDouble
+botania:doubleflower2 - 5
+
+
+mysticFlowerLightBlue
+botania:flower - 3
+
+
+mysticFlowerLightBlueDouble
+botania:doubleflower1 - 3
+
+
+mysticFlowerLightGray
+botania:flower - 8
+
+
+mysticFlowerLightGrayDouble
+botania:doubleflower2 - 0
+
+
+mysticFlowerLime
+botania:flower - 5
+
+
+mysticFlowerLimeDouble
+botania:doubleflower1 - 5
+
+
+mysticFlowerMagenta
+botania:flower - 2
+
+
+mysticFlowerMagentaDouble
+botania:doubleflower1 - 2
+
+
+mysticFlowerOrange
+botania:flower - 1
+
+
+mysticFlowerOrangeDouble
+botania:doubleflower1 - 1
+
+
+mysticFlowerPink
+botania:flower - 6
+
+
+mysticFlowerPinkDouble
+botania:doubleflower1 - 6
+
+
+mysticFlowerPurple
+botania:flower - 10
+
+
+mysticFlowerPurpleDouble
+botania:doubleflower2 - 2
+
+
+mysticFlowerRed
+botania:flower - 14
+
+
+mysticFlowerRedDouble
+botania:doubleflower2 - 6
+
+
+mysticFlowerWhite
+botania:flower - 0
+
+
+mysticFlowerWhiteDouble
+botania:doubleflower1 - 0
+
+
+mysticFlowerYellow
+botania:flower - 4
+
+
+mysticFlowerYellowDouble
+botania:doubleflower1 - 4
+
+
+netherStar
+minecraft:nether_star - 0
+
+
+netherrack
+minecraft:netherrack - 0
+chisel:netherrack - 0
+chisel:netherrack - 1
+chisel:netherrack - 2
+chisel:netherrack - 3
+chisel:netherrack - 4
+chisel:netherrack - 5
+chisel:netherrack - 6
+chisel:netherrack - 7
+chisel:netherrack - 8
+chisel:netherrack - 9
+chisel:netherrack - 10
+chisel:netherrack - 11
+chisel:netherrack - 12
+chisel:netherrack - 13
+minecraft:netherrack - any
+
+
+nitor
+thaumcraft:nitor_brown - 0
+thaumcraft:nitor_orange - 0
+thaumcraft:nitor_lime - 0
+thaumcraft:nitor_yellow - 0
+thaumcraft:nitor_cyan - 0
+thaumcraft:nitor_pink - 0
+thaumcraft:nitor_white - 0
+thaumcraft:nitor_magenta - 0
+thaumcraft:nitor_green - 0
+thaumcraft:nitor_lightblue - 0
+thaumcraft:nitor_gray - 0
+thaumcraft:nitor_blue - 0
+thaumcraft:nitor_black - 0
+thaumcraft:nitor_purple - 0
+thaumcraft:nitor_red - 0
+thaumcraft:nitor_silver - 0
+
+
+nuggetAlubrass
+tconstruct:nuggets - 5
+
+
+nuggetAluminum
+thermalfoundation:material - 196
+
+
+nuggetArdite
+tconstruct:nuggets - 1
+
+
+nuggetAstralStarmetal
+
+
+nuggetBaseEssence
+mysticalagriculture:crafting - 39
+
+
+nuggetBrass
+thaumcraft:nugget - 8
+
+
+nuggetBronze
+thermalfoundation:material - 227
+
+
+nuggetCobalt
+tconstruct:nuggets - 0
+
+
+nuggetColdIron
+bewitchment:cold_iron_nugget - 0
+
+
+nuggetConstantan
+thermalfoundation:material - 228
+
+
+nuggetCopper
+thermalfoundation:material - 192
+thaumcraft:nugget - 1
+
+
+nuggetDiamond
+thermalfoundation:material - 16
+
+
+nuggetElectrum
+thermalfoundation:material - 225
+
+
+nuggetElvenElementium
+botania:manaresource - 19
+
+
+nuggetEmerald
+thermalfoundation:material - 17
+
+
+nuggetEnderium
+thermalfoundation:material - 231
+
+
+nuggetFiery
+
+
+nuggetGold
+minecraft:gold_nugget - 0
+
+
+nuggetInferium
+mysticalagriculture:crafting - 40
+
+
+nuggetIntermedium
+mysticalagriculture:crafting - 42
+
+
+nuggetInvar
+thermalfoundation:material - 226
+
+
+nuggetIridium
+thermalfoundation:material - 199
+
+
+nuggetIron
+minecraft:iron_nugget - 0
+thaumcraft:nugget - 0
+
+
+nuggetKnightmetal
+
+
+nuggetKnightslime
+tconstruct:nuggets - 3
+
+
+nuggetLead
+thermalfoundation:material - 195
+thaumcraft:nugget - 4
+
+
+nuggetLumium
+thermalfoundation:material - 230
+
+
+nuggetManasteel
+botania:manaresource - 17
+
+
+nuggetManyullyn
+tconstruct:nuggets - 2
+
+
+nuggetMeat
+thaumcraft:chunk - 0
+thaumcraft:chunk - 1
+thaumcraft:chunk - 2
+thaumcraft:chunk - 3
+thaumcraft:chunk - 4
+thaumcraft:chunk - 5
+
+
+nuggetMithril
+thermalfoundation:material - 200
+
+
+nuggetNickel
+thermalfoundation:material - 197
+
+
+nuggetOctine
+
+
+nuggetPigiron
+tconstruct:nuggets - 4
+
+
+nuggetPlatinum
+thermalfoundation:material - 198
+
+
+nuggetPrudentium
+mysticalagriculture:crafting - 41
+
+
+nuggetQuartz
+thaumcraft:nugget - 9
+
+
+nuggetQuicksilver
+thaumcraft:nugget - 5
+
+
+nuggetSignalum
+thermalfoundation:material - 229
+
+
+nuggetSilver
+thermalfoundation:material - 194
+thaumcraft:nugget - 3
+bewitchment:silver_nugget - 0
+
+
+nuggetSoulium
+mysticalagriculture:crafting - 45
+
+
+nuggetSteel
+thermalfoundation:material - 224
+
+
+nuggetSteeleaf
+
+
+nuggetSuperium
+mysticalagriculture:crafting - 43
+
+
+nuggetSupremium
+mysticalagriculture:crafting - 44
+
+
+nuggetSyrmorite
+
+
+nuggetTerrasteel
+botania:manaresource - 18
+
+
+nuggetThaumium
+thaumcraft:nugget - 6
+
+
+nuggetTin
+thermalfoundation:material - 193
+thaumcraft:nugget - 2
+
+
+nuggetVoid
+thaumcraft:nugget - 7
+
+
+obsidian
+minecraft:obsidian - 0
+chisel:obsidian - 0
+chisel:obsidian - 1
+chisel:obsidian - 2
+chisel:obsidian - 3
+chisel:obsidian - 4
+chisel:obsidian - 5
+chisel:obsidian - 6
+chisel:obsidian - 7
+chisel:obsidian - 8
+chisel:obsidian - 9
+chisel:obsidian - 10
+chisel:obsidian - 11
+chisel:obsidian - 12
+chisel:obsidian - 13
+chisel:obsidian - 14
+minecraft:obsidian - any
+
+
+oreAlexandrite
+bewitchment:gem_ore - 8
+
+
+oreAlubrass
+
+
+oreAluminum
+thermalfoundation:ore - 4
+
+
+oreAmber
+thaumcraft:ore_amber - 0
+
+
+oreAmethyst
+wings:amethyst_ore - 0
+bewitchment:gem_ore - 7
+
+
+oreAquaMiddleGem
+thebetweenlands:aqua_middle_gem_ore - 0
+
+
+oreAquamarine
+astralsorcery:blockcustomsandore - 0
+
+
+oreArchaic
+midnight:archaic_ore - 0
+
+
+oreArdite
+tconstruct:ore - 1
+
+
+oreAstralStarmetal
+astralsorcery:blockcustomore - 1
+
+
+oreBloodstone
+bewitchment:gem_ore - 4
+
+
+oreBone
+thebetweenlands:slimy_bone_ore - 0
+
+
+oreBrass
+
+
+oreBronze
+
+
+oreCertusQuartz
+
+
+oreCinnabar
+thaumcraft:ore_cinnabar - 0
+
+
+oreClathrateEnder
+thermalfoundation:ore_fluid - 4
+
+
+oreClathrateGlowstone
+thermalfoundation:ore_fluid - 3
+
+
+oreClathrateOilSand
+thermalfoundation:ore_fluid - 0
+thermalfoundation:ore_fluid - 5
+
+
+oreClathrateOilShale
+thermalfoundation:ore_fluid - 1
+
+
+oreClathrateRedstone
+thermalfoundation:ore_fluid - 2
+
+
+oreCoal
+minecraft:coal_ore - 0
+
+
+oreCobalt
+tconstruct:ore - 0
+
+
+oreConstantan
+
+
+oreCopper
+thermalfoundation:ore - 0
+contenttweaker:sub_block_holder_0 - 5
+
+
+oreCrimsonMiddleGem
+thebetweenlands:crimson_middle_gem_ore - 0
+
+
+oreCrystalAir
+thaumcraft:crystal_aer - any
+
+
+oreCrystalEarth
+thaumcraft:crystal_terra - any
+
+
+oreCrystalEntropy
+thaumcraft:crystal_perditio - any
+
+
+oreCrystalFire
+thaumcraft:crystal_ignis - any
+
+
+oreCrystalOrder
+thaumcraft:crystal_ordo - any
+
+
+oreCrystalTaint
+thaumcraft:crystal_vitium - any
+
+
+oreCrystalWater
+thaumcraft:crystal_aqua - any
+
+
+oreDark
+evilcraft:dark_ore - 0
+
+
+oreDiamond
+minecraft:diamond_ore - 0
+
+
+oreDraconium
+
+
+oreEbonys
+midnight:ebonys_ore - 0
+
+
+oreElectrum
+
+
+oreElvenElementium
+
+
+oreEmerald
+minecraft:emerald_ore - 0
+contenttweaker:sub_block_holder_0 - 8
+
+
+oreEndInferium
+mysticalagriculture:end_inferium_ore - 0
+
+
+oreEndProsperity
+mysticalagriculture:end_prosperity_ore - 0
+
+
+oreEnderium
+
+
+oreEssence
+
+
+oreFiery
+
+
+oreGalena
+contenttweaker:sub_block_holder_0 - 3
+
+
+oreGarnet
+bewitchment:gem_ore - 0
+
+
+oreGold
+minecraft:gold_ore - 0
+contenttweaker:sub_block_holder_0 - 0
+
+
+oreGreenMiddleGem
+thebetweenlands:green_middle_gem_ore - 0
+
+
+oreInferium
+mysticalagriculture:inferium_ore - 0
+
+
+oreInvar
+
+
+oreIridium
+thermalfoundation:ore - 7
+
+
+oreIron
+minecraft:iron_ore - 0
+
+
+oreIronwood
+twilightforest:ironwood_raw - 0
+
+
+oreJasper
+bewitchment:gem_ore - 5
+
+
+oreKnightmetal
+twilightforest:armor_shard_cluster - 0
+
+
+oreKnightslime
+
+
+oreLapis
+minecraft:lapis_ore - 0
+contenttweaker:sub_block_holder_0 - 1
+
+
+oreLead
+thermalfoundation:ore - 3
+
+
+oreLifeCrystal
+thebetweenlands:life_crystal_stalactite - 1
+
+
+oreLumium
+
+
+oreMalachite
+bewitchment:gem_ore - 6
+
+
+oreManasteel
+
+
+oreManyullyn
+
+
+oreMithril
+thermalfoundation:ore - 8
+
+
+oreNagrilite
+midnight:nagrilite_ore - 0
+
+
+oreNetherAlubrass
+
+
+oreNetherAluminum
+
+
+oreNetherArdite
+
+
+oreNetherBrass
+
+
+oreNetherBronze
+
+
+oreNetherCobalt
+
+
+oreNetherConstantan
+
+
+oreNetherCopper
+
+
+oreNetherElectrum
+
+
+oreNetherEnderium
+
+
+oreNetherFiery
+
+
+oreNetherGold
+
+
+oreNetherInferium
+mysticalagriculture:nether_inferium_ore - 0
+
+
+oreNetherInvar
+
+
+oreNetherIridium
+
+
+oreNetherIron
+
+
+oreNetherKnightmetal
+
+
+oreNetherKnightslime
+
+
+oreNetherLead
+
+
+oreNetherLumium
+
+
+oreNetherManyullyn
+
+
+oreNetherNickel
+
+
+oreNetherPigiron
+
+
+oreNetherPlatinum
+
+
+oreNetherProsperity
+mysticalagriculture:nether_prosperity_ore - 0
+
+
+oreNetherSignalum
+
+
+oreNetherSilver
+
+
+oreNetherSteel
+
+
+oreNetherTin
+
+
+oreNickel
+thermalfoundation:ore - 5
+
+
+oreNuggetAlubrass
+
+
+oreNuggetAluminum
+
+
+oreNuggetArdite
+
+
+oreNuggetBrass
+
+
+oreNuggetBronze
+
+
+oreNuggetCobalt
+
+
+oreNuggetConstantan
+
+
+oreNuggetCopper
+
+
+oreNuggetElectrum
+
+
+oreNuggetEnderium
+
+
+oreNuggetFiery
+
+
+oreNuggetGold
+
+
+oreNuggetInvar
+
+
+oreNuggetIridium
+
+
+oreNuggetIron
+
+
+oreNuggetKnightmetal
+
+
+oreNuggetKnightslime
+
+
+oreNuggetLead
+
+
+oreNuggetLumium
+
+
+oreNuggetManyullyn
+
+
+oreNuggetNickel
+
+
+oreNuggetPigiron
+
+
+oreNuggetPlatinum
+
+
+oreNuggetSignalum
+
+
+oreNuggetSilver
+
+
+oreNuggetSteel
+
+
+oreNuggetTin
+
+
+oreNuummite
+bewitchment:gem_ore - 1
+
+
+oreOctine
+thebetweenlands:octine_ore - 0
+
+
+orePigiron
+
+
+orePlatinum
+thermalfoundation:ore - 6
+contenttweaker:sub_block_holder_0 - 6
+
+
+orePoorAlubrass
+
+
+orePoorAluminum
+
+
+orePoorArdite
+
+
+orePoorBrass
+
+
+orePoorBronze
+
+
+orePoorCobalt
+
+
+orePoorConstantan
+
+
+orePoorCopper
+
+
+orePoorElectrum
+
+
+orePoorEnderium
+
+
+orePoorFiery
+
+
+orePoorGold
+
+
+orePoorInvar
+
+
+orePoorIridium
+
+
+orePoorIron
+
+
+orePoorKnightmetal
+
+
+orePoorKnightslime
+
+
+orePoorLead
+
+
+orePoorLumium
+
+
+orePoorManyullyn
+
+
+orePoorNickel
+
+
+orePoorPigiron
+
+
+orePoorPlatinum
+
+
+orePoorSignalum
+
+
+orePoorSilver
+
+
+orePoorSteel
+
+
+orePoorTin
+
+
+oreProsperity
+mysticalagriculture:prosperity_ore - 0
+
+
+oreQuartz
+minecraft:quartz_ore - 0
+thaumcraft:ore_quartz - 0
+
+
+oreQuartzBlack
+
+
+oreRedDiamond
+contenttweaker:sub_block_holder_0 - 2
+
+
+oreRedstone
+minecraft:redstone_ore - 0
+contenttweaker:sub_block_holder_0 - 4
+
+
+oreSalt
+bewitchment:salt_ore - 0
+
+
+oreSaltpeter
+valoegheses_be:ore_saltpeter - 0
+
+
+oreScabyst
+thebetweenlands:scabyst_ore - 0
+
+
+oreSignalum
+
+
+oreSilver
+thermalfoundation:ore - 2
+bewitchment:silver_ore - 0
+
+
+oreSteel
+
+
+oreSulfur
+thebetweenlands:sulfur_ore - 0
+valoegheses_be:ore_sulphur - 0
+
+
+oreSyrmorite
+thebetweenlands:syrmorite_ore - 0
+
+
+oreTenebrum
+midnight:tenebrum_ore - 0
+
+
+oreTerrasteel
+
+
+oreThaumium
+
+
+oreTigersEye
+bewitchment:gem_ore - 2
+
+
+oreTin
+thermalfoundation:ore - 1
+contenttweaker:sub_block_holder_0 - 7
+
+
+oreTourmaline
+bewitchment:gem_ore - 3
+
+
+oreValonite
+thebetweenlands:valonite_ore - 0
+
+
+oreVanadium
+valoegheses_be:ore_vanadium - 0
+
+
+paneGlass
+minecraft:glass_pane - 0
+minecraft:stained_glass_pane - any
+thebetweenlands:silt_glass_pane - 0
+
+
+paneGlassBlack
+minecraft:stained_glass_pane - 15
+
+
+paneGlassBlue
+minecraft:stained_glass_pane - 11
+
+
+paneGlassBrown
+minecraft:stained_glass_pane - 12
+
+
+paneGlassColorless
+minecraft:glass_pane - 0
+thebetweenlands:silt_glass_pane - 0
+
+
+paneGlassCyan
+minecraft:stained_glass_pane - 9
+
+
+paneGlassGray
+minecraft:stained_glass_pane - 7
+
+
+paneGlassGreen
+minecraft:stained_glass_pane - 13
+
+
+paneGlassLightBlue
+minecraft:stained_glass_pane - 3
+
+
+paneGlassLightGray
+minecraft:stained_glass_pane - 8
+
+
+paneGlassLime
+minecraft:stained_glass_pane - 5
+
+
+paneGlassMagenta
+minecraft:stained_glass_pane - 2
+
+
+paneGlassOrange
+minecraft:stained_glass_pane - 1
+
+
+paneGlassPink
+minecraft:stained_glass_pane - 6
+
+
+paneGlassPurple
+minecraft:stained_glass_pane - 10
+
+
+paneGlassRed
+minecraft:stained_glass_pane - 14
+
+
+paneGlassWhite
+minecraft:stained_glass_pane - 0
+
+
+paneGlassYellow
+minecraft:stained_glass_pane - 4
+
+
+paneQuartzGlass
+betternether:quartz_glass_pane - 0
+
+
+paper
+minecraft:paper - 0
+
+
+partBinding
+tconstruct:binding - any
+
+
+partPickHead
+tconstruct:pick_head - any
+
+
+partToolRod
+tconstruct:tool_rod - any
+
+
+pattern
+tconstruct:pattern - any
+
+
+pebble
+botania:manaresource - 21
+
+
+pestleAndMortar
+botania:pestleandmortar - 0
+bewitchment:mortar_and_pestle - 0
+
+
+petalBlack
+botania:mushroom - 15
+botania:petal - 15
+
+
+petalBlue
+botania:mushroom - 11
+botania:petal - 11
+
+
+petalBrown
+botania:mushroom - 12
+botania:petal - 12
+
+
+petalCyan
+botania:mushroom - 9
+botania:petal - 9
+
+
+petalGray
+botania:mushroom - 7
+botania:petal - 7
+
+
+petalGreen
+botania:mushroom - 13
+botania:petal - 13
+
+
+petalLightBlue
+botania:mushroom - 3
+botania:petal - 3
+
+
+petalLightGray
+botania:mushroom - 8
+botania:petal - 8
+
+
+petalLime
+botania:mushroom - 5
+botania:petal - 5
+
+
+petalMagenta
+botania:mushroom - 2
+botania:petal - 2
+
+
+petalOrange
+botania:mushroom - 1
+botania:petal - 1
+
+
+petalPink
+botania:mushroom - 6
+botania:petal - 6
+
+
+petalPurple
+botania:mushroom - 10
+botania:petal - 10
+
+
+petalRed
+botania:mushroom - 14
+botania:petal - 14
+
+
+petalWhite
+botania:mushroom - 0
+botania:petal - 0
+
+
+petalYellow
+botania:mushroom - 4
+botania:petal - 4
+
+
+pinchSalt
+bewitchment:salt - 0
+
+
+plankWood
+minecraft:planks - any
+randomthings:spectreplank - 0
+rustic:planks - 0
+rustic:planks - 1
+rustic:painted_wood_black - 0
+rustic:painted_wood_blue - 0
+rustic:painted_wood_brown - 0
+rustic:painted_wood_cyan - 0
+rustic:painted_wood_gray - 0
+rustic:painted_wood_green - 0
+rustic:painted_wood_light_blue - 0
+rustic:painted_wood_lime - 0
+rustic:painted_wood_magenta - 0
+rustic:painted_wood_orange - 0
+rustic:painted_wood_pink - 0
+rustic:painted_wood_purple - 0
+rustic:painted_wood_red - 0
+rustic:painted_wood_silver - 0
+rustic:painted_wood_white - 0
+rustic:painted_wood_yellow - 0
+chisel:planks-oak - 0
+chisel:planks-oak - 1
+chisel:planks-oak - 2
+chisel:planks-oak - 3
+chisel:planks-oak - 4
+chisel:planks-oak - 5
+chisel:planks-oak - 6
+chisel:planks-oak - 7
+chisel:planks-oak - 8
+chisel:planks-oak - 9
+chisel:planks-oak - 10
+chisel:planks-oak - 11
+chisel:planks-oak - 12
+chisel:planks-oak - 13
+chisel:planks-oak - 14
+chisel:planks-spruce - 0
+chisel:planks-spruce - 1
+chisel:planks-spruce - 2
+chisel:planks-spruce - 3
+chisel:planks-spruce - 4
+chisel:planks-spruce - 5
+chisel:planks-spruce - 6
+chisel:planks-spruce - 7
+chisel:planks-spruce - 8
+chisel:planks-spruce - 9
+chisel:planks-spruce - 10
+chisel:planks-spruce - 11
+chisel:planks-spruce - 12
+chisel:planks-spruce - 13
+chisel:planks-spruce - 14
+chisel:planks-birch - 0
+chisel:planks-birch - 1
+chisel:planks-birch - 2
+chisel:planks-birch - 3
+chisel:planks-birch - 4
+chisel:planks-birch - 5
+chisel:planks-birch - 6
+chisel:planks-birch - 7
+chisel:planks-birch - 8
+chisel:planks-birch - 9
+chisel:planks-birch - 10
+chisel:planks-birch - 11
+chisel:planks-birch - 12
+chisel:planks-birch - 13
+chisel:planks-birch - 14
+chisel:planks-jungle - 0
+chisel:planks-jungle - 1
+chisel:planks-jungle - 2
+chisel:planks-jungle - 3
+chisel:planks-jungle - 4
+chisel:planks-jungle - 5
+chisel:planks-jungle - 6
+chisel:planks-jungle - 7
+chisel:planks-jungle - 8
+chisel:planks-jungle - 9
+chisel:planks-jungle - 10
+chisel:planks-jungle - 11
+chisel:planks-jungle - 12
+chisel:planks-jungle - 13
+chisel:planks-jungle - 14
+chisel:planks-acacia - 0
+chisel:planks-acacia - 1
+chisel:planks-acacia - 2
+chisel:planks-acacia - 3
+chisel:planks-acacia - 4
+chisel:planks-acacia - 5
+chisel:planks-acacia - 6
+chisel:planks-acacia - 7
+chisel:planks-acacia - 8
+chisel:planks-acacia - 9
+chisel:planks-acacia - 10
+chisel:planks-acacia - 11
+chisel:planks-acacia - 12
+chisel:planks-acacia - 13
+chisel:planks-acacia - 14
+chisel:planks-dark-oak - 0
+chisel:planks-dark-oak - 1
+chisel:planks-dark-oak - 2
+chisel:planks-dark-oak - 3
+chisel:planks-dark-oak - 4
+chisel:planks-dark-oak - 5
+chisel:planks-dark-oak - 6
+chisel:planks-dark-oak - 7
+chisel:planks-dark-oak - 8
+chisel:planks-dark-oak - 9
+chisel:planks-dark-oak - 10
+chisel:planks-dark-oak - 11
+chisel:planks-dark-oak - 12
+chisel:planks-dark-oak - 13
+chisel:planks-dark-oak - 14
+thaumcraft:plank_greatwood - 0
+thaumcraft:plank_silverwood - 0
+evilcraft:undead_plank - 0
+thebetweenlands:weedwood_planks - 0
+thebetweenlands:rubber_tree_planks - 0
+thebetweenlands:giant_root_planks - 0
+thebetweenlands:hearthgrove_planks - 0
+thebetweenlands:nibbletwig_planks - 0
+twilightforest:tower_wood - any
+plants2:crystal_planks - any
+plants2:planks - any
+bewitchment:planks_elder - 0
+bewitchment:planks_juniper - 0
+bewitchment:planks_yew - 0
+bewitchment:planks_cypress - 0
+redwoods:redwood_planks - 0
+redwoods:fir_planks - 0
+totemic:cedar_plank - 0
+valoegheses_be:planks_zoesteria_palm - 0
+valoegheses_be:planks_zoesteria_pine - 0
+valoegheses_be:planks_zoesteria_ghost - 0
+valoegheses_be:planks_zoesteria_peach - 0
+valoegheses_be:planks_zoesteria_plum - 0
+cuisine:planks - 0
+
+
+plankWoodMidnight
+midnight:shadowroot_planks - 0
+midnight:dark_willow_planks - 0
+midnight:dead_wood_planks - 0
+midnight:nightshroom_planks - 0
+midnight:viridshroom_planks - 0
+midnight:dewshroom_planks - 0
+
+
+plant
+minecraft:sapling - any
+minecraft:tallgrass - any
+minecraft:deadbush - any
+minecraft:yellow_flower - any
+minecraft:red_flower - any
+minecraft:brown_mushroom - any
+minecraft:red_mushroom - any
+minecraft:waterlily - any
+minecraft:double_plant - any
+atlcraft:atlcraft_bayberry_plant - any
+atlcraft:atlcraft_candle24item - any
+betternether:nether_grass - any
+randomthings:spectresapling - any
+rustic:sapling - any
+rustic:sapling_apple - any
+rustic:aloe_vera - any
+rustic:blood_orchid - any
+rustic:chamomile - any
+rustic:cohosh - any
+rustic:deathstalk_mushroom - any
+rustic:horsetail - any
+rustic:mooncap_mushroom - any
+rustic:wind_thistle - any
+betteranimalsplus:trillium - any
+bewitchment:moonbell - any
+bewitchment:sapling - any
+thaumcraft:sapling_greatwood - any
+thaumcraft:sapling_silverwood - any
+thaumcraft:shimmerleaf - any
+thaumcraft:cinderpearl - any
+thaumcraft:vishroom - any
+botania:flower - any
+botania:specialflower - any
+botania:shinyflower - any
+botania:mushroom - any
+botania:doubleflower1 - any
+botania:doubleflower2 - any
+twilightforest:twilight_plant - any
+twilightforest:twilight_sapling - any
+twilightforest:huge_lilypad - any
+twilightforest:huge_waterlily - any
+tconstruct:slime_grass_tall - any
+tconstruct:slime_sapling - any
+evilcraft:undead_sapling - any
+inspirations:flower - any
+wizardry:wisdom_sapling - any
+mysticalagriculture:tier1_inferium_crop - any
+mysticalagriculture:tier2_inferium_crop - any
+mysticalagriculture:tier3_inferium_crop - any
+mysticalagriculture:tier4_inferium_crop - any
+mysticalagriculture:tier5_inferium_crop - any
+mysticalagriculture:stone_crop - any
+mysticalagriculture:dirt_crop - any
+mysticalagriculture:nature_crop - any
+mysticalagriculture:wood_crop - any
+mysticalagriculture:water_crop - any
+mysticalagriculture:ice_crop - any
+mysticalagriculture:fire_crop - any
+mysticalagriculture:dye_crop - any
+mysticalagriculture:nether_crop - any
+mysticalagriculture:coal_crop - any
+mysticalagriculture:iron_crop - any
+mysticalagriculture:nether_quartz_crop - any
+mysticalagriculture:glowstone_crop - any
+mysticalagriculture:redstone_crop - any
+mysticalagriculture:obsidian_crop - any
+mysticalagriculture:gold_crop - any
+mysticalagriculture:lapis_lazuli_crop - any
+mysticalagriculture:end_crop - any
+mysticalagriculture:experience_crop - any
+mysticalagriculture:diamond_crop - any
+mysticalagriculture:emerald_crop - any
+mysticalagriculture:zombie_crop - any
+mysticalagriculture:pig_crop - any
+mysticalagriculture:chicken_crop - any
+mysticalagriculture:cow_crop - any
+mysticalagriculture:sheep_crop - any
+mysticalagriculture:slime_crop - any
+mysticalagriculture:skeleton_crop - any
+mysticalagriculture:creeper_crop - any
+mysticalagriculture:spider_crop - any
+mysticalagriculture:rabbit_crop - any
+mysticalagriculture:guardian_crop - any
+mysticalagriculture:blaze_crop - any
+mysticalagriculture:ghast_crop - any
+mysticalagriculture:enderman_crop - any
+mysticalagriculture:wither_skeleton_crop - any
+mysticalagriculture:sulfur_crop - any
+mysticalagriculture:aluminum_crop - any
+mysticalagriculture:copper_crop - any
+mysticalagriculture:saltpeter_crop - any
+mysticalagriculture:tin_crop - any
+mysticalagriculture:bronze_crop - any
+mysticalagriculture:brass_crop - any
+mysticalagriculture:silver_crop - any
+mysticalagriculture:lead_crop - any
+mysticalagriculture:steel_crop - any
+mysticalagriculture:nickel_crop - any
+mysticalagriculture:constantan_crop - any
+mysticalagriculture:electrum_crop - any
+mysticalagriculture:invar_crop - any
+mysticalagriculture:mithril_crop - any
+mysticalagriculture:platinum_crop - any
+mysticalagriculture:iridium_crop - any
+mysticalagriculture:amber_crop - any
+mysticalagriculture:blizz_crop - any
+mysticalagriculture:blitz_crop - any
+mysticalagriculture:basalz_crop - any
+mysticalagriculture:signalum_crop - any
+mysticalagriculture:lumium_crop - any
+mysticalagriculture:enderium_crop - any
+mysticalagriculture:aluminum_brass_crop - any
+mysticalagriculture:knightslime_crop - any
+mysticalagriculture:ardite_crop - any
+mysticalagriculture:cobalt_crop - any
+mysticalagriculture:manyullyn_crop - any
+mysticalagriculture:mystical_flower_crop - any
+mysticalagriculture:manasteel_crop - any
+mysticalagriculture:elementium_crop - any
+mysticalagriculture:terrasteel_crop - any
+mysticalagriculture:quicksilver_crop - any
+mysticalagriculture:thaumium_crop - any
+mysticalagriculture:void_metal_crop - any
+mysticalagriculture:marble_crop - any
+mysticalagriculture:limestone_crop - any
+mysticalagriculture:basalt_crop - any
+mysticalagriculture:steeleaf_crop - any
+mysticalagriculture:ironwood_crop - any
+mysticalagriculture:knightmetal_crop - any
+mysticalagriculture:fiery_ingot_crop - any
+mysticalagriculture:slimy_bone_crop - any
+mysticalagriculture:syrmorite_crop - any
+mysticalagriculture:octine_crop - any
+mysticalagriculture:valonite_crop - any
+mysticalagriculture:aquamarine_crop - any
+mysticalagriculture:starmetal_crop - any
+mysticalagriculture:rock_crystal_crop - any
+mysticalagriculture:slate_crop - any
+mysticalagriculture:dark_gem_crop - any
+redwoods:redwood_sapling - any
+redwoods:fir_sapling - any
+xreliquary:fertile_lilypad - any
+totemic:cedar_sapling - any
+valoegheses_be:sapling_oasis_palm - any
+valoegheses_be:sapling_forest_evil - any
+valoegheses_be:sapling_pine_bluff - any
+valoegheses_be:shrub_dune - any
+valoegheses_be:shrub_dune_large - any
+valoegheses_be:sapling_ocean_palm - any
+valoegheses_be:sapling_date_palm - any
+valoegheses_be:sapling_pohutukawa - any
+valoegheses_be:sapling_manuka - any
+valoegheses_be:sapling_island_palm - any
+valoegheses_be:bush_small - any
+valoegheses_be:sapling_peach_homozygous_dominant - any
+valoegheses_be:sapling_peach_heterozygous_0 - any
+valoegheses_be:sapling_peach_heterozygous_1 - any
+valoegheses_be:sapling_peach_homozygous_reccessive - any
+valoegheses_be:sapling_plum - any
+cuisine:sapling - any
+midnight:tall_midnight_grass - any
+midnight:double_midnight_grass - any
+midnight:nightshroom - any
+midnight:double_nightshroom - any
+midnight:dewshroom - any
+midnight:double_dewshroom - any
+midnight:viridshroom - any
+midnight:double_viridshroom - any
+midnight:bogshroom - any
+midnight:double_bogshroom - any
+midnight:bulb_fungus - any
+midnight:lumen_bud - any
+midnight:double_lumen_bud - any
+midnight:bogweed - any
+midnight:ghost_plant - any
+midnight:fingered_grass - any
+midnight:tendrilweed - any
+midnight:runebush - any
+midnight:dragon_nest - any
+midnight:violeaf - any
+midnight:crystal_flower - any
+midnight:shadowroot_sapling - any
+midnight:dark_willow_sapling - any
+midnight:deceitful_algae - any
+thebetweenlands:sapling_weedwood - any
+thebetweenlands:sapling_sap - any
+thebetweenlands:sapling_rubber - any
+thebetweenlands:sapling_hearthgrove - any
+thebetweenlands:sapling_nibbletwig - any
+thebetweenlands:sapling_spirit_tree - any
+thebetweenlands:root_pod - any
+thebetweenlands:pitcher_plant - any
+thebetweenlands:weeping_blue - any
+thebetweenlands:sundew - any
+thebetweenlands:black_hat_mushroom - any
+thebetweenlands:bulb_capped_mushroom - any
+thebetweenlands:flat_head_mushroom - any
+thebetweenlands:venus_fly_trap - any
+thebetweenlands:volarpad - any
+thebetweenlands:swamp_plant - any
+thebetweenlands:algae - any
+thebetweenlands:arrow_arum - any
+thebetweenlands:blue_eyed_grass - any
+thebetweenlands:blue_iris - any
+thebetweenlands:boneset - any
+thebetweenlands:bottle_brush_grass - any
+thebetweenlands:broomsedge - any
+thebetweenlands:button_bush - any
+thebetweenlands:cardinal_flower - any
+thebetweenlands:cattail - any
+thebetweenlands:cave_grass - any
+thebetweenlands:copper_iris - any
+thebetweenlands:marsh_hibiscus - any
+thebetweenlands:marsh_mallow - any
+thebetweenlands:bladderwort_flower - any
+thebetweenlands:bog_bean_flower - any
+thebetweenlands:golden_club_flower - any
+thebetweenlands:marsh_marigold_flower - any
+thebetweenlands:swamp_double_tallgrass - any
+thebetweenlands:milkweed - any
+thebetweenlands:nettle - any
+thebetweenlands:nettle_flowered - any
+thebetweenlands:pickerel_weed - any
+thebetweenlands:phragmites - any
+thebetweenlands:shoots - any
+thebetweenlands:sludgecreep - any
+thebetweenlands:soft_rush - any
+thebetweenlands:tall_cattail - any
+thebetweenlands:swamp_tallgrass - any
+thebetweenlands:dead_weedwood_bush - any
+thebetweenlands:cave_moss - any
+thebetweenlands:fallen_leaves - any
+plants2:cosmetic_0 - any
+plants2:cosmetic_1 - any
+plants2:cosmetic_2 - any
+plants2:cosmetic_3 - any
+plants2:cosmetic_4 - any
+plants2:cosmetic_5 - any
+plants2:cosmetic_6 - any
+plants2:desert_0 - any
+plants2:desert_1 - any
+plants2:double_0 - any
+plants2:harvest_0 - any
+plants2:harvest_1 - any
+plants2:nether_harvest - any
+plants2:double_harvest_0 - any
+plants2:nether_sapling - any
+plants2:sapling_0 - any
+plants2:crystal_sapling - any
+plants2:bushling - any
+plants2:cataplant - any
+plants2:aphrireroot - any
+plants2:aakore - any
+plants2:briblebum - any
+plants2:saimbaire - any
+plants2:small_flower_aithotus - any
+rootsclassic:midnightbloom - any
+rootsclassic:flareorchid - any
+rootsclassic:radiantdaisy - any
+treetweaker:burnt_tree - any
+
+
+plateAlubrass
+
+
+plateAluminum
+thermalfoundation:material - 324
+
+
+plateArdite
+
+
+plateAstralStarmetal
+
+
+plateBrass
+thaumcraft:plate - 0
+
+
+plateBronze
+thermalfoundation:material - 355
+
+
+plateCobalt
+
+
+plateConstantan
+thermalfoundation:material - 356
+
+
+plateCopper
+thermalfoundation:material - 320
+
+
+plateElectrum
+thermalfoundation:material - 353
+
+
+plateElvenElementium
+
+
+plateEnderium
+thermalfoundation:material - 359
+
+
+plateFiery
+
+
+plateGold
+thermalfoundation:material - 33
+
+
+plateInvar
+thermalfoundation:material - 354
+
+
+plateIridium
+thermalfoundation:material - 327
+
+
+plateIron
+thermalfoundation:material - 32
+thaumcraft:plate - 1
+
+
+plateKnightmetal
+
+
+plateKnightslime
+
+
+plateLead
+thermalfoundation:material - 323
+
+
+plateLumium
+thermalfoundation:material - 358
+
+
+plateManasteel
+
+
+plateManyullyn
+
+
+plateMithril
+thermalfoundation:material - 328
+
+
+plateNickel
+thermalfoundation:material - 325
+
+
+plateOctine
+
+
+platePigiron
+
+
+platePlatinum
+thermalfoundation:material - 326
+
+
+plateSignalum
+thermalfoundation:material - 357
+
+
+plateSilver
+thermalfoundation:material - 322
+
+
+plateSteel
+thermalfoundation:material - 352
+
+
+plateSyrmorite
+
+
+plateTerrasteel
+
+
+plateThaumium
+thaumcraft:plate - 2
+
+
+plateTin
+thermalfoundation:material - 321
+
+
+plateVoid
+thaumcraft:plate - 3
+
+
+podzol
+minecraft:dirt - 2
+
+
+portionSalt
+bewitchment:salt - 0
+
+
+portionWaterLarge
+cuisine:mortar - 1
+
+
+powderBlaze
+minecraft:blaze_powder - 0
+
+
+powderMana
+botania:manaresource - 23
+
+
+prismarine
+chisel:prismarine - 0
+chisel:prismarine - 1
+chisel:prismarine - 2
+chisel:prismarine - 3
+chisel:prismarine - 4
+chisel:prismarine - 5
+chisel:prismarine - 6
+chisel:prismarine - 7
+chisel:prismarine - 8
+chisel:prismarine - 9
+chisel:prismarine - 10
+chisel:prismarine - 11
+chisel:prismarine - 12
+chisel:prismarine - 13
+chisel:prismarine - 14
+chisel:prismarine - 15
+chisel:prismarine1 - 0
+chisel:prismarine1 - 1
+chisel:prismarine1 - 2
+chisel:prismarine1 - 3
+chisel:prismarine1 - 4
+chisel:prismarine1 - 5
+chisel:prismarine1 - 6
+chisel:prismarine1 - 7
+chisel:prismarine1 - 8
+chisel:prismarine1 - 9
+chisel:prismarine2 - 0
+chisel:prismarine2 - 1
+chisel:prismarine2 - 2
+chisel:prismarine2 - 3
+chisel:prismarine2 - 4
+chisel:prismarine2 - 5
+minecraft:prismarine - any
+
+
+prismarineBrick
+chisel:prismarine - 0
+chisel:prismarine - 1
+chisel:prismarine - 2
+chisel:prismarine - 3
+chisel:prismarine - 4
+chisel:prismarine - 5
+chisel:prismarine - 6
+chisel:prismarine - 7
+chisel:prismarine - 8
+chisel:prismarine - 9
+chisel:prismarine - 10
+chisel:prismarine - 11
+chisel:prismarine - 12
+chisel:prismarine - 13
+chisel:prismarine - 14
+chisel:prismarine - 15
+chisel:prismarine1 - 0
+chisel:prismarine1 - 1
+chisel:prismarine1 - 2
+chisel:prismarine1 - 3
+chisel:prismarine1 - 4
+chisel:prismarine1 - 5
+chisel:prismarine1 - 6
+chisel:prismarine1 - 7
+chisel:prismarine1 - 8
+chisel:prismarine1 - 9
+chisel:prismarine2 - 0
+chisel:prismarine2 - 1
+chisel:prismarine2 - 2
+chisel:prismarine2 - 3
+chisel:prismarine2 - 4
+chisel:prismarine2 - 5
+
+
+prismarineDark
+chisel:prismarine - 0
+chisel:prismarine - 1
+chisel:prismarine - 2
+chisel:prismarine - 3
+chisel:prismarine - 4
+chisel:prismarine - 5
+chisel:prismarine - 6
+chisel:prismarine - 7
+chisel:prismarine - 8
+chisel:prismarine - 9
+chisel:prismarine - 10
+chisel:prismarine - 11
+chisel:prismarine - 12
+chisel:prismarine - 13
+chisel:prismarine - 14
+chisel:prismarine - 15
+chisel:prismarine1 - 0
+chisel:prismarine1 - 1
+chisel:prismarine1 - 2
+chisel:prismarine1 - 3
+chisel:prismarine1 - 4
+chisel:prismarine1 - 5
+chisel:prismarine1 - 6
+chisel:prismarine1 - 7
+chisel:prismarine1 - 8
+chisel:prismarine1 - 9
+chisel:prismarine2 - 0
+chisel:prismarine2 - 1
+chisel:prismarine2 - 2
+chisel:prismarine2 - 3
+chisel:prismarine2 - 4
+chisel:prismarine2 - 5
+
+
+quartzBlaze
+botania:quartz - 2
+
+
+quartzDark
+botania:quartz - 0
+
+
+quartzElven
+botania:quartz - 5
+
+
+quartzLavender
+botania:quartz - 3
+
+
+quartzMana
+botania:quartz - 1
+
+
+quartzRed
+botania:quartz - 4
+
+
+quartzSunny
+botania:quartz - 6
+
+
+quicksilver
+thaumcraft:quicksilver - 0
+
+
+rail
+minecraft:rail - 0
+minecraft:activator_rail - 0
+minecraft:detector_rail - 0
+minecraft:golden_rail - 0
+
+
+record
+minecraft:record_13 - 0
+minecraft:record_cat - 0
+minecraft:record_blocks - 0
+minecraft:record_chirp - 0
+minecraft:record_far - 0
+minecraft:record_mall - 0
+minecraft:record_mellohi - 0
+minecraft:record_stal - 0
+minecraft:record_strad - 0
+minecraft:record_ward - 0
+minecraft:record_11 - 0
+minecraft:record_wait - 0
+thebetweenlands:astatos - 0
+thebetweenlands:between_you_and_me - 0
+thebetweenlands:christmas_on_the_marsh - 0
+thebetweenlands:the_explorer - 0
+thebetweenlands:hag_dance - 0
+thebetweenlands:lonely_fire - 0
+thebetweenlands:mysterious_record - 0
+thebetweenlands:ancient - 0
+thebetweenlands:beneath_a_green_sky - 0
+thebetweenlands:dj_wights_mixtape - 0
+thebetweenlands:onwards - 0
+thebetweenlands:stuck_in_the_mud - 0
+thebetweenlands:wandering_wisps - 0
+thebetweenlands:waterlogged - 0
+
+
+redstoneRoot
+botania:manaresource - 6
+
+
+rodBasalz
+thermalfoundation:material - 2052
+
+
+rodBlaze
+minecraft:blaze_rod - 0
+
+
+rodBlitz
+thermalfoundation:material - 2050
+
+
+rodBlizz
+thermalfoundation:material - 2048
+
+
+rodStone
+tconstruct:stone_stick - any
+inspirations:materials - 8
+
+
+runeAirB
+botania:rune - 3
+
+
+runeAutumnB
+botania:rune - 6
+
+
+runeEarthB
+botania:rune - 2
+
+
+runeEnvyB
+botania:rune - 14
+
+
+runeFireB
+botania:rune - 1
+
+
+runeGluttonyB
+botania:rune - 10
+
+
+runeGreedB
+botania:rune - 11
+
+
+runeLustB
+botania:rune - 9
+
+
+runeManaB
+botania:rune - 8
+
+
+runePrideB
+botania:rune - 15
+
+
+runeSlothB
+botania:rune - 12
+
+
+runeSpringB
+botania:rune - 4
+
+
+runeSummerB
+botania:rune - 5
+
+
+runeWaterB
+botania:rune - 0
+
+
+runeWinterB
+botania:rune - 7
+
+
+runeWrathB
+botania:rune - 13
+
+
+salt
+bewitchment:salt - 0
+
+
+sand
+minecraft:sand - any
+thebetweenlands:silt - 0
+
+
+sandstone
+minecraft:sandstone - any
+minecraft:red_sandstone - any
+chisel:sandstoneyellow - 0
+chisel:sandstoneyellow - 1
+chisel:sandstoneyellow - 2
+chisel:sandstoneyellow - 3
+chisel:sandstoneyellow - 4
+chisel:sandstoneyellow - 5
+chisel:sandstoneyellow - 6
+chisel:sandstoneyellow - 7
+chisel:sandstoneyellow - 8
+chisel:sandstoneyellow - 9
+chisel:sandstoneyellow - 10
+chisel:sandstoneyellow - 11
+chisel:sandstoneyellow - 12
+chisel:sandstoneyellow - 13
+chisel:sandstoneyellow - 14
+chisel:sandstoneyellow - 15
+chisel:sandstoneyellow1 - 0
+chisel:sandstoneyellow1 - 1
+chisel:sandstoneyellow1 - 2
+chisel:sandstoneyellow1 - 3
+chisel:sandstoneyellow1 - 4
+chisel:sandstoneyellow1 - 5
+chisel:sandstoneyellow1 - 6
+chisel:sandstoneyellow1 - 7
+chisel:sandstoneyellow1 - 8
+chisel:sandstoneyellow1 - 9
+chisel:sandstoneyellow2 - 0
+chisel:sandstoneyellow2 - 1
+chisel:sandstoneyellow2 - 2
+chisel:sandstoneyellow2 - 3
+chisel:sandstoneyellow2 - 4
+chisel:sandstoneyellow2 - 5
+chisel:sandstoneyellow2 - 6
+chisel:sandstonered - 0
+chisel:sandstonered - 1
+chisel:sandstonered - 2
+chisel:sandstonered - 3
+chisel:sandstonered - 4
+chisel:sandstonered - 5
+chisel:sandstonered - 6
+chisel:sandstonered - 7
+chisel:sandstonered - 8
+chisel:sandstonered - 9
+chisel:sandstonered - 10
+chisel:sandstonered - 11
+chisel:sandstonered - 12
+chisel:sandstonered - 13
+chisel:sandstonered - 14
+chisel:sandstonered - 15
+chisel:sandstonered1 - 0
+chisel:sandstonered1 - 1
+chisel:sandstonered1 - 2
+chisel:sandstonered1 - 3
+chisel:sandstonered1 - 4
+chisel:sandstonered1 - 5
+chisel:sandstonered1 - 6
+chisel:sandstonered1 - 7
+chisel:sandstonered1 - 8
+chisel:sandstonered1 - 9
+chisel:sandstonered2 - 0
+chisel:sandstonered2 - 1
+chisel:sandstonered2 - 2
+chisel:sandstonered2 - 3
+chisel:sandstonered2 - 4
+chisel:sandstonered2 - 5
+chisel:sandstonered2 - 6
+chisel:sandstone-scribbles - 0
+chisel:sandstone-scribbles - 1
+chisel:sandstone-scribbles - 2
+chisel:sandstone-scribbles - 3
+chisel:sandstone-scribbles - 4
+chisel:sandstone-scribbles - 5
+chisel:sandstone-scribbles - 6
+chisel:sandstone-scribbles - 7
+chisel:sandstone-scribbles - 8
+chisel:sandstone-scribbles - 9
+chisel:sandstone-scribbles - 10
+chisel:sandstone-scribbles - 11
+chisel:sandstone-scribbles - 12
+chisel:sandstone-scribbles - 13
+chisel:sandstone-scribbles - 14
+chisel:sandstone-scribbles - 15
+
+
+seaWeed
+
+
+seed
+minecraft:wheat_seeds - 0
+minecraft:pumpkin_seeds - 0
+minecraft:melon_seeds - 0
+minecraft:beetroot_seeds - 0
+
+
+seedBeetroot
+minecraft:beetroot_seeds - 0
+
+
+seedMelon
+minecraft:melon_seeds - 0
+
+
+seedPumpkin
+minecraft:pumpkin_seeds - 0
+
+
+seedWheat
+minecraft:wheat_seeds - 0
+
+
+seedsTier1
+mysticalagriculture:water_seeds - 0
+mysticalagriculture:zombie_seeds - 0
+mysticalagriculture:dirt_seeds - 0
+mysticalagriculture:wood_seeds - 0
+mysticalagriculture:nature_seeds - 0
+mysticalagriculture:stone_seeds - 0
+mysticalagriculture:ice_seeds - 0
+
+
+seedsTier2
+mysticalagriculture:aluminum_seeds - 0
+mysticalagriculture:sheep_seeds - 0
+mysticalagriculture:chicken_seeds - 0
+mysticalagriculture:slime_seeds - 0
+mysticalagriculture:dye_seeds - 0
+mysticalagriculture:cow_seeds - 0
+mysticalagriculture:copper_seeds - 0
+mysticalagriculture:fire_seeds - 0
+mysticalagriculture:slate_seeds - 0
+mysticalagriculture:aluminum_brass_seeds - 0
+mysticalagriculture:mystical_flower_seeds - 0
+mysticalagriculture:coal_seeds - 0
+mysticalagriculture:sulfur_seeds - 0
+mysticalagriculture:pig_seeds - 0
+mysticalagriculture:basalt_seeds - 0
+mysticalagriculture:limestone_seeds - 0
+mysticalagriculture:nether_seeds - 0
+mysticalagriculture:slimy_bone_seeds - 0
+mysticalagriculture:marble_seeds - 0
+
+
+seedsTier3
+mysticalagriculture:blizz_seeds - 0
+mysticalagriculture:steeleaf_seeds - 0
+mysticalagriculture:guardian_seeds - 0
+mysticalagriculture:tin_seeds - 0
+mysticalagriculture:saltpeter_seeds - 0
+mysticalagriculture:thaumium_seeds - 0
+mysticalagriculture:blitz_seeds - 0
+mysticalagriculture:octine_seeds - 0
+mysticalagriculture:manasteel_seeds - 0
+mysticalagriculture:iron_seeds - 0
+mysticalagriculture:redstone_seeds - 0
+mysticalagriculture:basalz_seeds - 0
+mysticalagriculture:skeleton_seeds - 0
+mysticalagriculture:ardite_seeds - 0
+mysticalagriculture:lead_seeds - 0
+mysticalagriculture:nether_quartz_seeds - 0
+mysticalagriculture:knightslime_seeds - 0
+mysticalagriculture:brass_seeds - 0
+mysticalagriculture:rabbit_seeds - 0
+mysticalagriculture:quicksilver_seeds - 0
+mysticalagriculture:dark_gem_seeds - 0
+mysticalagriculture:bronze_seeds - 0
+mysticalagriculture:aquamarine_seeds - 0
+mysticalagriculture:spider_seeds - 0
+mysticalagriculture:ironwood_seeds - 0
+mysticalagriculture:creeper_seeds - 0
+mysticalagriculture:obsidian_seeds - 0
+mysticalagriculture:glowstone_seeds - 0
+mysticalagriculture:silver_seeds - 0
+mysticalagriculture:syrmorite_seeds - 0
+
+
+seedsTier4
+mysticalagriculture:signalum_seeds - 0
+mysticalagriculture:cobalt_seeds - 0
+mysticalagriculture:invar_seeds - 0
+mysticalagriculture:nickel_seeds - 0
+mysticalagriculture:steel_seeds - 0
+mysticalagriculture:experience_seeds - 0
+mysticalagriculture:enderman_seeds - 0
+mysticalagriculture:knightmetal_seeds - 0
+mysticalagriculture:constantan_seeds - 0
+mysticalagriculture:ghast_seeds - 0
+mysticalagriculture:mithril_seeds - 0
+mysticalagriculture:elementium_seeds - 0
+mysticalagriculture:void_metal_seeds - 0
+mysticalagriculture:fiery_ingot_seeds - 0
+mysticalagriculture:electrum_seeds - 0
+mysticalagriculture:end_seeds - 0
+mysticalagriculture:lapis_lazuli_seeds - 0
+mysticalagriculture:gold_seeds - 0
+mysticalagriculture:amber_seeds - 0
+mysticalagriculture:lumium_seeds - 0
+mysticalagriculture:blaze_seeds - 0
+
+
+seedsTier5
+mysticalagriculture:enderium_seeds - 0
+mysticalagriculture:platinum_seeds - 0
+mysticalagriculture:iridium_seeds - 0
+mysticalagriculture:terrasteel_seeds - 0
+mysticalagriculture:starmetal_seeds - 0
+mysticalagriculture:valonite_seeds - 0
+mysticalagriculture:manyullyn_seeds - 0
+mysticalagriculture:wither_skeleton_seeds - 0
+mysticalagriculture:emerald_seeds - 0
+mysticalagriculture:diamond_seeds - 0
+mysticalagriculture:rock_crystal_seeds - 0
+
+
+shardProsperity
+mysticalagriculture:crafting - 5
+
+
+shulkerBox
+minecraft:white_shulker_box - 0
+minecraft:orange_shulker_box - 0
+minecraft:magenta_shulker_box - 0
+minecraft:light_blue_shulker_box - 0
+minecraft:yellow_shulker_box - 0
+minecraft:lime_shulker_box - 0
+minecraft:pink_shulker_box - 0
+minecraft:gray_shulker_box - 0
+minecraft:silver_shulker_box - 0
+minecraft:cyan_shulker_box - 0
+minecraft:purple_shulker_box - 0
+minecraft:blue_shulker_box - 0
+minecraft:brown_shulker_box - 0
+minecraft:green_shulker_box - 0
+minecraft:red_shulker_box - 0
+minecraft:black_shulker_box - 0
+
+
+shulkerShell
+minecraft:shulker_shell - 0
+
+
+slabCobblestone
+minecraft:stone_slab - 3
+
+
+slabPlanks
+betternether:stalagnate_planks_slab_half - 0
+betternether:reeds_slab_half - 0
+
+
+slabWood
+minecraft:wooden_slab - any
+rustic:olive_slab_item - 0
+rustic:ironwood_slab_item - 0
+thaumcraft:slab_greatwood - 0
+thaumcraft:slab_silverwood - 0
+thebetweenlands:weedwood_plank_slab - 0
+thebetweenlands:rubber_tree_plank_slab - 0
+thebetweenlands:giant_root_plank_slab - 0
+thebetweenlands:hearthgrove_plank_slab - 0
+thebetweenlands:nibbletwig_plank_slab - 0
+wizardry:wisdom_wood_slab - 0
+plants2:crystal_slab - 0
+plants2:dark_crystal_slab - 0
+plants2:ash_slab - 0
+plants2:blaze_slab - 0
+plants2:black_kauri_slab - 0
+plants2:brazillian_pine_slab - 0
+plants2:incense_cedar_slab - 0
+plants2:murray_pine_slab - 0
+redwoods:redwood_slab - 0
+redwoods:fir_slab - 0
+totemic:cedar_slab - 0
+
+
+slate
+rustic:slate - 0
+rustic:slate_brick - 0
+rustic:slate_tile - 0
+rustic:slate_pillar - 0
+rustic:slate_roof - 0
+rustic:slate_chiseled - 0
+
+
+slimeball
+minecraft:slime_ball - 0
+tconstruct:edible - 1
+tconstruct:edible - 2
+tconstruct:edible - 3
+tconstruct:edible - 4
+
+
+slimeballBlood
+tconstruct:edible - 3
+
+
+slimeballBlue
+tconstruct:edible - 1
+
+
+slimeballGreen
+minecraft:slime_ball - any
+
+
+slimeballMagma
+tconstruct:edible - 4
+
+
+slimeballPurple
+tconstruct:edible - 2
+
+
+slimecrystal
+tconstruct:materials - 9
+tconstruct:materials - 10
+tconstruct:materials - 11
+
+
+slimecrystalBlue
+tconstruct:materials - 10
+
+
+slimecrystalGreen
+tconstruct:materials - 9
+
+
+slimecrystalMagma
+tconstruct:materials - 11
+
+
+snowLayer
+minecraft:snow_layer - 0
+
+
+soulSand
+minecraft:soul_sand - 0
+
+
+stairWood
+minecraft:oak_stairs - 0
+minecraft:spruce_stairs - 0
+minecraft:birch_stairs - 0
+minecraft:jungle_stairs - 0
+minecraft:acacia_stairs - 0
+minecraft:dark_oak_stairs - 0
+rustic:stairs_olive - 0
+rustic:stairs_ironwood - 0
+evilcraft:undead_plank_stairs - 0
+thebetweenlands:weedwood_plank_stairs - 0
+thebetweenlands:rubber_tree_plank_stairs - 0
+thebetweenlands:giant_root_plank_stairs - 0
+thebetweenlands:hearthgrove_plank_stairs - 0
+thebetweenlands:nibbletwig_plank_stairs - 0
+wizardry:wisdom_wood_stairs - 0
+redwoods:redwood_stairs - 0
+redwoods:fir_stairs - 0
+totemic:cedar_stairs - 0
+
+
+stickTreatedWood
+
+
+stickWood
+minecraft:stick - 0
+evilcraft:dark_stick - 0
+thebetweenlands:items_misc - 20
+wizardry:wisdom_stick - 0
+cuisine:bamboo - 0
+
+
+stone
+minecraft:stone - 0
+chisel:stonebrick - 0
+chisel:stonebrick - 1
+chisel:stonebrick - 2
+chisel:stonebrick - 3
+chisel:stonebrick - 4
+chisel:stonebrick - 5
+chisel:stonebrick - 6
+chisel:stonebrick - 7
+chisel:stonebrick - 8
+chisel:stonebrick - 9
+chisel:stonebrick - 10
+chisel:stonebrick - 11
+chisel:stonebrick - 12
+chisel:stonebrick - 13
+chisel:stonebrick - 14
+chisel:stonebrick - 15
+chisel:stonebrick1 - 0
+chisel:stonebrick1 - 1
+chisel:stonebrick1 - 2
+chisel:stonebrick1 - 3
+chisel:stonebrick1 - 4
+chisel:stonebrick1 - 5
+chisel:stonebrick1 - 6
+chisel:stonebrick1 - 7
+chisel:stonebrick1 - 8
+chisel:stonebrick1 - 9
+chisel:stonebrick2 - 0
+chisel:stonebrick2 - 1
+chisel:stonebrick2 - 2
+chisel:stonebrick2 - 3
+chisel:stonebrick2 - 4
+chisel:stonebrick2 - 5
+chisel:stonebrick2 - 6
+chisel:stonebrick2 - 7
+thebetweenlands:smooth_betweenstone - 0
+
+
+stoneAndesite
+minecraft:stone - 5
+chisel:andesite - 0
+chisel:andesite - 1
+chisel:andesite - 2
+chisel:andesite - 3
+chisel:andesite - 4
+chisel:andesite - 5
+chisel:andesite - 6
+chisel:andesite - 7
+chisel:andesite - 8
+chisel:andesite - 9
+chisel:andesite - 10
+chisel:andesite - 11
+chisel:andesite - 12
+chisel:andesite - 13
+chisel:andesite - 14
+chisel:andesite - 15
+chisel:andesite1 - 0
+chisel:andesite1 - 1
+chisel:andesite1 - 2
+chisel:andesite1 - 3
+chisel:andesite1 - 4
+chisel:andesite1 - 5
+chisel:andesite1 - 6
+chisel:andesite1 - 7
+chisel:andesite1 - 8
+chisel:andesite1 - 9
+chisel:andesite1 - 10
+chisel:andesite1 - 11
+chisel:andesite1 - 12
+chisel:andesite1 - 13
+chisel:andesite1 - 14
+chisel:andesite1 - 15
+chisel:andesite2 - 0
+
+
+stoneAndesitePolished
+minecraft:stone - 6
+chisel:andesite - 0
+chisel:andesite - 1
+chisel:andesite - 2
+chisel:andesite - 3
+chisel:andesite - 4
+chisel:andesite - 5
+chisel:andesite - 6
+chisel:andesite - 7
+chisel:andesite - 8
+chisel:andesite - 9
+chisel:andesite - 10
+chisel:andesite - 11
+chisel:andesite - 12
+chisel:andesite - 13
+chisel:andesite - 14
+chisel:andesite - 15
+chisel:andesite1 - 0
+chisel:andesite1 - 1
+chisel:andesite1 - 2
+chisel:andesite1 - 3
+chisel:andesite1 - 4
+chisel:andesite1 - 5
+chisel:andesite1 - 6
+chisel:andesite1 - 7
+chisel:andesite1 - 8
+chisel:andesite1 - 9
+chisel:andesite1 - 10
+chisel:andesite1 - 11
+chisel:andesite1 - 12
+chisel:andesite1 - 13
+chisel:andesite1 - 14
+chisel:andesite1 - 15
+chisel:andesite2 - 0
+
+
+stoneBasalt
+chisel:basalt - 0
+chisel:basalt - 1
+chisel:basalt - 2
+chisel:basalt - 3
+chisel:basalt - 4
+chisel:basalt - 5
+chisel:basalt - 6
+chisel:basalt - 7
+chisel:basalt - 8
+chisel:basalt - 9
+chisel:basalt - 10
+chisel:basalt - 11
+chisel:basalt - 12
+chisel:basalt - 13
+chisel:basalt - 14
+chisel:basalt - 15
+chisel:basalt1 - 0
+chisel:basalt1 - 1
+chisel:basalt1 - 2
+chisel:basalt1 - 3
+chisel:basalt1 - 4
+chisel:basalt1 - 5
+chisel:basalt1 - 6
+chisel:basalt1 - 7
+chisel:basalt1 - 8
+chisel:basalt1 - 9
+chisel:basalt2 - 0
+chisel:basalt2 - 1
+chisel:basalt2 - 2
+chisel:basalt2 - 3
+chisel:basalt2 - 4
+chisel:basalt2 - 5
+chisel:basalt2 - 6
+chisel:basalt2 - 7
+
+
+stoneBasaltPolished
+chisel:basalt - 0
+chisel:basalt - 1
+chisel:basalt - 2
+chisel:basalt - 3
+chisel:basalt - 4
+chisel:basalt - 5
+chisel:basalt - 6
+chisel:basalt - 7
+chisel:basalt - 8
+chisel:basalt - 9
+chisel:basalt - 10
+chisel:basalt - 11
+chisel:basalt - 12
+chisel:basalt - 13
+chisel:basalt - 14
+chisel:basalt - 15
+chisel:basalt1 - 0
+chisel:basalt1 - 1
+chisel:basalt1 - 2
+chisel:basalt1 - 3
+chisel:basalt1 - 4
+chisel:basalt1 - 5
+chisel:basalt1 - 6
+chisel:basalt1 - 7
+chisel:basalt1 - 8
+chisel:basalt1 - 9
+chisel:basalt2 - 0
+chisel:basalt2 - 1
+chisel:basalt2 - 2
+chisel:basalt2 - 3
+chisel:basalt2 - 4
+chisel:basalt2 - 5
+chisel:basalt2 - 6
+chisel:basalt2 - 7
+
+
+stoneDiorite
+minecraft:stone - 3
+chisel:diorite - 0
+chisel:diorite - 1
+chisel:diorite - 2
+chisel:diorite - 3
+chisel:diorite - 4
+chisel:diorite - 5
+chisel:diorite - 6
+chisel:diorite - 7
+chisel:diorite - 8
+chisel:diorite - 9
+chisel:diorite - 10
+chisel:diorite - 11
+chisel:diorite - 12
+chisel:diorite - 13
+chisel:diorite - 14
+chisel:diorite - 15
+chisel:diorite1 - 0
+chisel:diorite1 - 1
+chisel:diorite1 - 2
+chisel:diorite1 - 3
+chisel:diorite1 - 4
+chisel:diorite1 - 5
+chisel:diorite1 - 6
+chisel:diorite1 - 7
+chisel:diorite1 - 8
+chisel:diorite1 - 9
+chisel:diorite1 - 10
+chisel:diorite1 - 11
+chisel:diorite1 - 12
+chisel:diorite1 - 13
+chisel:diorite1 - 14
+chisel:diorite1 - 15
+chisel:diorite2 - 0
+
+
+stoneDioritePolished
+minecraft:stone - 4
+chisel:diorite - 0
+chisel:diorite - 1
+chisel:diorite - 2
+chisel:diorite - 3
+chisel:diorite - 4
+chisel:diorite - 5
+chisel:diorite - 6
+chisel:diorite - 7
+chisel:diorite - 8
+chisel:diorite - 9
+chisel:diorite - 10
+chisel:diorite - 11
+chisel:diorite - 12
+chisel:diorite - 13
+chisel:diorite - 14
+chisel:diorite - 15
+chisel:diorite1 - 0
+chisel:diorite1 - 1
+chisel:diorite1 - 2
+chisel:diorite1 - 3
+chisel:diorite1 - 4
+chisel:diorite1 - 5
+chisel:diorite1 - 6
+chisel:diorite1 - 7
+chisel:diorite1 - 8
+chisel:diorite1 - 9
+chisel:diorite1 - 10
+chisel:diorite1 - 11
+chisel:diorite1 - 12
+chisel:diorite1 - 13
+chisel:diorite1 - 14
+chisel:diorite1 - 15
+chisel:diorite2 - 0
+
+
+stoneGranite
+minecraft:stone - 1
+chisel:granite - 0
+chisel:granite - 1
+chisel:granite - 2
+chisel:granite - 3
+chisel:granite - 4
+chisel:granite - 5
+chisel:granite - 6
+chisel:granite - 7
+chisel:granite - 8
+chisel:granite - 9
+chisel:granite - 10
+chisel:granite - 11
+chisel:granite - 12
+chisel:granite - 13
+chisel:granite - 14
+chisel:granite - 15
+chisel:granite1 - 0
+chisel:granite1 - 1
+chisel:granite1 - 2
+chisel:granite1 - 3
+chisel:granite1 - 4
+chisel:granite1 - 5
+chisel:granite1 - 6
+chisel:granite1 - 7
+chisel:granite1 - 8
+chisel:granite1 - 9
+chisel:granite1 - 10
+chisel:granite1 - 11
+chisel:granite1 - 12
+chisel:granite1 - 13
+chisel:granite1 - 14
+chisel:granite1 - 15
+chisel:granite2 - 0
+
+
+stoneGranitePolished
+minecraft:stone - 2
+chisel:granite - 0
+chisel:granite - 1
+chisel:granite - 2
+chisel:granite - 3
+chisel:granite - 4
+chisel:granite - 5
+chisel:granite - 6
+chisel:granite - 7
+chisel:granite - 8
+chisel:granite - 9
+chisel:granite - 10
+chisel:granite - 11
+chisel:granite - 12
+chisel:granite - 13
+chisel:granite - 14
+chisel:granite - 15
+chisel:granite1 - 0
+chisel:granite1 - 1
+chisel:granite1 - 2
+chisel:granite1 - 3
+chisel:granite1 - 4
+chisel:granite1 - 5
+chisel:granite1 - 6
+chisel:granite1 - 7
+chisel:granite1 - 8
+chisel:granite1 - 9
+chisel:granite1 - 10
+chisel:granite1 - 11
+chisel:granite1 - 12
+chisel:granite1 - 13
+chisel:granite1 - 14
+chisel:granite1 - 15
+chisel:granite2 - 0
+
+
+stoneLimestone
+chisel:limestone - 0
+chisel:limestone - 1
+chisel:limestone - 2
+chisel:limestone - 3
+chisel:limestone - 4
+chisel:limestone - 5
+chisel:limestone - 6
+chisel:limestone - 7
+chisel:limestone - 8
+chisel:limestone - 9
+chisel:limestone - 10
+chisel:limestone - 11
+chisel:limestone - 12
+chisel:limestone - 13
+chisel:limestone - 14
+chisel:limestone - 15
+chisel:limestone1 - 0
+chisel:limestone1 - 1
+chisel:limestone1 - 2
+chisel:limestone1 - 3
+chisel:limestone1 - 4
+chisel:limestone1 - 5
+chisel:limestone1 - 6
+chisel:limestone1 - 7
+chisel:limestone1 - 8
+chisel:limestone1 - 9
+chisel:limestone2 - 0
+chisel:limestone2 - 1
+chisel:limestone2 - 2
+chisel:limestone2 - 3
+chisel:limestone2 - 4
+chisel:limestone2 - 5
+chisel:limestone2 - 6
+chisel:limestone2 - 7
+
+
+stoneLimestonePolished
+chisel:limestone - 0
+chisel:limestone - 1
+chisel:limestone - 2
+chisel:limestone - 3
+chisel:limestone - 4
+chisel:limestone - 5
+chisel:limestone - 6
+chisel:limestone - 7
+chisel:limestone - 8
+chisel:limestone - 9
+chisel:limestone - 10
+chisel:limestone - 11
+chisel:limestone - 12
+chisel:limestone - 13
+chisel:limestone - 14
+chisel:limestone - 15
+chisel:limestone1 - 0
+chisel:limestone1 - 1
+chisel:limestone1 - 2
+chisel:limestone1 - 3
+chisel:limestone1 - 4
+chisel:limestone1 - 5
+chisel:limestone1 - 6
+chisel:limestone1 - 7
+chisel:limestone1 - 8
+chisel:limestone1 - 9
+chisel:limestone2 - 0
+chisel:limestone2 - 1
+chisel:limestone2 - 2
+chisel:limestone2 - 3
+chisel:limestone2 - 4
+chisel:limestone2 - 5
+chisel:limestone2 - 6
+chisel:limestone2 - 7
+
+
+stoneMarble
+chisel:marble - 0
+chisel:marble - 1
+chisel:marble - 2
+chisel:marble - 3
+chisel:marble - 4
+chisel:marble - 5
+chisel:marble - 6
+chisel:marble - 7
+chisel:marble - 8
+chisel:marble - 9
+chisel:marble - 10
+chisel:marble - 11
+chisel:marble - 12
+chisel:marble - 13
+chisel:marble - 14
+chisel:marble - 15
+chisel:marble1 - 0
+chisel:marble1 - 1
+chisel:marble1 - 2
+chisel:marble1 - 3
+chisel:marble1 - 4
+chisel:marble1 - 5
+chisel:marble1 - 6
+chisel:marble1 - 7
+chisel:marble1 - 8
+chisel:marble1 - 9
+chisel:marble2 - 0
+chisel:marble2 - 1
+chisel:marble2 - 2
+chisel:marble2 - 3
+chisel:marble2 - 4
+chisel:marble2 - 5
+chisel:marble2 - 6
+chisel:marble2 - 7
+chisel:marblepillar - 0
+chisel:marblepillar - 1
+chisel:marblepillar - 2
+chisel:marblepillar - 3
+chisel:marblepillar - 4
+chisel:marblepillar - 5
+chisel:marblepillar - 6
+chisel:marblepillar - 7
+chisel:marblepillar - 8
+chisel:marblepillar - 9
+chisel:marblepillar - 10
+chisel:marblepillar - 11
+chisel:marblepillar - 12
+chisel:marblepillar - 13
+chisel:marblepillar - 14
+chisel:marblepillar - 15
+astralsorcery:blockmarble - 0
+astralsorcery:blockmarble - 1
+astralsorcery:blockmarble - 2
+astralsorcery:blockmarble - 3
+astralsorcery:blockmarble - 4
+astralsorcery:blockmarble - 5
+astralsorcery:blockmarble - 6
+
+
+stoneMarblePolished
+chisel:marble - 0
+chisel:marble - 1
+chisel:marble - 2
+chisel:marble - 3
+chisel:marble - 4
+chisel:marble - 5
+chisel:marble - 6
+chisel:marble - 7
+chisel:marble - 8
+chisel:marble - 9
+chisel:marble - 10
+chisel:marble - 11
+chisel:marble - 12
+chisel:marble - 13
+chisel:marble - 14
+chisel:marble - 15
+chisel:marble1 - 0
+chisel:marble1 - 1
+chisel:marble1 - 2
+chisel:marble1 - 3
+chisel:marble1 - 4
+chisel:marble1 - 5
+chisel:marble1 - 6
+chisel:marble1 - 7
+chisel:marble1 - 8
+chisel:marble1 - 9
+chisel:marble2 - 0
+chisel:marble2 - 1
+chisel:marble2 - 2
+chisel:marble2 - 3
+chisel:marble2 - 4
+chisel:marble2 - 5
+chisel:marble2 - 6
+chisel:marble2 - 7
+chisel:marblepillar - 0
+chisel:marblepillar - 1
+chisel:marblepillar - 2
+chisel:marblepillar - 3
+chisel:marblepillar - 4
+chisel:marblepillar - 5
+chisel:marblepillar - 6
+chisel:marblepillar - 7
+chisel:marblepillar - 8
+chisel:marblepillar - 9
+chisel:marblepillar - 10
+chisel:marblepillar - 11
+chisel:marblepillar - 12
+chisel:marblepillar - 13
+chisel:marblepillar - 14
+chisel:marblepillar - 15
+
+
+string
+minecraft:string - 0
+
+
+stringFire
+combustfish:magma_string - 0
+
+
+sugarcane
+minecraft:reeds - 0
+thebetweenlands:swamp_reed_item - 0
+
+
+tallow
+rustic:beeswax - 0
+rustic:tallow - 0
+bewitchment:wax - 0
+
+
+teethBuffalo
+totemic:buffalo_items - 1
+
+
+toolBakeware
+cuisine:placed_dish - 0
+
+
+toolMortarandpestle
+bewitchment:mortar_and_pestle - 0
+cuisine:mortar - 0
+
+
+toolSkillet
+cuisine:wok - 0
+
+
+torch
+minecraft:torch - 0
+tconstruct:stone_torch - any
+thebetweenlands:sulfur_torch - 0
+
+
+trapdoorCarpeted
+inspirations:carpeted_trapdoor_white - any
+inspirations:carpeted_trapdoor_orange - any
+inspirations:carpeted_trapdoor_magenta - any
+inspirations:carpeted_trapdoor_light_blue - any
+inspirations:carpeted_trapdoor_yellow - any
+inspirations:carpeted_trapdoor_lime - any
+inspirations:carpeted_trapdoor_pink - any
+inspirations:carpeted_trapdoor_gray - any
+inspirations:carpeted_trapdoor_silver - any
+inspirations:carpeted_trapdoor_cyan - any
+inspirations:carpeted_trapdoor_purple - any
+inspirations:carpeted_trapdoor_blue - any
+inspirations:carpeted_trapdoor_brown - any
+inspirations:carpeted_trapdoor_green - any
+inspirations:carpeted_trapdoor_red - any
+inspirations:carpeted_trapdoor_black - any
+
+
+trapdoorWood
+minecraft:trapdoor - 0
+minecraft:trapdoor - any
+
+
+treeLeaves
+minecraft:leaves - any
+minecraft:leaves2 - any
+randomthings:spectreleaf - 0
+rustic:leaves_apple - 0
+rustic:leaves - 0
+rustic:leaves - 1
+thaumcraft:leaves_greatwood - any
+thaumcraft:leaves_silverwood - any
+tconstruct:slime_leaves - any
+evilcraft:undead_leaves - 0
+thebetweenlands:leaves_weedwood_tree - 0
+thebetweenlands:leaves_sap_tree - 0
+thebetweenlands:leaves_rubber_tree - 0
+thebetweenlands:leaves_hearthgrove_tree - 0
+thebetweenlands:leaves_nibbletwig_tree - 0
+thebetweenlands:leaves_spirit_tree_top - 0
+thebetweenlands:leaves_spirit_tree_middle - 0
+thebetweenlands:leaves_spirit_tree_bottom - 0
+wizardry:wisdom_leaves - 0
+twilightforest:twilight_leaves - any
+twilightforest:magic_leaves - any
+twilightforest:twilight_leaves_3 - any
+twilightforest:dark_leaves - any
+plants2:nether_leaves - any
+plants2:leaves_0 - any
+plants2:crystal_leaves - any
+plants2:bush - any
+bewitchment:leaves_elder - 0
+bewitchment:leaves_juniper - 0
+bewitchment:leaves_yew - 0
+bewitchment:leaves_cypress - 0
+redwoods:redwood_leaves - 0
+redwoods:fir_leaves - 0
+totemic:cedar_leaves - 0
+valoegheses_be:leaves_oasis_palm - 0
+valoegheses_be:leaves_pine_bluff - 0
+valoegheses_be:leaves_pohutukawa - 0
+valoegheses_be:leaves_pohutukawa_bud - 0
+valoegheses_be:leaves_pohutukawa_flower - 0
+valoegheses_be:leaves_forest_evil - 0
+valoegheses_be:leaves_island_palm - 0
+valoegheses_be:leaves_peach_homozygous_dominant - 0
+valoegheses_be:leaves_peach_heterozygous_0 - 0
+valoegheses_be:leaves_peach_heterozygous_1 - 0
+valoegheses_be:leaves_peach_homozygous_reccessive - 0
+valoegheses_be:leaves_plum - 0
+valoegheses_be:leaves_date_palm - 0
+valoegheses_be:leaves_manuka - 0
+cuisine:sheared_leaves - any
+midnight:shadowroot_leaves - 0
+midnight:dark_willow_leaves - 0
+
+
+treeSapling
+minecraft:sapling - any
+randomthings:spectresapling - 0
+rustic:sapling - 0
+rustic:sapling - 1
+rustic:sapling_apple - 0
+thaumcraft:sapling_greatwood - 0
+thaumcraft:sapling_silverwood - 0
+tconstruct:slime_sapling - any
+evilcraft:undead_sapling - 0
+thebetweenlands:sapling_weedwood - 0
+thebetweenlands:sapling_sap - 0
+thebetweenlands:sapling_rubber - 0
+thebetweenlands:sapling_hearthgrove - 0
+thebetweenlands:sapling_nibbletwig - 0
+wizardry:wisdom_sapling - 0
+twilightforest:twilight_sapling - any
+plants2:nether_sapling - any
+plants2:sapling_0 - any
+plants2:crystal_sapling - any
+bewitchment:sapling - 0
+bewitchment:sapling - 1
+bewitchment:sapling - 2
+bewitchment:sapling - 3
+redwoods:redwood_sapling - 0
+redwoods:fir_sapling - 0
+totemic:cedar_sapling - 0
+valoegheses_be:sapling_oasis_palm - 0
+valoegheses_be:sapling_pine_bluff - 0
+valoegheses_be:sapling_forest_evil - 0
+valoegheses_be:sapling_island_palm - 0
+valoegheses_be:sapling_peach_homozygous_reccessive - 0
+valoegheses_be:sapling_peach_heterozygous_1 - 0
+valoegheses_be:sapling_peach_heterozygous_0 - 0
+valoegheses_be:sapling_peach_homozygous_dominant - 0
+valoegheses_be:sapling_plum - 0
+valoegheses_be:sapling_date_palm - 0
+valoegheses_be:sapling_manuka - 0
+cuisine:sapling - any
+
+
+treeWood
+rustic:log - 0
+rustic:log - 1
+
+
+unstableFruit
+midnight:unstable_fruit_blue - 0
+midnight:unstable_fruit_green - 0
+midnight:unstable_fruit_lime - 0
+
+
+vine
+minecraft:vine - 0
+minecraft:vine - any
+tconstruct:slime_vine_blue - any
+tconstruct:slime_vine_blue_mid - any
+tconstruct:slime_vine_blue_end - any
+tconstruct:slime_vine_purple - any
+tconstruct:slime_vine_purple_mid - any
+tconstruct:slime_vine_purple_end - any
+thebetweenlands:poison_ivy - 0
+thebetweenlands:thorns - 0
+
+
+wax
+rustic:beeswax - 0
+rustic:tallow - 0
+bewitchment:wax - 0
+
+
+wick
+minecraft:string - 0
+
+
+wool
+minecraft:wool - any
+
+
+woolBlack
+minecraft:wool - 15
+
+
+woolBlue
+minecraft:wool - 11
+
+
+woolBrown
+minecraft:wool - 12
+
+
+woolCyan
+minecraft:wool - 9
+
+
+woolGray
+minecraft:wool - 7
+
+
+woolGreen
+minecraft:wool - 13
+
+
+woolLightBlue
+minecraft:wool - 3
+
+
+woolLightGray
+minecraft:wool - 8
+
+
+woolLime
+minecraft:wool - 5
+
+
+woolMagenta
+minecraft:wool - 2
+
+
+woolOrange
+minecraft:wool - 1
+
+
+woolPink
+minecraft:wool - 6
+
+
+woolPurple
+minecraft:wool - 10
+
+
+woolRed
+minecraft:wool - 14
+
+
+woolWhite
+minecraft:wool - 0
+
+
+woolYellow
+minecraft:wool - 4
+
+
+workbench
+minecraft:crafting_table - 0
+minecraft:crafting_table - any
+tconstruct:tooltables - 0
+thebetweenlands:weedwood_workbench - 0
+
+
+zoesteria1Plank
+valoegheses_be:planks_zoesteria_pine - 0
+valoegheses_be:planks_zoesteria_ghost - 0
+valoegheses_be:planks_zoesteria_palm - 0
+valoegheses_be:planks_zoesteria_peach - 0
+valoegheses_be:planks_zoesteria_plum - 0
+
+

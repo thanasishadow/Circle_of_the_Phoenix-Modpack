@@ -1,0 +1,416 @@
+[
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "ore_amber",
+        "symbol_id": "block_ore_amber",
+        "word": "Thaumcraft",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "ore_cinnabar",
+        "symbol_id": "block_ore_cinnabar",
+        "word": "Thaumcraft",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "ore_quartz",
+        "symbol_id": "block_ore_quartz",
+        "word": "Thaumcraft",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "stone_arcane",
+        "symbol_id": "block_arcane_stone",
+        "word": "Thaumcraft",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "stone_arcane_brick",
+        "symbol_id": "block_arcane_stone_bricks",
+        "word": "Thaumcraft",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "stone_porous",
+        "symbol_id": "block_porous_stone",
+        "word": "Thaumcraft",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "log_greatwood",
+        "symbol_id": "block_log_greatwood",
+        "word": "Thaumcraft",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "log_silverwood",
+        "symbol_id": "block_log_silverwood",
+        "word": "Thaumcraft",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "leaves_greatwood",
+        "symbol_id": "block_leaves_greatwood",
+        "word": "Thaumcraft",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "leaves_silverwood",
+        "symbol_id": "block_leaves_silverwood",
+        "word": "Thaumcraft",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "plank_greatwood",
+        "symbol_id": "block_planks_greatwood",
+        "word": "Thaumcraft",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "plank_silverwood",
+        "symbol_id": "block_planks_silverwood",
+        "word": "Thaumcraft",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "amber_block",
+        "symbol_id": "block_amber",
+        "word": "Thaumcraft",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "flesh_block",
+        "symbol_id": "block_flesh",
+        "word": "Thaumcraft",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "taint_soil",
+        "symbol_id": "block_tainted_soil",
+        "word": "Thaumcraft",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "taint_rock",
+        "symbol_id": "block_tainted_rock",
+        "word": "Thaumcraft",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "grass_ambient",
+        "symbol_id": "block_ambient_grass",
+        "word": "Thaumcraft",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "metal_brass",
+        "symbol_id": "block_brass",
+        "word": "Thaumcraft",
+        "loot_weight": 5,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "metal_thaumium",
+        "symbol_id": "block_thaumium",
+        "word": "Thaumcraft",
+        "loot_weight": 5,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "thaumcraft",
+        "block_id": "metal_void",
+        "symbol_id": "block_void_metal",
+        "word": "Thaumcraft",
+        "loot_weight": 5,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    }
+]

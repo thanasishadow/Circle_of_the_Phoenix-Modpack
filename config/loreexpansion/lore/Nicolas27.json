@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Nicolas3",
+    "category": "global"
+  },
+  "content": {
+    "title": "27th April (Nicolas)",
+    "body": "[…] Pyrrha's decision did not surprise me. She might like to “play” with fire but she does not enjoy danger.[...]",
+    "autoplay": true
+  },
+  "sortingIndex": 9,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

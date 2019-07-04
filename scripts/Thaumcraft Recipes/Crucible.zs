@@ -1,0 +1,2 @@
+mods.thaumcraft.Crucible.registerRecipe("Seared Brick", "", <tconstruct:materials>, <tconstruct:soil>, [<aspect:ignis> * 2]);
+mods.thaumcraft.Crucible.registerRecipe("Burnt Sapling", "", <treetweaker:burnt_tree>, <ore:treeSapling>, [<aspect:ignis> * 2, <aspect:victus> * 2]);

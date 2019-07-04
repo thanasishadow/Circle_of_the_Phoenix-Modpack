@@ -1,0 +1,18 @@
+{
+    "name": "Grout Alteration",
+    "icon": "tconstruct:materials",
+    "category": "Tier 2",
+    "pages": [
+		{
+			"type": "slate_altar_T2",
+			"title": "Grout Alteration",
+			"input1": "contenttweaker:flamablepowder",
+			"block": "tconstruct:soil",
+			"output": "tconstruct:materials#2"
+		},
+		{
+            "type": "text",
+			"text": "Although this way of turning grout into seared bricks might be more expensive than the usual one, it is also more efficient."
+        }
+    ]
+}

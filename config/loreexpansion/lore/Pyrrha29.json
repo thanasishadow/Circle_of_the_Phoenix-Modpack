@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Pyrrha5",
+    "category": "global"
+  },
+  "content": {
+    "title": "29th April (Pyrrha)",
+    "body": "[…] Nicolas will not let me borrow the philosopher's stone to increase the potency of my protective spells. […] I know very well that this is wrong but I will have to take the stone myself […]",
+    "autoplay": true
+  },
+  "sortingIndex": 17,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

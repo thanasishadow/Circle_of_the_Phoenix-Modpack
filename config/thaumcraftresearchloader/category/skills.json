@@ -1,0 +1,24 @@
+{
+  "aspects": [
+    {
+      "name": "Praecantatio",
+      "amount": 8
+    },
+    {
+      "name": "Terra",
+      "amount": 6
+    },
+    {
+      "name": "Sensus",
+      "amount": 2
+    }
+  ],
+  "key": "SKILLS",
+//the research that has to be comleted before it unlocks
+  "required_research": "INFUSION",
+//the tab's icon, must be a resource location
+  "icon": "thaumcraft:textures/modpack/icon.png",
+//the tab's icon, background texture, must be a resource location
+  "background": "thaumcraft:textures/modpack/background.png",
+  "background_overlay": "thaumcraft:textures/modpack/overlay.png"
+}

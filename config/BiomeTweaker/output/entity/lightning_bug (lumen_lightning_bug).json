@@ -1,0 +1,6 @@
+
+{
+  "Name": "lightning_bug",
+  "Registry ID": "lumen:lightning_bug",
+  "Class": "ladysnake.lumen.common.entities.EntityLightningBug"
+}

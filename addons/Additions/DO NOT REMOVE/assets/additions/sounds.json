@@ -1,0 +1,26 @@
+{
+  "cof-danse_macabre": {
+    "sounds": [
+      "additions:dm"
+    ],
+    "subtitle": "Danse Macabre (Turtlejam Remix)"
+  },
+  "cof-something_wicked": {
+    "sounds": [
+      "additions:sw"
+    ],
+    "subtitle": "Something Wicked"
+  },
+  "cof-furioso_melodia": {
+    "sounds": [
+      "additions:fm"
+    ],
+    "subtitle": "furioso melodia"
+  },
+  "cof-artefatto_vita": {
+    "sounds": [
+      "additions:av"
+    ],
+    "subtitle": "artefatto vita"
+  }
+}

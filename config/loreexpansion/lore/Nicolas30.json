@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Nicolas6",
+    "category": "global"
+  },
+  "content": {
+    "title": "30th April (Nicolas)",
+    "body": "[…] The philosopher's stone is missing but alarming more witches could ruin tonight's celebration. […] ",
+    "autoplay": true
+  },
+  "sortingIndex": 12,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

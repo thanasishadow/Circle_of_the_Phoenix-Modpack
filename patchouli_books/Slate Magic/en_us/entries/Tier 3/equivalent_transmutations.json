@@ -1,0 +1,43 @@
+{
+    "name": "Equivalent Transmutations",
+    "icon": "contenttweaker:philosopher_stone",
+    "category": "Tier 3",
+    "pages": [
+		{
+			"type": "slate_altar_T3",
+			"title": "Emerald Transmutation",
+			"input1": "contenttweaker:philosopher_stone",
+			"block": "minecraft:emerald_block",
+			"output": "minecrafT:diamond_block",
+			"text": "The Philosopher's Stone will not be consumed"
+		},
+		{
+			"type": "slate_altar_T3",
+			"title": "Diamond Transmutation",
+			"input1": "contenttweaker:philosopher_stone",
+			"block": "minecraft:diamond_block",
+			"output": "minecrafT:gold_block#4",
+			"text": "The Philosopher's Stone will not be consumed"
+		},
+		{
+			"type": "slate_altar_T3",
+			"title": "Gold Transmutation",
+			"input1": "contenttweaker:philosopher_stone",
+			"block": "minecraft:gold_block",
+			"output": "minecrafT:iron_block#8",
+			"text": "The Philosopher's Stone will not be consumed"
+		},
+		{
+			"type": "slate_altar_T3",
+			"title": "Iron Transmutation",
+			"input1": "contenttweaker:philosopher_stone",
+			"block": "minecraft:iron_block",
+			"output": "minecrafT:coal_block#2",
+			"text": "The Philosopher's Stone will not be consumed"
+		},
+		{
+            "type": "text",
+			"text": "Only with this, final tier of the slate altar is one able to utilize the philosopher's stone properly - Altering matter without having to sacrifice a part of it."
+        }
+    ]
+}

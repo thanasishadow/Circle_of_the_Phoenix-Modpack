@@ -1,0 +1,444 @@
+[
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy",
+        "sub_id": "construction_alloy",
+        "symbol_id": "block_construction_alloy",
+        "word": "Ender",
+        "loot_weight": 5,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "construction_alloy"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy",
+        "sub_id": "end_steel",
+        "symbol_id": "block_end_steel",
+        "word": "Ender",
+        "loot_weight": 5,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "end_steel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy",
+        "sub_id": "soularium",
+        "symbol_id": "block_soularium",
+        "word": "Ender",
+        "loot_weight": 5,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "soularium"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy",
+        "sub_id": "dark_steel",
+        "symbol_id": "block_dark_steel",
+        "word": "Ender",
+        "loot_weight": 5,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "dark_steel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy",
+        "sub_id": "pulsating_iron",
+        "symbol_id": "block_pulsating_iron",
+        "word": "Ender",
+        "loot_weight": 5,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "pulsating_iron"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy",
+        "sub_id": "conductive_iron",
+        "symbol_id": "block_conductive_iron",
+        "word": "Ender",
+        "loot_weight": 5,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "conductive_iron"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy",
+        "sub_id": "redstone_alloy",
+        "symbol_id": "block_redstone_alloy",
+        "word": "Ender",
+        "loot_weight": 5,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "redstone_alloy"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy",
+        "sub_id": "vibrant_alloy",
+        "symbol_id": "block_vibrant_alloy",
+        "word": "Ender",
+        "loot_weight": 5,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "vibrant_alloy"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy",
+        "sub_id": "energetic_alloy",
+        "symbol_id": "block_energetic_alloy",
+        "word": "Ender",
+        "loot_weight": 5,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "energetic_alloy"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy",
+        "sub_id": "electrical_steel",
+        "symbol_id": "block_electrical_steel",
+        "word": "Ender",
+        "loot_weight": 5,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "electrical_steel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy_endergy",
+        "sub_id": "vivid_alloy",
+        "symbol_id": "block_vivid_alloy",
+        "word": "Ender",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "vivid_alloy"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy_endergy",
+        "sub_id": "energetic_silver",
+        "symbol_id": "block_energetic_silver",
+        "word": "Ender",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "energetic_silver"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy_endergy",
+        "sub_id": "crystalline_pink_slime",
+        "symbol_id": "block_crystalline_pink_slime",
+        "word": "Ender",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "crystalline_pink_slime"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy_endergy",
+        "sub_id": "stellar_alloy",
+        "symbol_id": "block_stellar_alloy",
+        "word": "Ender",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "stellar_alloy"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy_endergy",
+        "sub_id": "melodic_alloy",
+        "symbol_id": "block_melodic_alloy",
+        "word": "Ender",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "melodic_alloy"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy_endergy",
+        "sub_id": "crystalline_alloy",
+        "symbol_id": "block_crystalline_alloy",
+        "word": "Ender",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "crystalline_alloy"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "mod_id": "enderio",
+        "block_id": "block_alloy_endergy",
+        "sub_id": "crude_steel",
+        "symbol_id": "block_crude_steel",
+        "word": "Ender",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "crude_steel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    }
+]

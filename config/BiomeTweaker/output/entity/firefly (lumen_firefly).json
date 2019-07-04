@@ -1,0 +1,6 @@
+
+{
+  "Name": "firefly",
+  "Registry ID": "lumen:firefly",
+  "Class": "ladysnake.lumen.common.entities.EntityFirefly"
+}

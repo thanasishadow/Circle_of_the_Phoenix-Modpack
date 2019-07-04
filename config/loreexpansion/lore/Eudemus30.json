@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Eudemus6",
+    "category": "global"
+  },
+  "content": {
+    "title": "30th April (Eudemus)",
+    "body": "[…] Tonight is the night. With everyone enjoying themselves, my followers and I should have no trouble casting the spell […] only one thing is missing but luckily Alphrabius has not returned yet. […] I think Volphisto might be suspicious of me. The safest course of action would be putting him to sleep. [...]",
+    "autoplay": true
+  },
+  "sortingIndex": 42,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

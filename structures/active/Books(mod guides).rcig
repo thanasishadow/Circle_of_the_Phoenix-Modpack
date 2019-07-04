@@ -1,0 +1,295 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "books",
+  "items": [
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "vampirism:vampire_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "generation": {
+              "nbtType": "int",
+              "nbt": 3
+            },
+            "pages": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "string",
+                  "nbt": "{\"extra\":[{\"bold\":true,\"text\":\"Sanguis\"},{\"color\":\"reset\",\"text\":\"\\nFeci quod potui, nostro te sanguine pavi, Dum mihi quem posses suggere sanguis erat.\\nIpsa parata tibi, nate, datura cibos.\\nCarne mea functura fui quam sanguine fovi, sed jam fata vocant me properata fame.\"}],\"text\":\"\"}"
+                }
+              ]
+            },
+            "author": {
+              "nbtType": "string",
+              "nbt": "Unknown"
+            },
+            "display": {
+              "nbtType": "compound",
+              "nbt": {
+                "Lore": {
+                  "nbtType": "list",
+                  "nbt": [
+                    {
+                      "nbtType": "string",
+                      "nbt": "Ancient writing"
+                    }
+                  ]
+                },
+                "Name": {
+                  "nbtType": "string",
+                  "nbt": "Vampire Book"
+                }
+              }
+            },
+            "title": {
+              "nbtType": "string",
+              "nbt": "Sanguis"
+            },
+            "resolved": {
+              "nbtType": "byte",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "tconstruct:book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "agricraft:journal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "exoticbirds:bird_book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0034870589151978493,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "roots:book_base",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0034870589151978493,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "roots:herblore_book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0034870589151978493,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "roots:ritual_book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0034870589151978493,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "roots:spellcraft_book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.002661055652424693,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cookingforblockheads:recipe_book",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0034870589151978493,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cookingforblockheads:recipe_book",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cookingforblockheads:recipe_book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.009064221754670143,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "loreexpansion:lore_journal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0010694180382415652,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "botania:lexicon",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.002661055652424693,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "totemic:totempedia",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0019995670299977064,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "evilcraft:origins_of_darkness",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 7.574109476990998E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "astralsorcery:itemjournal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.504269116092473E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "guideapi:bloodmagic-guide",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "G-API_Category_Page": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 3.504269116092473E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "guideapi:vampirism-guide",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "G-API_Category_Page": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 5.22887276019901E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thebetweenlands:manual_hl",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    },
+    {
+      "weight": 0.0034870589151978493,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "rustic:book",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 8.315798913827166E-5,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thermalfoundation:tome_experience",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {}
+        }
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

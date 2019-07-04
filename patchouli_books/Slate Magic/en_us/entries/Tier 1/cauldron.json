@@ -1,0 +1,18 @@
+{
+    "name": "Bucket Alteration",
+    "icon": "minecraft:cauldron",
+    "category": "Tier 1",
+    "pages": [
+		{
+			"type": "slate_altar_T1",
+			"title": "Bucket Alteration",
+			"input1": "minecraft:bucket",
+			"block": "contenttweaker:upgrade_rune_iron",
+			"output": "minecraft:cauldron"
+		},
+        {
+            "type": "text",
+            "text": "Cauldrons are an essential item for every witch who wishes to expand the reach of their powers and skills.$(br2)Making one involves altering an empty bucket with the use of an iron upgrading rune."
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+setIcon(<minecraft:torch>)
+setTitle("Torch")
+setDescription("Light source")
+setPos(5, -1)
+addParent("triumph:Overworld/Craft_Wooden_Mortar")
+drawDirectLines(true)
+criteria = addCriteria("craftTorch", "triumph:player_crafted_item")
+criteria.setItem(<minecraft:torch>)

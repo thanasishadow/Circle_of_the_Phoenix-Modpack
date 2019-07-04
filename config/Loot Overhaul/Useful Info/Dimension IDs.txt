@@ -1,0 +1,137 @@
+## Dimension IDs                                                      ##
+########################################################################
+## In the form:                                                       ##
+## <dimension name>                                                   ##
+##    - Id: <dimension id>                                            ##
+##    - Height: <dimension height>                                    ##
+##    - Has Sky? <true if dimension has a sky>                        ##
+##    - Cloud Height: <height of dimension's clouds (only on client)> ##
+##    - Can Respawn Here? <true if players can respawn here>          ##
+##    - Terrain Scale: <distance travelled per block (nether is 8)>   ##
+########################################################################
+overworld
+	- Id: 0
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+the_nether
+	- Id: -1
+	- Height: 128
+	- Has Sky? false
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 8.0
+
+
+the_end
+	- Id: 1
+	- Height: 256
+	- Has Sky? false
+	- Cloud Height: 8.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+limbo
+	- Id: 684
+	- Height: 256
+	- Has Sky? false
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+private_pockets
+	- Id: 685
+	- Height: 256
+	- Has Sky? false
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+public_pockets
+	- Id: 686
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+dungeon_pockets
+	- Id: 687
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+dungeon_pockets
+	- Id: 688
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+betweenlands
+	- Id: 20
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 128.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+
+underworld
+	- Id: 33
+	- Height: 256
+	- Has Sky? false
+	- Cloud Height: -10000.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+torikki
+	- Id: 34
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: -10000.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+midnight
+	- Id: -23
+	- Height: 255
+	- Has Sky? false
+	- Cloud Height: 128.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+Spectre
+	- Id: -343800852
+	- Height: 256
+	- Has Sky? false
+	- Cloud Height: -5.0
+	- Can Respawn Here? false
+	- Terrain Scale: 1.0
+
+
+twilight_forest
+	- Id: 7
+	- Height: 256
+	- Has Sky? true
+	- Cloud Height: 161.0
+	- Can Respawn Here? true
+	- Terrain Scale: 1.0
+
+

@@ -1,0 +1,6 @@
+
+{
+  "Name": "knight",
+  "Registry ID": "chessmod:knight",
+  "Class": "net.katsstuff.nightclipse.chessmod.entity.EntityKnight"
+}

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Volphisto3",
+    "category": "global"
+  },
+  "content": {
+    "title": "27th April (Volphisto)",
+    "body": "[…]",
+    "autoplay": true
+  },
+  "sortingIndex": 45,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

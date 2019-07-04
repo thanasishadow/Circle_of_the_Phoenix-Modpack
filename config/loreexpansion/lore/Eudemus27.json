@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Eudemus3",
+    "category": "global"
+  },
+  "content": {
+    "title": "27th April (Eudemus)",
+    "body": "[…] I can't believe this […] There is only one thing left to do now [...]",
+    "autoplay": true
+  },
+  "sortingIndex": 40,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

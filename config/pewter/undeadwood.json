@@ -1,0 +1,106 @@
+{
+  "name": "undeadwood",
+  "tool": {
+    "bow": {
+      "speed": 1.1,
+      "range": 1.1,
+      "bonusDamage": 1.2
+    },
+    "head": {
+      "attackDamage": 2.1,
+      "speed": 1.5,
+      "durability": 300,
+      "harvestLevel": 0
+    },
+    "handle": {
+      "modifier": 1.0,
+      "durability": 200
+    },
+    "arrowShaft": {
+      "modifier": 1.1,
+      "bonusAmmo": 3
+    },
+    "extra": {
+      "durability": 110
+    }
+  },
+  "color": "#7f391c",
+  "craftable": true,
+  "madeInToolForge": false,
+  "createMeltingRecipes": false,
+  "meltingTemperature": 475,
+  "looks": {
+    "shininess": 0.01,
+    "brightness": 0.20,
+    "hueshift": -0.1
+  },
+  "oreDictSuffixes": [],
+  "matParts": [
+    "HEAD",
+    "HANDLE",
+    "EXTRA",
+    "BOW",
+    "PROJECTILE",
+    "CORE",
+    "TRIM"
+  ],
+  "nameLocales": {
+    "en_us": "Undead Wood"
+  },
+  "smeltingItems": {
+    "ingot": [
+      "evilcraft:undead_plank"
+    ],
+    "block": [],
+    "nugget": [],
+    "ore": [],
+    "dust": [],
+    "plate": [],
+    "gear": []
+  },
+  "smeltingTags": {
+    "ingot": [],
+    "block": [],
+    "nugget": [],
+    "ore": [],
+    "dust": [],
+    "plate": [],
+    "gear": []
+  },
+  "armor": {
+    "core": {
+      "durability": 15.5,
+      "defense": 13.0
+    },
+    "plates": {
+      "modifier": 0.75,
+      "durability": 6.0,
+      "toughness": 0.0
+    },
+    "trim": {
+      "extraDurability": 6.0
+    }
+  },
+  "specificTraits": {
+    "EXTRA": [
+      "ecological"
+    ],
+    "HEAD": [
+      "ecological"
+    ],
+    "HANDLE": [
+      "ecological"
+    ],
+    "BOW": [
+      "ecological"
+    ],
+    "PROJECTILE": [
+    ],
+    "CORE": [
+    ],
+    "PLATES": [
+    ],
+    "TRIM": [
+    ]
+  }
+}

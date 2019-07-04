@@ -1,0 +1,18 @@
+{
+    "name": "Lapis Enchantment",
+    "icon": "contenttweaker:enchanted_lapis_block",
+    "category": "Tier 1",
+    "pages": [
+		{
+			"type": "slate_altar_T1",
+			"title": "Lapis Enchantment",
+			"input1": "contenttweaker:not_that_dull_dust",
+			"block": "minecraft:lapis_block",
+			"output": "contenttweaker:enchanted_lapis_block"
+		},
+        {
+            "type": "text",
+            "text": "Unlike the usual way of transforming things with the slate altar (Alteration), this is an Enchantment or rather an Empowerment if you will. The difference is that instead of transforming objects, this technique makes them more powerful and/or magical.$(br2)Lapis has quite the affinity for magic. This makes it one of the best blocks to enchant and use for other magical projects."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Pyrrha1",
+    "category": "global"
+  },
+  "content": {
+    "title": "24th April (Pyrrha)",
+    "body": "[…] my only concern is the ideology which some witches carry.",
+    "autoplay": true
+  },
+  "sortingIndex": 13,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

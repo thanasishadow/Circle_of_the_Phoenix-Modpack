@@ -1,0 +1,6 @@
+
+{
+  "Name": "companion_orb_a",
+  "Registry ID": "lumen:companion_orb_a",
+  "Class": "ladysnake.lumen.common.entities.EntityCompanionOrbAnimated"
+}

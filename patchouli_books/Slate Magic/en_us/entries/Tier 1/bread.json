@@ -1,0 +1,18 @@
+{
+    "name": "Wheat Alteration",
+    "icon": "minecraft:bread",
+    "category": "Tier 1",
+    "pages": [
+		{
+			"type": "slate_altar_T1",
+			"title": "Wheat Alteration",
+			"input1": "minecraft:coal",
+			"block": "minecraft:hay_block",
+			"output": "minecraft:bread#5"
+		},
+		{
+            "type": "text",
+			"text": "One of the most efficient ways of baking bread is through the use of a slate altar. This way of making bread requires 1 bale of wheat and results in 5 loaves of bread instead of 3, although it requires an extra piece of coal."
+        }
+    ]
+}

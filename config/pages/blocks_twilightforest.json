@@ -1,0 +1,851 @@
+[
+    {
+        "mod_id": "twilightforest",
+        "block_id": "twilight_log",
+        "sub_id": "3",
+        "symbol_id": "block_log_darkwood",
+        "word": "Tools",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "dark"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "twilight_log",
+        "sub_id": "2",
+        "symbol_id": "block_log_mangrove",
+        "word": "Tools",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "mangrove"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "twilight_log",
+        "sub_id": "1",
+        "symbol_id": "block_log_canopy_tree",
+        "word": "Tools",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "canopy"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "twilight_log",
+        "sub_id": "0",
+        "symbol_id": "block_log_twilight_oak",
+        "word": "Tools",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "oak"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "root",
+        "sub_id": "1",
+        "symbol_id": "block_liveroots",
+        "word": "Tools",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "liveroot"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "root",
+        "sub_id": "0",
+        "symbol_id": "block_roots",
+        "word": "Tools",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "root"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "twilight_leaves",
+        "sub_id": "2",
+        "symbol_id": "block_leaves_rainbow_oak",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "rainboak"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "twilight_leaves",
+        "sub_id": "2",
+        "symbol_id": "block_leaves_mangrove",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "mangrove"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "twilight_leaves",
+        "sub_id": "1",
+        "symbol_id": "block_leaves_canopy_tree",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "canopy"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "twilight_leaves",
+        "sub_id": "0",
+        "symbol_id": "block_leaves_twilight_oak",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "oak"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "maze_stone",
+        "sub_id": "0",
+        "symbol_id": "block_mazestone",
+        "word": "Tools",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "plain"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "hedge",
+        "sub_id": "0",
+        "symbol_id": "block_hedge",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "hedge"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "magic_log",
+        "sub_id": "3",
+        "symbol_id": "block_log_sortingwood",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "sort"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "magic_log",
+        "sub_id": "2",
+        "symbol_id": "block_log_minewood",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "mine"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "magic_log",
+        "sub_id": "1",
+        "symbol_id": "block_log_transwood",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "trans"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "magic_log",
+        "sub_id": "0",
+        "symbol_id": "block_log_timewood",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "time"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "magic_leaves",
+        "sub_id": "2",
+        "symbol_id": "block_leaves_sorting",
+        "word": "Tools",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "sort"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "magic_leaves",
+        "sub_id": "2",
+        "symbol_id": "block_leaves_miners",
+        "word": "Tools",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "mine"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "magic_leaves",
+        "sub_id": "1",
+        "symbol_id": "block_leaves_transformation",
+        "word": "Tools",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "trans"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "magic_leaves",
+        "sub_id": "0",
+        "symbol_id": "block_leaves_timewood",
+        "word": "Tools",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "time"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "tower_wood",
+        "sub_id": "0",
+        "symbol_id": "block_planks_towerwood",
+        "word": "Tools",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "plain"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "aurora_block",
+        "symbol_id": "block_aurora",
+        "word": "Tools",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "underbrick",
+        "sub_id": "0",
+        "symbol_id": "block_underbrick",
+        "word": "Tools",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "normal"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "deadrock",
+        "sub_id": "solid",
+        "symbol_id": "block_deadrock",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "solid"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "dark_leaves",
+        "symbol_id": "block_leaves_darkwood",
+        "word": "Tools",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "wispy_cloud",
+        "symbol_id": "block_cloud_wispy",
+        "word": "Tools",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSea",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "fluffy_cloud",
+        "symbol_id": "block_cloud_fluffy",
+        "word": "Tools",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockSea",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "castle_brick",
+        "sub_id": "0",
+        "symbol_id": "block_castle_brick",
+        "word": "Tools",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "normal"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "twilightforest",
+        "block_id": "auroralized_glass",
+        "symbol_id": "block_glass_auroralized",
+        "word": "Tools",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 3
+            }
+        ]
+    }
+]

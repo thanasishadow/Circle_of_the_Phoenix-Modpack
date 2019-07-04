@@ -1,0 +1,47 @@
+
+{
+  "ID": 150,
+  "Name": "Limbo",
+  "Resource Location": "dimdoors:limbo",
+  "Class": "org.dimdev.dimdoors.shared.world.limbo.BiomeLimbo",
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "minecraft:grass[snowy\u003dfalse]",
+  "Filler Block": "minecraft:dirt[snowy\u003dfalse,variant\u003ddirt]",
+  "Ocean Top Block": "minecraft:gravel",
+  "Ocean Filler Block": "minecraft:stone[variant\u003dstone]",
+  "Actual Filler Blocks": [
+    "minecraft:stone[variant\u003dstone]"
+  ],
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "0",
+  "Temperature": 0.5,
+  "Humidity": 0.0,
+  "Water Tint": 0,
+  "Enable Rain": false,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "VOID"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "org.dimdev.dimdoors.shared.entities.EntityMonolith",
+      "Weight": 100,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "me.suff.angels.common.entities.EntityWeepingAngel",
+      "Weight": 50,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

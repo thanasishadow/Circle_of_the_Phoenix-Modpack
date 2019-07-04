@@ -1,0 +1,230 @@
+[
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "charged_quartz_ore",
+        "symbol_id": "block_charged_certus_quartz_ore",
+        "word": "Energistics",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 2.0,
+        "instability_exposed": 10.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "quartz_ore",
+        "symbol_id": "block_certus_quartz_ore",
+        "word": "Energistics",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "chiseled_quartz_block",
+        "symbol_id": "block_chiseled_certus_quartz",
+        "word": "Energistics",
+        "loot_weight": 6,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 2.0,
+        "instability_exposed": 10.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "fluix_block",
+        "symbol_id": "block_fluix",
+        "word": "Energistics",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            }
+        ],
+        "instability_base": 2.0,
+        "instability_exposed": 10.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "quartz_block",
+        "symbol_id": "block_certus_quartz",
+        "word": "Energistics",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 2.0,
+        "instability_exposed": 10.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "quartz_glass",
+        "symbol_id": "block_quartz_glass",
+        "word": "Energistics",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "quartz_pillar",
+        "symbol_id": "block_certus_quartz_pillar",
+        "word": "Energistics",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 2.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "quartz_vibrant_glass",
+        "symbol_id": "block_quartz_vibrant_glass",
+        "word": "Energistics",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 6.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "sky_stone_block",
+        "symbol_id": "block_sky_stone",
+        "word": "Energistics",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 2.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "sky_stone_brick",
+        "symbol_id": "block_sky_stone_brick",
+        "word": "Energistics",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 2.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "sky_stone_small_brick",
+        "symbol_id": "block_sky_stone_small_brick",
+        "word": "Energistics",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 2.0
+    },
+    {
+        "mod_id": "appliedenergistics2",
+        "block_id": "smooth_sky_stone_block",
+        "symbol_id": "block_smooth_sky_stone",
+        "word": "Energistics",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 2.0
+    }
+]

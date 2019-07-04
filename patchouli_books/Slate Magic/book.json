@@ -1,0 +1,8 @@
+{
+	"name": "The Power of Slate",
+	"landing_text": "Slate is a common type of stone but do not let its mundane appearance fool you. This kind of stone can channel small quantities of magic into blocks.$(br)A single block of slate is not nearly powerful enough to give meaningful results but a ring made of them with the help of an item is.",
+	"book_texture": "patchouli:textures/gui/book_gray.png",
+	"model": "patchouli:book_gray",
+	"show_progress": false,
+	"version": 2
+}

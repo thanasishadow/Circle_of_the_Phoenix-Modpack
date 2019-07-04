@@ -1,0 +1,28 @@
+{
+    "name": "Basic Slate Altar",
+    "icon": "rustic:slate_chiseled",
+	"sortnum": 1,
+    "category": "Multiblocks",
+    "pages": [
+        {
+            "type": "text",
+            "text": "The construction of a Basic Slate Altar requires just 12 blocks.$(br)$(br)$(li)4 Slate Tiles$(li)4 Chiseled Slate$(li)4 Totem Torch"
+        },
+		{
+            "type": "multiblock",
+            "name": "Basic Slate Altar",
+			"multiblock": {
+				"pattern": [
+					["T T", "   ", "T T"], 
+					["CSC", "S0S", "CSC"]
+				],
+				"mapping": {
+					"S": "rustic:slate_tile",
+					"C": "rustic:slate_chiseled",
+					"T": "totemic:totem_torch"
+				},
+				"symmetrical": true
+			}
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+setIcon(<minecraft:wooden_axe>)
+setTitle("Making life easier")
+setDescription("Tree trunks seem harder than usual")
+setPos(3, -2)
+addParent("triumph:Overworld/Get_Wood")
+drawDirectLines(true)
+criteria = addCriteria("craftWoodenAxe", "triumph:player_crafted_item")
+criteria.setItem(<minecraft:wooden_axe>)

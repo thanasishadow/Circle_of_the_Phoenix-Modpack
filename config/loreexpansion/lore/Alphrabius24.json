@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Alphrabius1",
+    "category": "global"
+  },
+  "content": {
+    "title": "24th April (Alphrabius)",
+    "body": "[…] something malicious is lingering among […]",
+    "autoplay": true
+  },
+  "sortingIndex": 19,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

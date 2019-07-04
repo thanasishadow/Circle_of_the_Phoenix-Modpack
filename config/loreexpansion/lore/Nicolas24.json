@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Nicolas1",
+    "category": "global"
+  },
+  "content": {
+    "title": "24th April (Nicolas)",
+    "body": "[…] mortals have already proved themselves with all the discoveries they have made. […] although I have my concerns about […].",
+    "autoplay": true
+  },
+  "sortingIndex": 7,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

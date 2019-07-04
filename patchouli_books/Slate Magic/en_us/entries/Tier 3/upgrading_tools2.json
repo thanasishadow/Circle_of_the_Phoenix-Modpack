@@ -1,0 +1,32 @@
+{
+    "name": "Tool Material Alteration (M)",
+    "icon": "botania:elementiumpick",
+    "category": "Tier 3",
+    "pages": [
+		{
+			"type": "slate_altar_T3",
+			"title": "Tool Material Alteration (M)",
+			"input1": "minecraft:stone_pickaxe",
+			"block": "contenttweaker:upgrade_rune_manasteel",
+			"output": "botania:manasteelpick"
+		},
+		{
+			"type": "slate_altar_T3",
+			"title": "Tool Material Alteration (M)",
+			"input1": "botania:manasteelpick",
+			"block": "contenttweaker:upgrade_rune_elementium",
+			"output": "botania:elementiumpick"
+		},
+		{
+			"type": "slate_altar_T3",
+			"title": "Tool Material Alteration (M)",
+			"input1": "botania:manasteelpick",
+			"block": "contenttweaker:upgrade_rune_terrasteel",
+			"output": "botania:terrapick"
+		},
+        {
+            "type": "text",
+            "text": "Just like altering tools with common materials, the same is possible with manasteel, elementium and terrasteel."
+        }
+    ]
+}

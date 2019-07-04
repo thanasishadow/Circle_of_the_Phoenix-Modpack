@@ -1,0 +1,8 @@
+setIcon(<minecraft:iron_pickaxe>)
+setTitle("Upgrading... again")
+setDescription("From stone to iron")
+setPos(10, 0)
+addParent("triumph:Overworld/Get_Stone_Pickaxe")
+drawDirectLines(true)
+criteria = addCriteria("getIronPick", "minecraft:inventory_changed")
+criteria.addItem(<minecraft:iron_pickaxe>)

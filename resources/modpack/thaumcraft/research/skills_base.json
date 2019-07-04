@@ -1,0 +1,24 @@
+{
+    "entries" :[
+        {
+			"key": "SKILLS_BASE",  
+			"name": "Skills",           
+			"icons": [ "contenttweaker:textures/items/skill_orb_brewing.png", "contenttweaker:textures/items/skill_orb_cosmomancy.png", "contenttweaker:textures/items/skill_orb_druidry.png", "contenttweaker:textures/items/skill_orb_hemomancy.png", "contenttweaker:textures/items/skill_orb_tinkering.png" ],
+			"category": "SKILLS", 
+			"location": [ 0,0 ],
+			"parents": [], 
+			"siblings": [],
+			"meta": [ "ROUND","SPIKY","AUTOUNLOCK" ],
+        
+			"stages": [
+                {
+                    "text": "research.skills.base.1"
+                },
+                {
+                    "text": "research.skills.base.2"
+                }
+            ]
+        }
+    ]
+}
+    

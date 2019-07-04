@@ -1,0 +1,836 @@
+[
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "ore",
+        "sub_id": "uranium",
+        "symbol_id": "block_ore_uranium",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "uranium"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 5.0,
+        "instability_exposed": 50.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "ore",
+        "sub_id": "nickel",
+        "symbol_id": "block_ore_nickel",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "nickel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "ore",
+        "sub_id": "silver",
+        "symbol_id": "block_ore_silver",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "silver"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 2.0,
+        "instability_exposed": 10.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "ore",
+        "sub_id": "lead",
+        "symbol_id": "block_ore_lead",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "lead"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "ore",
+        "sub_id": "aluminum",
+        "symbol_id": "block_ore_aluminum",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "aluminum"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "ore",
+        "sub_id": "copper",
+        "symbol_id": "block_ore_copper",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "copper"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "storage",
+        "sub_id": "steel",
+        "symbol_id": "block_steel",
+        "word": "Engineering",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "steel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 20.0,
+        "instability_exposed": 200.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "storage",
+        "sub_id": "electrum",
+        "symbol_id": "block_electrum",
+        "word": "Engineering",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "electrum"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 15.0,
+        "instability_exposed": 150.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "storage",
+        "sub_id": "constantan",
+        "symbol_id": "block_constantan",
+        "word": "Engineering",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "constantan"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "storage",
+        "sub_id": "uranium",
+        "symbol_id": "block_uranium",
+        "word": "Engineering",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "uranium"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 30.0,
+        "instability_exposed": 300.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "storage",
+        "sub_id": "nickel",
+        "symbol_id": "block_nickel",
+        "word": "Engineering",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "nickel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "storage",
+        "sub_id": "silver",
+        "symbol_id": "block_silver",
+        "word": "Engineering",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "silver"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 20.0,
+        "instability_exposed": 200.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "storage",
+        "sub_id": "lead",
+        "symbol_id": "block_lead",
+        "word": "Engineering",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "lead"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 15.0,
+        "instability_exposed": 150.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "storage",
+        "sub_id": "aluminum",
+        "symbol_id": "block_aluminum",
+        "word": "Engineering",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "aluminum"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "storage",
+        "sub_id": "copper",
+        "symbol_id": "block_copper",
+        "word": "Engineering",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "type",
+                "value": "copper"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 10.0,
+        "instability_exposed": 100.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "stone_decoration",
+        "sub_id": "insulating_glass",
+        "symbol_id": "block_insulating_glass",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "insulating_glass"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 2.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "stone_decoration",
+        "sub_id": "concrete",
+        "symbol_id": "block_concrete",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "concrete"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "stone_decoration",
+        "sub_id": "hempcrete",
+        "symbol_id": "block_hempcrete",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "hempcrete"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "stone_decoration",
+        "sub_id": "coke",
+        "symbol_id": "block_coal_coke",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "coke"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "stone_decoration",
+        "sub_id": "blastbrick_reinforced",
+        "symbol_id": "block_blast_brick_reinforced",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "blastbrick_reinforced"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 3.0,
+        "instability_exposed": 9.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "stone_decoration",
+        "sub_id": "blastbrick",
+        "symbol_id": "block_blast_brick",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "blastbrick"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 2.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "stone_decoration",
+        "sub_id": "cokebrick",
+        "symbol_id": "block_coke_brick",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "cokebrick"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "treated_wood",
+        "sub_id": "horizontal",
+        "symbol_id": "block_treated_wood",
+        "word": "Engineering",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "type",
+                "value": "horizontal"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instablity_exposed": 3.0
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "gold",
+        "symbol_id": "block_sheetmetal_gold",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "gold"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "iron",
+        "symbol_id": "block_sheetmetal_iron",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "iron"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "steel",
+        "symbol_id": "block_sheetmetal_steel",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "steel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "electrum",
+        "symbol_id": "block_sheetmetalelectrum",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "electrum"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "constantan",
+        "symbol_id": "block_sheetmetal_constantan",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "constantan"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "uranium",
+        "symbol_id": "block_sheetmetal_uranium",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "uranium"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "nickel",
+        "symbol_id": "block_sheetmetal_nickel",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "nickel"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "silver",
+        "symbol_id": "block_sheetmetal_silver",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "silver"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "lead",
+        "symbol_id": "block_sheetmetal_lead",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "lead"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "aluminum",
+        "symbol_id": "block_sheetmetal_aluminum",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "aluminum"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "immersiveengineering",
+        "block_id": "sheetmetal",
+        "sub_id": "copper",
+        "symbol_id": "block_sheetmetal_copper",
+        "word": "Engineering",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "type",
+                "value": "copper"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    }
+]

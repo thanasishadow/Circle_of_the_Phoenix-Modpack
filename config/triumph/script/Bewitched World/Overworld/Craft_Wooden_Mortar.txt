@@ -1,0 +1,8 @@
+setIcon(<advancedmortars:mortar>)
+setTitle("Crushing Stuff")
+setDescription("Might be useful")
+setPos(5, 1)
+addParent("triumph:Overworld/Craft_Door")
+drawDirectLines(true)
+criteria = addCriteria("craftWoodenMortar", "triumph:player_crafted_item")
+criteria.setItem(<advancedmortars:mortar>)

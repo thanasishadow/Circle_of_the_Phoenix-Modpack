@@ -1,0 +1,235 @@
+{
+	"priority": 1,
+	"populate": {
+	
+		"ashcharcoal": {
+
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:ash_charcoal_ore",
+				"material": "contenttweaker:ash_block",
+				"cluster-size": 30
+			},
+			"cluster-count": 9,
+			"min-height": 0,
+			"max-height": 100,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		"iron": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "geode",
+				"crust": "minecraft:cobblestone",
+				"block": [
+					{
+						"name": "iron_ore",
+						"weight": 45
+					},
+					{
+						"name": "minecraft:cobblestone",
+						"weight": 65
+					}
+				],
+				"material": "minecraft:stone",
+			},
+			"cluster-count": 4,
+			"min-height": 20,
+			"max-height": 70,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+
+		"gold": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "geode",
+				"crust": "minecraft:obsidian",
+				"block": [
+					{
+						"name": "tconstruct:molten_gold",
+						"weight": 30
+					},
+					{
+						"name": "minecraft:obsidian",
+						"weight": 70
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 2
+			},
+			"cluster-count": 1,
+			"chunk-chance": 5,
+			"min-height": 0,
+			"max-height": 30,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		
+		"redstone": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": "redstone_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 40
+			},
+			"cluster-count": 1,
+			"min-height": 5,
+			"max-height": 30,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+
+		"lapis": {
+			"distribution": "gaussian",
+			"generator": {
+				"type": "large-vein",
+				"block": [
+					{
+						"name": "lapis_ore",
+						"weight": 80
+					},
+					{
+						"name": "gold_ore",
+						"weight": 15
+					},
+					{
+						"name": "minecraft:monster_egg",
+						"weight": 10
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 30
+			},
+			"cluster-count": 1,
+			"center-height": 40,
+			"smoothness": 5,
+			"spread": 15,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		
+		"obsidian ore": {
+			"distribution": "gaussian",
+			"generator": {
+				"type": "large-vein",
+				"block": [
+					{
+						"name": "simplygems:oreobsidian",
+						"weight": 70
+					},
+					{
+						"name": "obsidian",
+						"weight": 25
+					},
+					{
+						"name": "lava",
+						"weight": 5
+					}
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 40
+			},
+			"cluster-count": 1,
+			"center-height": 27,
+			"smoothness": 12,
+			"spread": 8,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+		
+		"history": {
+
+			"distribution": "uniform",
+			"generator": {
+				"block": "contenttweaker:history_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 5
+			},
+			"cluster-count": 1,
+			"min-height": 0,
+			"max-height": 20,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		},
+
+		"silverfish": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "monster_egg",
+					"properties": {
+						"variant": "stone"
+					}
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 9
+			},
+			"cluster-count": 7,
+			"min-height": 0,
+			"max-height": 64,
+			"retrogen": false,
+			"biome": {
+				"restriction": "whitelist",
+				"value": [
+					{
+						"type": "id",
+						"entry": [
+							"extreme_hills",
+							"smaller_extreme_hills",
+							"extreme_hills_with_trees",
+							"mutated_extreme_hills",
+							"mutated_extreme_hills_with_trees"
+						]
+					}
+				]
+			},
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+		}
+	}
+}

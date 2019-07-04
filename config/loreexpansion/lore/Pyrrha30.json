@@ -1,0 +1,17 @@
+{
+  "key": {
+    "id": "Pyrrha6",
+    "category": "global"
+  },
+  "content": {
+    "title": "30th April (Pyrrha)",
+    "body": "[…] Today, I woke up in my bed but the last thing I remember is visiting Nicolas. How strange […]",
+    "autoplay": true
+  },
+  "sortingIndex": 18,
+  "requirements": [],
+  "autoAdd": false,
+  "defaultLore": false,
+  "trigger": null,
+  "action": null
+}

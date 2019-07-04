@@ -1,0 +1,6 @@
+{
+	"name": "Tier 1 Alternations",
+	"description": "Block alterations which can be achieved with a Basic Slate Altar",
+	"icon": "rustic:slate_chiseled",
+	"sortnum": 1
+}

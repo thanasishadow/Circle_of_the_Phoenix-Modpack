@@ -1,0 +1,2823 @@
+[
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "ash_block",
+        "symbol_id": "block_ash",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "bamboo_thatching",
+        "symbol_id": "block_bamboo_thatching",
+        "word": "Plenty",
+        "loot_weight": 5,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "biome_block",
+        "symbol_id": "block_biome",
+        "word": "Plenty",
+        "loot_weight": 5,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "crystal",
+        "symbol_id": "block_crystal",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 2.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "dried_sand",
+        "symbol_id": "block_dried_sand",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockTerrain",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "flesh",
+        "symbol_id": "block_flesh",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "hard_ice",
+        "symbol_id": "block_hard_ice",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockSea",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "honey_block",
+        "symbol_id": "block_honey",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 5
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 2.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "mud",
+        "symbol_id": "block_mud",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "mud"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "mud_brick_block",
+        "symbol_id": "block_mud_brick",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "white_sand",
+        "symbol_id": "block_white_sand",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "categories": [
+            {
+                "category_id": "BlockSea",
+                "weight": 4
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "dirt",
+        "symbol_id": "block_sandy_dirt",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "sandy"
+            },
+            {
+                "id": "coarse",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "dirt",
+        "symbol_id": "block_coarse_sandy_dirt",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "sandy"
+            },
+            {
+                "id": "coarse",
+                "value": "true"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "dirt",
+        "symbol_id": "block_silty_dirt",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "silty"
+            },
+            {
+                "id": "coarse",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "dirt",
+        "symbol_id": "block_coarse_silty_dirt",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "silty"
+            },
+            {
+                "id": "coarse",
+                "value": "true"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "dirt",
+        "symbol_id": "block_loamy_dirt",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "loamy"
+            },
+            {
+                "id": "coarse",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "dirt",
+        "symbol_id": "block_coarse_loamy_dirt",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "loamy"
+            },
+            {
+                "id": "coarse",
+                "value": "true"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_block",
+        "symbol_id": "block_gem_amber",
+        "word": "Plenty",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "amber"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 9.0,
+        "instability_exposed": 45.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_block",
+        "symbol_id": "block_gem_sapphire",
+        "word": "Plenty",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "sapphire"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 9.0,
+        "instability_exposed": 45.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_block",
+        "symbol_id": "block_gem_malachite",
+        "word": "Plenty",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "malachite"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 9.0,
+        "instability_exposed": 45.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_block",
+        "symbol_id": "block_gem_tanzanite",
+        "word": "Plenty",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "tanzanite"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 9.0,
+        "instability_exposed": 45.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_block",
+        "symbol_id": "block_gem_topaz",
+        "word": "Plenty",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "topaz"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 9.0,
+        "instability_exposed": 45.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_block",
+        "symbol_id": "block_gem_peridot",
+        "word": "Plenty",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "peridot"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 9.0,
+        "instability_exposed": 45.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_block",
+        "symbol_id": "block_gem_ruby",
+        "word": "Plenty",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "ruby"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 9.0,
+        "instability_exposed": 45.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_block",
+        "symbol_id": "block_gem_amethyst",
+        "word": "Plenty",
+        "loot_weight": 6,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "amethyst"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 6
+            },
+            {
+                "category_id": "BlockCrystal",
+                "weight": 6
+            }
+        ],
+        "instability_base": 9.0,
+        "instability_exposed": 45.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_ore",
+        "symbol_id": "block_ore_amber",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "amber"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_ore",
+        "symbol_id": "block_ore_sapphire",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "sapphire"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_ore",
+        "symbol_id": "block_ore_malachite",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "malachite"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_ore",
+        "symbol_id": "block_ore_tanzanite",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "tanzanite"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_ore",
+        "symbol_id": "block_ore_topaz",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "topaz"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_ore",
+        "symbol_id": "block_ore_peridot",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "peridot"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_ore",
+        "symbol_id": "block_ore_ruby",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "ruby"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "gem_ore",
+        "symbol_id": "block_ore_amethyst",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "amethyst"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            }
+        ],
+        "instability_base": 1.0,
+        "instability_exposed": 5.0
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "grass",
+        "symbol_id": "block_mycelial_netherrack",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "mycelial_netherrack"
+            },
+            {
+                "id": "snowy",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "grass",
+        "symbol_id": "block_flowering_grass",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "daisy"
+            },
+            {
+                "id": "snowy",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "grass",
+        "symbol_id": "block_overgrown_netherrack",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "overgrown_netherrack"
+            },
+            {
+                "id": "snowy",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "grass",
+        "symbol_id": "block_origin_grass",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "origin"
+            },
+            {
+                "id": "snowy",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "grass",
+        "symbol_id": "block_silty_grass",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "silty"
+            },
+            {
+                "id": "snowy",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "grass",
+        "symbol_id": "block_sandy_grass",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "sandy"
+            },
+            {
+                "id": "snowy",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "grass",
+        "symbol_id": "block_loamy_grass",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "loamy"
+            },
+            {
+                "id": "snowy",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "grass",
+        "symbol_id": "block_overgrown_stone",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "overgrown_stone"
+            },
+            {
+                "id": "snowy",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "grass",
+        "symbol_id": "block_spectral_moss",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "spectral_moss"
+            },
+            {
+                "id": "snowy",
+                "value": "false"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "hive",
+        "symbol_id": "block_hive",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "hive"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "hive",
+        "symbol_id": "block_empty_honeycomb",
+        "word": "Plenty",
+        "loot_weight": 4,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "empty_honeycomb"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 5
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_6",
+        "symbol_id": "block_giant_red_flower_petal",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "red_big_flower"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_6",
+        "symbol_id": "block_giant_yellow_flower_petal",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "yellow_big_flower"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_5",
+        "symbol_id": "block_eucalyptus_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "eucalyptus"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_5",
+        "symbol_id": "block_ebony_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "ebony"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_5",
+        "symbol_id": "block_mahogany_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "mahogany"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_5",
+        "symbol_id": "block_pine_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "pine"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_4",
+        "symbol_id": "block_willow_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "willow"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_4",
+        "symbol_id": "block_redwood_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "redwood"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_4",
+        "symbol_id": "block_palm_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "palm"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_4",
+        "symbol_id": "block_mangrove_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "mangrove"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_3",
+        "symbol_id": "block_sacred_oak_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "sacred_oak"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_3",
+        "symbol_id": "block_jacaranda_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "jacaranda"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_3",
+        "symbol_id": "block_flowering_oak_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "flowering"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_3",
+        "symbol_id": "block_hellbark_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "hellbark"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_2",
+        "symbol_id": "block_maple_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "maple"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_2",
+        "symbol_id": "block_white_cherry_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "white_cherry"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_2",
+        "symbol_id": "block_pick_cherry_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "pink_cherry"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_2",
+        "symbol_id": "block_origin_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "origin"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_1",
+        "symbol_id": "block_ethereal_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "ethereal"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_1",
+        "symbol_id": "block_fir_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "fir"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_1",
+        "symbol_id": "block_dead_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "dead"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_1",
+        "symbol_id": "block_umbran_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "umbran"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_0",
+        "symbol_id": "block_magic_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "magic"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_0",
+        "symbol_id": "block_bamboo_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "bamboo"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_0",
+        "symbol_id": "block_orange_autumn_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "orange_autumn"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "leaves_0",
+        "symbol_id": "block_yellow_autumn_leaves",
+        "word": "Plenty",
+        "loot_weight": 3,
+        "properties": [
+            {
+                "id": "check_decay",
+                "value": "false"
+            },
+            {
+                "id": "decayable",
+                "value": "false"
+            },
+            {
+                "id": "variant",
+                "value": "yellow_autumn"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockStructure",
+                "weight": 2
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_0",
+        "symbol_id": "block_fir_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "fir"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_0",
+        "symbol_id": "block_umbran_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "umbran"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_0",
+        "symbol_id": "block_cherry_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "cherry"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_0",
+        "symbol_id": "block_sacred_oak_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "sacred_oak"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_1",
+        "symbol_id": "block_palm_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "palm"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_1",
+        "symbol_id": "block_mangrove_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "mangrove"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_1",
+        "symbol_id": "block_magic_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "magic"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_1",
+        "symbol_id": "block_ethereal_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "ethereal"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_2",
+        "symbol_id": "block_hellbark_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "hellbark"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_2",
+        "symbol_id": "block_pine_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "pine"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_2",
+        "symbol_id": "block_willow_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "willow"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_2",
+        "symbol_id": "block_redwood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "redwood"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_3",
+        "symbol_id": "block_eucalyptus_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "eucalyptus"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_3",
+        "symbol_id": "block_ebony_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "ebony"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_3",
+        "symbol_id": "block_mahogany_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "mahogany"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_3",
+        "symbol_id": "block_jacaranda_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "jacaranda"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_4",
+        "symbol_id": "block_dead_wood_log",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "dead"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "log_4",
+        "symbol_id": "block_giant_flower_stem",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "axis",
+                "value": "y"
+            },
+            {
+                "id": "variant",
+                "value": "giant_flower"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 1
+            },
+            {
+                "category_id": "BlockOrganic",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_eucalyptus_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "eucalyptus"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_ebony_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "ebony"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_mahogany_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "mahogany"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_jacaranda_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "jacaranda"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_hellbark_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "hellbark"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_pine_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "pine"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_willow_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "willow"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_redwood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "redwood"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_palm_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "palm"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_mangrove_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "mangrove"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_magic_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "magic"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_ethereal_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "ethereal"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_fir_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "fir"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_umbran_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "umbran"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_cherry_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "cherry"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "planks_0",
+        "symbol_id": "block_sacred_oak_wood_planks",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "sacred_oak"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 2
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "mod_id": "biomesoplenty",
+        "block_id": "white_sandstone",
+        "symbol_id": "block_white_sandstone",
+        "word": "Plenty",
+        "loot_weight": 2,
+        "properties": [
+            {
+                "id": "variant",
+                "value": "default"
+            }
+        ],
+        "categories": [
+            {
+                "category_id": "BlockSolid",
+                "weight": 3
+            },
+            {
+                "category_id": "BlockStructure",
+                "weight": 4
+            },
+            {
+                "category_id": "BlockTerrain",
+                "weight": 3
+            }
+        ]
+    }
+]

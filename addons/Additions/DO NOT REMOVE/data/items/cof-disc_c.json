@@ -1,0 +1,8 @@
+{
+  "name": "§dMusic Disc",
+  "shines": true,
+  "max_stack": 1,
+  "music": "additions:cof-artefatto_vita",
+  "description": "§5artefatto vita",
+  "type": "additions:record"
+}

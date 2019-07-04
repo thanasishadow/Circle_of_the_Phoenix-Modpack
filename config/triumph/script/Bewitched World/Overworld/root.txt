@@ -1,0 +1,8 @@
+setIcon(<minecraft:egg>)
+setTitle("[1] A new beginning")
+setDescription("Something seems different...")
+setBackground("minecraft:textures/gui/advancements/backgrounds/grass.png")
+setShowToast(false)
+setAnnounceToChat(false)
+setPos(23,20)
+addCriteria("location", "minecraft:location")

@@ -1,0 +1,18 @@
+{
+    "name": "Flesh Alteration",
+    "icon": "minecraft:leather",
+    "category": "Tier 1",
+    "pages": [
+		{
+			"type": "slate_altar_T1",
+			"title": "Flesh Alteration",
+			"input1": "inspirations:dyed_bottle:15",
+			"block": "thaumcraft:flesh_block",
+			"output": "minecraft:leather#5"
+		},
+        {
+            "type": "text",
+            "text": "Usually one will find themselves with a large amount of flesh that reeks of rot while severely lacking in pieces of leather.$(br2)A simple slate altar has the power to turn things around. Although is is not by any means the most efficient way of doing this, it is an option.$(br2)Doing such a thing is simple."
+        }
+    ]
+}

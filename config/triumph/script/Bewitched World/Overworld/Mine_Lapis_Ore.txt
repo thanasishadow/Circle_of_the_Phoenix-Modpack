@@ -1,0 +1,8 @@
+setIcon(<minecraft:lapis_ore>)
+setTitle("Mine Lapis")
+setDescription("Doesn't do much... yet")
+setPos(8, 2)
+addParent("triumph:Overworld/Get_Stone_Pickaxe")
+drawDirectLines(true)
+criteria = addCriteria("mineLapis", "triumph:player_harvest_block")
+criteria.setBlock(<minecraft:lapis_ore>)
